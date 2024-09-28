@@ -12,16 +12,16 @@ https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="Tamil",Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1  tvg-id="20" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" tvg-chno="20" group-title="Tamil",Vijay Tukker
-https://rolextv.asia:443/23421/23421/112097
+http://wildversion.com:80/live/111222/111222/792673.ts
 #EXTINF:-1  tvg-id="19" tvg-logo="https://yt3.googleusercontent.com/GogtPg4CT7a5Eaqeb84xxeWyVDkxgtrNoMc2UFROZAQVUD9xhh4wMT9AD4R8u9JfTs3otufK1pM=s160-c-k-c0x00ffffff-no-rj" tvg-chno="19" group-title="Tamil",Rasi Music HD
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
 #EXTINF:-1  tvg-id="170" tvg-logo="https://play-lh.googleusercontent.com/SO21gFEjtQ5trIQ38ciPb7l8igp_RQezq9tvbH_TJg7BUGkjGrhmfZHPA_GhgfhMps0=w240-h480-rw" tvg-chno="170" group-title="Tamil",One Movie
 https://ipcloud.live/onetv/onemovies/index.m3u8
 #EXTINF:-1  tvg-id="11" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-chno="1111" group-title="Tamil",Zee Thirai SD
 http://extraott.com:80/4183813400/7514985385/187369
-#EXTINF:-1  tvg-id="91" tvg-logo="https://i.ibb.co/3FB5qdz/Zee-Thirai-HD-Logo.webp" tvg-chno="11" group-title="Tamil",Zee Thirai FHD
+#EXTINF:-1  tvg-id="91" tvg-logo="https://i.ibb.co/3FB5qdz/Zee-Thirai-HD-Logo.webp" tvg-chno="11" group-title="Tamil",Zee Thirai HD
 http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/100171.ts
-#EXTINF:-1  tvg-id="16" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-chno="16" group-title="Tamil",Zee Tamil FHD
+#EXTINF:-1  tvg-id="16" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-chno="16" group-title="Tamil",Zee Tamil HD
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1  tvg-id="41" tvg-logo="https://tatalogo.pages.dev/341.png" tvg-chno="41" group-title="Knowledge",Discovery HD World
 https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
@@ -40,15 +40,15 @@ http://extraott.com:80/4183813400/7514985385/400159789
 #EXTINF:-1  tvg-id="48" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" tvg-chno="51" group-title="Movie",One Hollywood HD
 https://ipcloud.live/onetv/onehollywood/index.m3u8
 #EXTINF:-1  tvg-id="52" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="52" group-title="Movie",Sony Pix HD
-http://119.156.26.155:8000/play/a07d/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=7852&deviceMac=00:1A:79:CC:56:3B
 #EXTINF:-1  tvg-id="53" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" tvg-chno="53" group-title="Movie",&flix
 http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/96274.ts
 #EXTINF:-1  tvg-id="51" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now.png" tvg-chno="54" group-title="Movies",Movies Now HD
-http://d4k4u.com:2082/play/live.php?mac=00:1A:79:63:3C:D2&stream=277314&extension=ts
+http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=7852&deviceMac=00:1A:79:CC:56:3B
 #EXTINF:-1  tvg-id="49" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" tvg-chno="55" group-title="Movie",Star Movies
-http://119.156.26.155:8000/play/a06p/index.m3u8
+http://sansat.net:88/live/02029727163269/HLzTNH41jpLM7SF/93668.ts
 #EXTINF:-1  tvg-id="50" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" tvg-chno="56" group-title="Movie",Star Movies Select
-http://119.156.26.155:8000/play/a06q/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=7852&deviceMac=00:1A:79:CC:56:3B
 #EXTINF:-1  tvg-id="51" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="Movies",HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1  tvg-id="54" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" tvg-chno="57" group-title="Movie",&prive HD
@@ -100,7 +100,7 @@ http://119.156.26.155:8000/play/a06a/index.m3u8
 #EXTINF:-1  tvg-id="79" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="Tamil Backup",Kalaingar HD
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1  tvg-id="80" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_tv_in.png" tvg-chno="222" group-title="Tamil Backup",Sun TV FHD
-http://d4k4u.com:2082/play/live.php?mac=00:1A:79:63:3C:D2&stream=598758&extension=ts
+http://wildversion.com:80/live/111222/111222/792667.ts
 #EXTINF:-1  tvg-id="81" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_tv_in.png" tvg-chno="223" group-title="Tamil Backup",Sun TV SD
 http://217.20.112.199/suntv/index.m3u8
 #EXTINF:-1  tvg-id="82" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kondattam_tv.png" tvg-chno="333" group-title="Tamil Backup",KTV SD
