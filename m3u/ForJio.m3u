@@ -61,8 +61,6 @@ http://cord-cutter.net:8080/live/95549031/69361122/119434.ts
 http://cord-cutter.net:8080/live/95549031/69361122/119436.ts
 #EXTINF:-1  tvg-id="58" tvg-logo="https://seeklogo.com/images/B/Blockbuster_Video-logo-291EA47398-seeklogo.com.png" tvg-chno="62" group-title="Movie",Blockbuster Movies
 http://cord-cutter.net:8080/live/95549031/69361122/119421.ts
-#EXTINF:-1  tvg-id="59" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="63" group-title="Movie",Animation Movies
-http://cord-cutter.net:8080/live/95549031/69361122/119420.ts
 #EXTINF:-1  tvg-id="62" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_chutti_tv_in.png" tvg-chno="81" group-title="Kids",Chutti TV
 http://sansat.net:88/02029727163269/HLzTNH41jpLM7SF/100108
 #EXTINF:-1  tvg-id="63" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png" tvg-chno="83" group-title="Kids",Discovery Kids Tamil SD
@@ -94,7 +92,7 @@ http://119.156.26.155:8000/play/a06a/index.m3u8
 #EXTINF:-1  tvg-id="79" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="Tamil Backup",Kalaingar HD
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1  tvg-id="80" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_tv_in.png" tvg-chno="222" group-title="Tamil Backup",Sun TV FHD
-http://wildversion.com:80/live/111222/111222/792483.ts
+http://ktv.im:8080/1234512345/1234512345/82906
 #EXTINF:-1  tvg-id="81" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_tv_in.png" tvg-chno="223" group-title="Tamil Backup",Sun TV SD
 http://217.20.112.199/suntv/index.m3u8
 #EXTINF:-1  tvg-id="82" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kondattam_tv.png" tvg-chno="333" group-title="Tamil Backup",KTV SD
@@ -177,8 +175,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=89846&uid=3623&deviceMac=00:1A:79:03:
 http://tv.cloudcdn.me:80/live.ts?channelId=89881&uid=3623&deviceMac=00:1A:79:03:ED:4F
 #EXTINF:-1  tvg-id="76" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dd-tamil-in.png" tvg-chno="77" group-title="Tamil Backup",DD Tamil SD
 https://rolextv.asia:443/112233/112233/12961
-#EXTINF:-1  tvg-id="77" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m-nadu-tv-in.png" tvg-chno="79" group-title="Tamil Backup",M Nadu News SD
-https://player.mslivestream.net//mslive//48be4c2542b56ac026c0e25dfe5b2f25.sdp//playlist.m3u8
 #EXTINF:-1  tvg-id="78" tvg-logo="https://yt3.googleusercontent.com/DwdsM0L1UjNdTnztj_6sYJS7DT3E4_VNHnXVEbR42CmyK5uwQjJj7uDrYVk7GN5Ry4OrEk0XnA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="80" group-title="Tamil Backup",Thanthi one SD
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 #EXTINF:-1  tvg-id="189" tvg-logo="https://play-lh.googleusercontent.com/GpP7fx3D7WauJEGYJkj8lJGuRVE3m5IqTKDqK74HIRhk2M_Hg49TSwlcP_oUUPKEt8ij=w240-h480-rw" tvg-chno="189" group-title="Cable TV",Advik TV
@@ -227,6 +223,8 @@ http://ebbsr.com/tamizhatvhls/tamizhatv.m3u8
 http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="166" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w240-h480-rw" tvg-chno="166" group-title="Cable TV",Surya TV
 https://galaxyott.live/hls/suryatv.m3u8
+#EXTINF:-1  tvg-id="113" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w240-h480-rw" tvg-chno="113" group-title="Cable TV",Suryan TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1  tvg-id="190" tvg-logo="https://play-lh.googleusercontent.com/02P9VZ6N__M9qmvjlT1JB3yHyFVQ5vrXQHVUPvnqmw9HhSavqSs3_Sp-xuqMMFO1_W8=w240-h480-rw" tvg-chno="190" group-title="Cable TV",Yogaa TV
 https://ipcloud.live/yogaatv/yogaatv/index.m3u8
 #EXTINF:-1  tvg-id="121" tvg-logo="https://www.lyngsat.com/logo/tv/aa/athavan-tv-uk.png" tvg-chno="121" group-title="Cable TV",Athavan TV
@@ -301,11 +299,3 @@ https://ipcloud.live/abinayatv/abinayatv/index.m3u8
 http://198.144.149.206:8080/NOTV/ANANDAMTV/index.m3u8?token=GTR
 #EXTINF:-1  tvg-id="185" tvg-logo="https://play-lh.googleusercontent.com/GVoRtd6VqDuFrwlSYcxIobahLe8DCAyQU4n7GvG4eUQtMaQnPyJukMBXseGo9YmRkQY=w240-h480-rw" tvg-chno="185" group-title="Cable TV",Malathi TV
 https://ipcloud.live/malathitv/live/index.m3u8
-#EXTINF:-1  tvg-id="24" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="68" group-title="Cable TV",Tamil Movies 11
-http://xsmarters.top:8080/live/0455/0455/301492.ts
-#EXTINF:-1  tvg-id="25" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="69" group-title="Cable TV",Tamil Movies 12
-http://xsmarters.top:8080/live/0455/0455/301493.ts
-#EXTINF:-1  tvg-id="26" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="70" group-title="Cable TV",Tamil Movies 13
-http://xsmarters.top:8080/live/0455/0455/301494.ts
-#EXTINF:-1  tvg-id="27" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="71" group-title="Cable TV",Tamil Movies 14
-http://xsmarters.top:8080/live/0455/0455/301495.ts
