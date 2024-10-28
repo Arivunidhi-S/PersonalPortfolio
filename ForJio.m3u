@@ -1,0 +1,85 @@
+﻿#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1  tvg-id="1" tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288240842877_sun-music-hd.png" tvg-chno="6" group-title="Tamil",Sun Music HD
+http://watchindia.net:8880/live/14045/34798/844.ts
+#EXTINF:-1  tvg-id="2" tvg-logo="https://tatalogo.pages.dev/647.png" tvg-chno="8" group-title="Tamil",Isaiaruvi SD
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1  tvg-id="3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_adithya.png" tvg-chno="9" group-title="Tamil",Adithya TV
+http://watchindia.net:8880/live/14045/34798/855.ts
+#EXTINF:-1  tvg-id="4" tvg-logo="https://pbs.twimg.com/profile_images/1349586759038894080/ZZASPgzQ_400x400.jpg" tvg-chno="12" group-title="Tamil",Vijay Super HD
+https://tgaadi-web.tech/trex.php?tv=155875
+#EXTINF:-1  tvg-id="5" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_chithiram.png" tvg-chno="18" group-title="Tamil",Kalaingar Chithiram
+https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1  tvg-id="6" tvg-logo="https://www.lyngsat.com/logo/tv/num/7s_music.png" tvg-chno="19" group-title="Tamil",7s Music
+https://tgaadi-web.tech/trex.php?tv=155881
+#EXTINF:-1  tvg-id="7" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-vijay-takkar-hk.png" tvg-chno="20" group-title="Tamil",Vijay Takkar
+http://filex.tv:8080/live/white1122/dolphin3344/288590.ts
+#EXTINF:-1  tvg-id="8" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_news_in.png" tvg-chno="22" group-title="Tamil",Sun News
+http://watchindia.net:8880/live/14045/34798/869.ts
+#EXTINF:-1  tvg-id="9" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66-j5ff8qio-v1/imageContent-66-j5ff8qio-m1.png" tvg-chno="24" group-title="Tamil",News 7
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1  tvg-id="10" tvg-logo="https://tatalogo.pages.dev/524.png" tvg-chno="25" group-title="Tamil",Thanthi TV SD
+https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8
+#EXTINF:-1  tvg-id="11" tvg-logo="https://play-lh.googleusercontent.com/EL-PIWQHg54iqJRo11SNf-wsNX3vEkDcAbrMdNjCo1i0Rx1seYrlka2W8cvHS9zXm8U=w240-h480-rw" tvg-chno="26" group-title="Tamil",Zee Tamil News
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+#EXTINF:-1  tvg-id="12" tvg-logo="https://www.lyngsat.com/logo/tv/pp/puthuyugam-tv-in.png" tvg-chno="37" group-title="Tamil",Puthuyugam
+http://sansat.net:88/02029727163269/HLzTNH41jpLM7SF/100142
+#EXTINF:-1  tvg-id="4" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" tvg-chno="122" group-title="Tamil",Vijay Super SD
+http://watchindia.net:8880/live/14045/34798/2190.ts
+#EXTINF:-1  tvg-id="13" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" tvg-chno="51" group-title="Movie",One Hollywood HD
+rtmp://1cloud.digital:1935/onetv/onehollywood
+#EXTINF:-1  tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/%26flix_logo.png" tvg-chno="54" group-title="Movie",&filx
+https://js.toxicify-pro.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1  tvg-id="15" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" tvg-chno="55" group-title="Movie",Star Movies
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=4898&deviceMac=00:1A:79:4D:0B:67
+#EXTINF:-1  tvg-id="16" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg/revision/latest?cb=20200114142317" tvg-chno="56" group-title="Movie",Star Movies Select
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=4898&deviceMac=00:1A:79:4D:0B:67
+#EXTINF:-1  tvg-id="17" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/%26privé_hd.jpg/revision/latest?cb=20200906062328" tvg-chno="57" group-title="Movie",&prive HD
+http://gzrqxpw.mexamo.xyz:80/live/1002378585/7057806128/387755.ts
+#EXTINF:-1  tvg-id="23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/AstroVellithiraiHD.png/revision/latest?cb=20220415220347" tvg-chno="66" group-title="Tamil Movies",Astro Vellithirai
+http://b1g.ooo:80/live/1133557799/1133557799/726126.ts
+#EXTINF:-1  tvg-id="24" tvg-logo="https://tatalogo.pages.dev/666.png" tvg-chno="67" group-title="Tamil Movies",Tata Sky Tamil Cinema
+http://sansat.net:88/02029727163269/HLzTNH41jpLM7SF/100159
+#EXTINF:-1  tvg-id="25" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="68" group-title="Tamil Movies",Tamil Movies 11
+http://xtv.ooo:8080/9474/9474/301492
+#EXTINF:-1  tvg-id="26" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="69" group-title="Tamil Movies",Tamil Movies 12
+http://xtv.ooo:8080/9474/9474/301493
+#EXTINF:-1  tvg-id="27" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="70" group-title="Tamil Movies",Tamil Movies 13
+http://xtv.ooo:8080/9474/9474/301494
+#EXTINF:-1  tvg-id="28" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="71" group-title="Tamil Movies",Tamil Movies 14
+http://xtv.ooo:8080/9474/9474/301495
+#EXTINF:-1  tvg-id="29" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="73" group-title="Tamil Movies",Tamil Movies 15
+http://starshare.live:8080//irfan/irfan/242778
+#EXTINF:-1  tvg-id="30" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="74" group-title="Tamil Movies",Tamil Movies 16
+http://b1g.ooo:80/live/1133557799/1133557799/385185.ts
+#EXTINF:-1  tvg-id="31" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="75" group-title="Tamil Movies",Tamil Movies 17
+http://b1g.ooo:80/live/1133557799/1133557799/385186.ts
+#EXTINF:-1  tvg-id="32" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="76" group-title="Tamil Movies",Tamil Movies 18
+http://b1g.ooo:80/live/1133557799/1133557799/385187.ts
+#EXTINF:-1  tvg-id="33" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="77" group-title="Tamil Movies",Tamil Movies 19
+http://b1g.ooo:80/live/1133557799/1133557799/385188.ts
+#EXTINF:-1  tvg-id="34" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="78" group-title="Tamil Movies",Tamil Movies 20
+http://b1g.ooo:80/live/1133557799/1133557799/385189.ts
+#EXTINF:-1  tvg-id="74" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_tunes.png" tvg-chno="151" group-title="Tamil",MK Tunes
+http://xtv.ooo:8080/359052742/470428329/244621
+#EXTINF:-1  tvg-id="75" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in.png" tvg-chno="152" group-title="Tamil",MK TV
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/MK_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1  tvg-id="75" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in.png" tvg-chno="153" group-title="Tamil",MK Six
+http://starshare.live:8080/irfan/irfan/37453
+#EXTINF:-1  tvg-id="78" tvg-logo="https://www.lyngsat.com/logo/tv/ii/ibc_tamil_uk_tv.png" tvg-chno="158" group-title="Tamil",IBC Tamil TV
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5894.ts
+#EXTINF:-1  tvg-id="79" tvg-logo="https://www.lyngsat.com/logo/tv/ii/ibc_tamil_uk_tv.png" tvg-chno="158" group-title="Tamil",IBC Tamil Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1  tvg-id="80" tvg-logo="https://www.lyngsat.com/logo/tv/ii/ibc-comedy-uk.png" tvg-chno="157" group-title="Tamil",IBC Pagadi
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1  tvg-id="81" tvg-logo="https://www.lyngsat.com/logo/tv/ii/ibc-music-uk.png" tvg-chno="159" group-title="Tamil",IBC Music
+https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="82" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vasantham-tv-lk.svg" tvg-chno="160" group-title="Tamil",Vasantham TV
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+#EXTINF:-1  tvg-id="82" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vaanavil-my.png" tvg-chno="161" group-title="Tamil",Astro Vanavil
+http://xtv.ooo:8080/359052742/470428329/352092
+#EXTINF:-1  tvg-id="98" tvg-logo="https://play-lh.googleusercontent.com/WJlB6p-WvngFd5qMHEbBO_T9R23LFa1iTLnOOPnZLS8ZZ2YvflDqzsZT-fsDA40_-Q=w240-h480-rw" tvg-chno="411" group-title="Tamil",Vikatan TV SD
+http://tv.cloudcdn.me:80/live.ts?channelId=123917&uid=3326&deviceMac=00:1A:79:31:34:27
+#EXTINF:-1  tvg-id="98" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnkP7U6inFNcutEfjfAo3IJ_Koog_O2r1okn5ev4IfRdts4nS1RLx9I0b5kA&s" tvg-chno="444" group-title="Tamil",Tunes 6
+https://js.toxicify-pro.workers.dev/bpk-tv/Tunes_6_MOB/Fallback/index.m3u8
+#EXTINF:-1  tvg-id="99" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-tamil-24x7-in.png" tvg-chno="433" group-title="Tamil",News Tamil 24x7 HD
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/News_Tamil_24x7_MOB/Fallback/index.m3u8
