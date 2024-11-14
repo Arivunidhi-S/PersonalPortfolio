@@ -1,18 +1,18 @@
 ﻿#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1  tvg-id="4" tvg-logo="https://i.ibb.co/vQjFt6g/Vijaytv.png" tvg-chno="4" group-title="Tamil",Star Vijay HD
-http://line.4k-beast.co:80/live/70:2A:D5:6E:55:52/4CC77F/63494.ts
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=3384
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="Tamil",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="Tamil",Sirippoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1  tvg-id="12" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="12" group-title="Tamil",Vijay Super HD
-http://line.4k-beast.co:80/live/70:2A:D5:6E:55:52/4CC77F/63531.ts
+http://watchindia.net:8880/live/80817/80817/2190.ts
 #EXTINF:-1  tvg-id="26" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="26" group-title="Tamil",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="Tamil",Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1  tvg-id="20" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" tvg-chno="20" group-title="Tamil",Vijay Takkar
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1441507
+https://rolextv.asia:443/12345/54321/112097
 #EXTINF:-1  tvg-id="20" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" tvg-chno="20" group-title="Tamil",Astro Vellithirai
 http://defaultgen.com:3050/live/joeljohnson530%40gmail.com/sSxEL8xqsz/605275.ts
 #EXTINF:-1  tvg-id="18" tvg-logo="https://yt3.googleusercontent.com/GogtPg4CT7a5Eaqeb84xxeWyVDkxgtrNoMc2UFROZAQVUD9xhh4wMT9AD4R8u9JfTs3otufK1pM=s160-c-k-c0x00ffffff-no-rj" tvg-chno="18" group-title="Tamil",Rasi Music HD
@@ -22,7 +22,7 @@ https://ipcloud.live/onetv/onemovies/index.m3u8
 #EXTINF:-1  tvg-id="20" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" tvg-chno="20" group-title="Tamil",One Hollywood HD
 https://ipcloud.live/onetv/onehollywood/index.m3u8
 #EXTINF:-1  tvg-id="91" tvg-logo="https://i.ibb.co/3FB5qdz/Zee-Thirai-HD-Logo.webp" tvg-chno="11" group-title="Tamil",Zee Thirai HD
-http://line.4k-beast.co:80/live/70:2A:D5:6E:55:52/4CC77F/112776.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=78824&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1  tvg-id="16" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-chno="16" group-title="Tamil",Zee Tamil HD
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1  tvg-id="41" tvg-logo="https://tatalogo.pages.dev/341.png" tvg-chno="41" group-title="Knowledge",Discovery HD World
@@ -59,8 +59,20 @@ http://cord-cutter.net:8080/live/95549031/69361122/119420.ts
 http://cord-cutter.net:8080/hq3y4G/234247/119434
 #EXTINF:-1  tvg-id="59" tvg-logo="https://play-lh.googleusercontent.com/wH53tiEqxfmetaweLb922iJnTk-t3Vrkuu1B6A6Gh8ESPwhFbRWU85_1OVWzDr4NEDE=w240-h480-rw" tvg-chno="62" group-title="Movie",24×7 Mystery Movies
 http://cord-cutter.net:8080/hq3y4G/234247/119431
+#EXTINF:-1  tvg-id="60" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Astro_Jackie_Chan.png/revision/latest?cb=20211120151553" tvg-chno="63" group-title="Movie",Jackie Chan Movies
+http://portal.skytv4k.org:8080/live/rIH8RnqlWk/yWvV7sF5if/118439.ts
 #EXTINF:-1  tvg-id="62" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_chutti_tv_in.png" tvg-chno="81" group-title="Kids",Chutti TV
 http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=13433&deviceMac=00:1A:79:00:97:A1
+#EXTINF:-1  tvg-id="144" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="86" group-title="Tamil Movies",Tamil Movies11
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=475478
+#EXTINF:-1  tvg-id="145" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="87" group-title="Tamil Movies",Tamil Movies 12
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=475474
+#EXTINF:-1  tvg-id="146" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="89" group-title="Tamil Movies",Tamil Movies 13
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=475475
+#EXTINF:-1  tvg-id="147" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="90" group-title="Tamil Movies",Tamil Movies 14
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=475476
+#EXTINF:-1  tvg-id="146" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="89" group-title="Tamil Movies",Tamil Movies 15
+https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=3607
 #EXTINF:-1  tvg-id="18" tvg-logo="https://i.ibb.co/WK1WwvW/Chithiram-tv-logo.png" tvg-chno="18" group-title="Tamil",Kalaingar Chithiram SD
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2884.ts
 #EXTINF:-1  tvg-id="69" tvg-logo="https://i.ibb.co/KqKNgSz/Mega-Musiq.webp" tvg-chno="69" group-title="Tamil",Mega TV
@@ -80,7 +92,7 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2791.t
 #EXTINF:-1  tvg-id="80" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_tv_in.png" tvg-chno="222" group-title="Tamil Backup",Sun TV FHD
 http://ktv.im:8080/1234512345/1234512345/82906
 #EXTINF:-1  tvg-id="81" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_tv_in.png" tvg-chno="223" group-title="Tamil Backup",Sun TV SD
-http://newlife3.wanicelife.com:8880/live/D12m1834/22925265/71036.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=43421&uid=3623&deviceMac=00:1A:79:03:ED:4F
 #EXTINF:-1  tvg-id="82" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kondattam_tv.png" tvg-chno="333" group-title="Tamil Backup",KTV SD
 http://tv.cloudcdn.me:80/live.ts?channelId=89824&uid=3623&deviceMac=00:1A:79:03:ED:4F
 #EXTINF:-1  tvg-id="84" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kondattam_tv.png" tvg-chno="335" group-title="Tamil Backup",KTV FHD
@@ -88,7 +100,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=3623&deviceMac=00:1A:79:03:
 #EXTINF:-1  tvg-id="85" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-vijay-in.png" tvg-chno="444" group-title="Tamil Backup",Star Vijay FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:-1  tvg-id="87" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jaya_in_tv.png" tvg-chno="556" group-title="Tamil Backup",Jaya TV FHD
-http://line.4k-beast.co:80/live/70:2A:D5:6E:55:52/4CC77F/63318.ts 
+http://tv.cloudcdn.me:80/live.ts?channelId=43517&uid=3623&deviceMac=00:1A:79:03:ED:4F
 #EXTINF:-1  tvg-id="88" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" tvg-chno="666" group-title="Tamil Backup",Sun Music FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=43420&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:-1  tvg-id="89" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" tvg-chno="667" group-title="Tamil Backup",Sun Music SD
@@ -98,11 +110,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=43410&uid=3623&deviceMac=00:1A:79:03:
 #EXTINF:-1  tvg-id="11" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-chno="1111" group-title="Tamil Backup",Zee Thirai SD
 http://extraott.com:80/9976612136/9725477748/187369
 #EXTINF:-1  tvg-id="92" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" tvg-chno="122" group-title="Tamil Backup",Vijay Super FHD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/63531
+http://kotopro.ottc.pro:80/BB6GXVVLCZ/SWAEHZINWK/2719
 #EXTINF:-1  tvg-id="94" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jaya_in_movie.png" tvg-chno="133" group-title="Tamil Backup",Jaya Movies SD
 http://tv.cloudcdn.me:80/live.ts?channelId=85933&uid=3623&deviceMac=00:1A:79:03:ED:4F
 #EXTINF:-1  tvg-id="16" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tamizh-in.png" tvg-chno="16" group-title="Tamil Backup",Zee Tamil SD
 http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=4898&deviceMac=00:1A:79:4D:0B:67
+#EXTINF:-1  tvg-id="15" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" tvg-chno="15" group-title="Tamil Backup",Colors Tamil FHD 2
+https://live.drmlive-02.workers.dev/jc/429.m3u8
 #EXTINF:-1  tvg-id="15" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" tvg-chno="15" group-title="Tamil Backup",Colors Tamil FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=43408&uid=4898&deviceMac=00:1A:79:4D:0B:67
 #EXTINF:-1  tvg-id="17" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polimer_in_tv.png" tvg-chno="17" group-title="Tamil Backup",Polimer TV SD
@@ -191,8 +205,6 @@ https://stream.sscloud7.in/live/ntv/index.m3u8
 http://livematrix.in/sangamamtv/sangamamtv.m3u8
 #EXTINF:-1  tvg-id="113" tvg-logo="https://yt3.googleusercontent.com/JvqUDu2Y9Uzz2gRqXQkkVJJt9wvJtJDB09y3mm-zWGYRkQ-udNipg3_wyXhHVjt-uNTGekYT=s160-c-k-c0x00ffffff-no-rj" tvg-chno="113" group-title="Cable TV",Irattaipaathai TV
 http://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
-#EXTINF:-1  tvg-id="114" tvg-logo="https://play-lh.googleusercontent.com/7wuFN6-6wlZTZtyn-TOqOvUHRe59niiblxKtDP52AMjEnkfVygUWjICcgupqeeWvWd8=w240-h480-rw" tvg-chno="114" group-title="Cable TV",Star HD TV
-http://applelive.in/startv/startv.m3u8
 #EXTINF:-1  tvg-id="115" tvg-logo="https://play-lh.googleusercontent.com/f56sWGrWUV1yj6dslEbjuQ2aNlHusiyTm4gYrm4AFHTvE5lB7b1BI2mi0Y-bISn_eOdM=w240-h480-rw" tvg-chno="115" group-title="Cable TV",Aaryaa TV
 http://aaryaa.sscloud7.in:1935/live/aaryaatv/playlist.m3u8
 #EXTINF:-1  tvg-id="116" tvg-logo="https://play-lh.googleusercontent.com/s-RbbvVKnvs2sIOh0SM7IQ4wRARD0ah7TKGK-eXhlNFwWghtsNDmExZJGKN6mQv9gk4p=w240-h480-rw" tvg-chno="116" group-title="Cable TV",APS TV
@@ -233,6 +245,8 @@ https://tll.atrprasath.workers.dev/hari_VhfXu?id=16
 https://ipcloud.live/yogaatv/yogaatv/index.m3u8
 #EXTINF:-1  tvg-id="134" tvg-logo="https://www.lyngsat.com/logo/tv/aa/athavan-tv-uk.png" tvg-chno="134" group-title="Cable TV",Athavan TV
 https://tll-local.okmthiru04.workers.dev/athavantv
+#EXTINF:-1  tvg-id="188" tvg-logo="https://play-lh.googleusercontent.com/rXgRs8Q1_vQ6O_cxEZYlfZYNGgY9Q03ZK_iNtALU2BgMmfQ7U4yR4NmLl_uFffU-eGvh=w240-h480-rw" tvg-chno="188" group-title="Cable TV",Athavan Colours TV
+https://ipcloud.live/adhavan/colours/index.m3u8
 #EXTINF:-1  tvg-id="135" tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg=w240-h480-rw" tvg-chno="135" group-title="Cable TV",Jeyam TV
 https://ipcloud.live/jayamtv/jayamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="136" tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg=w240-h480-rw" tvg-chno="136" group-title="Cable TV",Jeyam Plus
