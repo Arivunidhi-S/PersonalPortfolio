@@ -5,10 +5,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132400&uid=13433&deviceMac=00:1A:79:0
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1 Tamil",Sirippoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1  tvg-id="11" tvg-logo="https://i.ibb.co/TbcXbz0/Rasi-Cinema.png" tvg-chno="18" group-title="1 Tamil",Rasi Cinema HD
-http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
-#EXTINF:-1  tvg-id="12" tvg-logo="https://i.ibb.co/DRG97CS/Rasi-Cinimax.png" tvg-chno="18" group-title="1 Tamil",Rasi Cinemax HD
-http://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac/media.m3u8
 #EXTINF:-1  tvg-id="26" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="26" group-title="1 Tamil",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1 Tamil",Murasu TV
@@ -17,8 +13,6 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
 #EXTINF:-1  tvg-id="19" tvg-logo="https://play-lh.googleusercontent.com/GpP7fx3D7WauJEGYJkj8lJGuRVE3m5IqTKDqK74HIRhk2M_Hg49TSwlcP_oUUPKEt8ij=w240-h480-rw" tvg-chno="199" group-title="1 Tamil",Agam TV
 http://stream.vstartv.org/p/3674/hybrid/play.m3u8
-#EXTINF:-1  tvg-id="19" tvg-logo="https://play-lh.googleusercontent.com/jzbM6msuulcguWO8yfhZb9I0gGXF3gecHY0fULSQkuTDa6PP-b727XZydKgKhKLSPf57=w240-h480-rw" tvg-chno="199" group-title="1 Tamil",JO TV
-https://live-hz-6.livepush.io/live/emNfk3cy3ofsyPHl/chunks.m3u8
 #EXTINF:-1  tvg-id="16" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" tvg-chno="16" group-title="1 Tamil",Zee Tamil HD
 http://tv.cloudcdn.me/live.ts?channelId=43423&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1  tvg-id="41" tvg-logo="https://tatalogo.pages.dev/341.png" tvg-chno="41" group-title="2 Knowledge",Discovery HD World
@@ -55,6 +49,8 @@ http://cord-cutter.net:8080/live/95549031/69361122/119420.ts
 http://cord-cutter.net:8080/hq3y4G/234247/119434
 #EXTINF:-1  tvg-id="59" tvg-logo="https://play-lh.googleusercontent.com/wH53tiEqxfmetaweLb922iJnTk-t3Vrkuu1B6A6Gh8ESPwhFbRWU85_1OVWzDr4NEDE=w240-h480-rw" tvg-chno="62" group-title="3 Movies",24×7 Mystery Movies
 http://cord-cutter.net:8080/hq3y4G/234247/119431
+#EXTINF:-1  tvg-id="60" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Astro_Jackie_Chan.png/revision/latest?cb=20211120151553" tvg-chno="63" group-title="3 Movies",Jackie Chan Movies
+http://fortv.cc:8080/live/70453597/56651433/215378.ts
 #EXTINF:-1  tvg-id="62" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_chutti_tv_in.png" tvg-chno="81" group-title="4 Kids",Chutti TV
 http://tv.cloudcdn.me:80/live.ts?channelId=78855&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1  tvg-id="144" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/597849b3-82dc-4e3b-ac65-fb47229d31c5/1181426403/tamil-movies-tv-logo" tvg-chno="86" group-title="Tamil Movies",Tamil Movies11
@@ -189,6 +185,12 @@ http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
 #EXTINF:-1  tvg-id="104" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" tvg-chno="104" group-title="Cable TV",Rasi Hollywood
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
+#EXTINF:-1  tvg-id="11" tvg-logo="https://i.ibb.co/TbcXbz0/Rasi-Cinema.png" tvg-chno="18" group-title="Cable TV",Rasi Cinema HD
+http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
+#EXTINF:-1  tvg-id="12" tvg-logo="https://i.ibb.co/DRG97CS/Rasi-Cinimax.png" tvg-chno="18" group-title="Cable TV",Rasi Cinemax HD
+http://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac/media.m3u8
+#EXTINF:-1  tvg-id="115" tvg-logo="https://i.ibb.co/BCR9wJy/Rasi-Action.png" tvg-chno="115" group-title="Cable TV",Rasi Action
+http://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac/media.m3u8
 #EXTINF:-1  tvg-id="105" tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg" tvg-chno="105" group-title="Cable TV",Rasi comedy TV
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
 #EXTINF:-1  tvg-id="106" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" tvg-chno="106" group-title="Cable TV",Rasi Classic
@@ -207,10 +209,10 @@ https://galaxyott.live/hls/ntv.m3u8
 https://stream.sscloud7.in/live/ntv/index.m3u8
 #EXTINF:-1  tvg-id="112" tvg-logo="https://play-lh.googleusercontent.com/0kjEBW1xBMIyNI7VdRt--OmVuCQow1uYS90EZvRrKOkKoqUWWOjI0yv2JBNkZmxPnFw=w240-h480-rw" tvg-chno="113" group-title="Cable TV",Sangamam TV
 http://livematrix.in/sangamamtv/sangamamtv.m3u8
+#EXTINF:-1  tvg-id="19" tvg-logo="https://play-lh.googleusercontent.com/jzbM6msuulcguWO8yfhZb9I0gGXF3gecHY0fULSQkuTDa6PP-b727XZydKgKhKLSPf57=w240-h480-rw" tvg-chno="199" group-title="Cable TV",JO TV
+https://live-hz-6.livepush.io/live/emNfk3cy3ofsyPHl/chunks.m3u8
 #EXTINF:-1  tvg-id="114" tvg-logo="https://play-lh.googleusercontent.com/Hx6cQRx20H6qt-FUEsb_mF0oEWZDmlQpdrCp3bSWsZkTeNOUxB5Bdr5kYW1MLCTrrw=w240-h480-rw" tvg-chno="114" group-title="Cable TV",Emperor TV
-http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
-#EXTINF:-1  tvg-id="115" tvg-logo="https://i.ibb.co/BCR9wJy/Rasi-Action.png" tvg-chno="115" group-title="Cable TV",Rasi Action
-http://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac/media.m3u8
+https://rtmp.bmlive.net/bms/emperortv/index.m3u8
 #EXTINF:-1  tvg-id="116" tvg-logo="https://play-lh.googleusercontent.com/5btL_rqwAHbmk7FbZTHMxtjhemefL5mT5XpsbFEkq9EA8Ky8CGcIPqNX-DHHFc0i1Q=w240-h480-rw" tvg-chno="116" group-title="Cable TV",PCV TV
 http://pcvtv.sscloud7.com/live/livepcv/index.m3u8
 #EXTINF:-1  tvg-id="117" tvg-logo="https://play-lh.googleusercontent.com/6fJKLLRZXEDhWnIBgoDtrq-HNXyPBcuHGSO7oSrWvXZed5jSJPOuGzLg3A-DgdHaRPg=w240-h480-rw" tvg-chno="117" group-title="Cable TV",Rock TV
