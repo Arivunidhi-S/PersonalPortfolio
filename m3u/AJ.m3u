@@ -32,11 +32,11 @@ http://extraott.com:80/9976612136/9725477748/400159789
 #EXTINF:-1  tvg-id="48" tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" tvg-chno="51" group-title="3 Movies",One Hollywood HD
 https://stream.onecloudlive.in/onetv/onehollywood/index.m3u8
 #EXTINF:-1  tvg-id="52" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="52" group-title="3 Movies",Sony Pix HD
-https://fifabd.xyz/OPLLX/play.m3u8?id=66224
+http://119.156.26.155:8000/play/a07d/index.m3u8
 #EXTINF:-1  tvg-id="49" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" tvg-chno="55" group-title="3 Movies",Star Movies
-https://fifabd.xyz/OPLLX/play.m3u8?id=66315
-#EXTINF:-1  tvg-id="50" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" tvg-chno="56" group-title="3 Movies",Star Movies Select
 http://livetvbox.live:8080/live/19781978/19781978/979.ts
+#EXTINF:-1  tvg-id="50" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" tvg-chno="56" group-title="3 Movies",Star Movies Select
+http://livetvbox.live:8080/live/19781978/19781978/218.ts
 #EXTINF:-1  tvg-id="51" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1  tvg-id="53" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" tvg-chno="53" group-title="3 Movies",&flix
@@ -179,12 +179,6 @@ http://tv.indigotv.me/live.ts?channelId=89881&uid=7245&deviceMac=00:1A:79:4A:02:
 https://rolextv.asia:443/112233/112233/12961
 #EXTINF:-1  tvg-id="77" tvg-logo="https://yt3.googleusercontent.com/DwdsM0L1UjNdTnztj_6sYJS7DT3E4_VNHnXVEbR42CmyK5uwQjJj7uDrYVk7GN5Ry4OrEk0XnA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="77" group-title="Tamil Backup",Thanthi one SD
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
-#EXTINF:-1  tvg-id="522" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="522" group-title="Backup",Sony Pix HD 5.1
-http://119.156.26.155:8000/play/a07d/index.m3u8
-#EXTINF:-1  tvg-id="555" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" tvg-chno="555" group-title="Backup",Star Movies HD
-http://livetvbox.live:8080/live/19781978/19781978/218.ts
-#EXTINF:-1  tvg-id="566" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" tvg-chno="566" group-title="Backup",Star Movies Select HD
-http://livetvbox.live:8080/live/19781978/19781978/979.ts
 #EXTINF:-1  tvg-id="101" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" tvg-chno="101" group-title="Cable TV",Rasi TV
 http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
 #EXTINF:-1  tvg-id="102" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" tvg-chno="102" group-title="Cable TV",Rasi Tamil
