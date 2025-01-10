@@ -237,7 +237,7 @@ https://stream.sscloud7.in/live/tamiltv/index.m3u8
 https://tll.atrprasath.workers.dev/hari_VhfXu?id=22
 #EXTINF:-1  tvg-id="136" tvg-logo="https://eyetamil.tv/stream/Live-Streaming-Poster.jpg" tvg-chno="136" group-title="Cable TV",Sahara HD TV
 https://ipcloud.live/saharatv/saharatv/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2540950,AVERAGE-BANDWIDTH=2750000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="program_audio" tvg-id="137" tvg-logo="https://play-lh.googleusercontent.com/G2nh5y27BxL7cAbC7aIwUWl4ot-miOz_Rao4Xr1cxDAK7_ZBRg10J9ZRnhANMkODMA=w240-h480-rw" tvg-chno="137" group-title="Cable TV",7 Star TV
+#EXTINF:-1 BANDWIDTH=2540950,AVERAGE-BANDWIDTH=2750000 CODECS="avc1.4d401f,mp4a.40.2" RESOLUTION=1280x720 FRAME-RATE=29.970 AUDIO="program_audio" tvg-id="137" tvg-logo="https://play-lh.googleusercontent.com/G2nh5y27BxL7cAbC7aIwUWl4ot-miOz_Rao4Xr1cxDAK7_ZBRg10J9ZRnhANMkODMA=w240-h480-rw" tvg-chno="137" group-title="Cable TV",7 Star TV
 http://7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1  tvg-id="138" tvg-logo="https://play-lh.googleusercontent.com/y-pFUyQeeRsrbarchrvmS-0I4PDeRseeiVmFyHCNr1Zk0G7903fX2RF3D-PZvgEK6e4=w240-h480-rw" tvg-chno="138" group-title="Cable TV",Rio TV
 http://xstream.onecloudlive.in:8080/hls/riotvhd/index.m3u8
