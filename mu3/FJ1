@@ -22,7 +22,7 @@ http://sqemtdq.mant2021.xyz:900/live/9503368143/5030100149/355375.ts
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1  tvg-id="200" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" tvg-chno="20" group-title="Tamizh",Astro Vellithirai
-http://sqemtdq.mant2021.xyz:900/live/9503368143/5030100149/12305.ts
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1052413
 #EXTINF:-1  tvg-id="201" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Makkal_TV.png" tvg-chno="21" group-title="Tamizh",Mega TV
 http://udigitalott.ridsys.in/riptv/live/stream38/index.m3u8
 #EXTINF:-1  tvg-id="202" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_24.png" tvg-chno="22" group-title="Tamizh",Mega 24
@@ -50,6 +50,8 @@ http://38.76.152.22:8000/play/a021/index.m3u8
 #EXTINF:-1  tvg-id="56" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" tvg-chno="56" group-title="3 Movies",Star Movies Select
 http://38.76.152.22:8000/play/a020/index.m3u8
 #EXTINF:-1  tvg-id="58" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO
+ http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:-1  tvg-id="58" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO+
 http://kstv.us:8080/live/jgarcia31/224178522/46635.ts
 #EXTINF:-1  tvg-id="71" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" tvg-chno="71" group-title="3 Movies",MN+ HD
 http://udigitalott.ridsys.in/riptv/live/stream92/index.m3u8
@@ -125,7 +127,7 @@ http://sqemtdq.mant2021.xyz:900/live/9503368143/5030100149/400159597.ts
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400159597.ts
 #EXTINF:-1  tvg-id="123" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super FHD 3
 http://phdown.serv00.net/Smartv.php?id=vijaysuper_raj
-#EXTINF:-1  tvg-id="124" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" tvg-chno="124" group-title="BackupTamizh",Vijay Super Astro
+#EXTINF:-1  tvg-id="124" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="124" group-title="BackupTamizh",Vijay Super Astro
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=831
 #EXTINF:-1  tvg-id="133" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jaya_in_movie.png" tvg-chno="133" group-title="BackupTamizh",Jaya Movies SD
 http://zkbvzkj.megahdtv.xyz:80/live/1103581436/4099381829/187101.ts
@@ -485,3 +487,9 @@ http://udigitalott.ridsys.in/riptv/live/stream78/index.m3u8
 http://udigitalott.ridsys.in/riptv/live/stream84/index.m3u8
 #EXTINF:-1  tvg-id="356" tvg-logo="https://play-lh.googleusercontent.com/y1RWFC2tfgT5cydVjCaO4qs-xyGGufG7p30q5dVWgB3oe4Rxnq1YN7cDlRvoxew65m4=s64-rw" tvg-chno="356" group-title="Cable TV",Usilai 2 TV
 http://udigitalott.ridsys.in/riptv/live/stream77/index.m3u8
+#EXTINF:-1  tvg-id="357" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/150px-UTV_2016.svg.png" tvg-chno="357" group-title="Cable TV",U TV Anantham
+http://udigitalott.ridsys.in/riptv/live/stream76/index.m3u8
+#EXTINF:-1  tvg-id="358" tvg-logo="https://play-lh.googleusercontent.com/-Bss7jKqj79hSC4ObMvjcVUY7u4Uyy6kGSba9oyfbpBpVKAM81alyaKjXR1BB70JCqM=s64-rw" tvg-chno="358" group-title="Cable TV",Butterfly TV
+http://udigitalott.ridsys.in/riptv/live/stream87/index.m3u8
+#EXTINF:-1  tvg-id="359" tvg-logo="https://play-lh.googleusercontent.com/mzfXmIiUaAcPIBujFkJ37QYol10gO9RTSqWOzkXbwHewXol6htgVrktyG5nYyl2HyNQZ=s64-rw" tvg-chno="359" group-title="Cable TV",Jaguar TV
+http://udigitalott.ridsys.in/riptv/live/stream89/index.m3u8
