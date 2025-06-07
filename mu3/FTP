@@ -17,7 +17,7 @@ http://nonamevos.com:80/live/billy1/billy1/54450.ts
 http://udigitalott.ridsys.in/riptv/live/stream36/index.m3u8
 #EXTINF:-1  tvg-id="203" tvg-logo="https://www.lyngsat.com/logo/tv/num/7s-music-in.png" tvg-chno="23" group-title="Tamizh",7s Music
 http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
-#EXTINF:-1  tvg-id="299" tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="Tamizh",M Nadu
+#EXTINF:-1  tvg-id="299" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m-nadu-tv-in.png" tvg-chno="299" group-title="Tamizh",M Nadu
 https://player.mslivestream.net/mslive/48be4c2542b56ac026c0e25dfe5b2f25.sdp/playlist.m3u8
 #EXTINF:-1  tvg-id="43" tvg-logo="https://tatalogo.pages.dev/460.png" tvg-chno="43" group-title="2 Knowledge",Sony BBC Earth HD Tamil
 http://udigitalott.ridsys.in/riptv/live/stream107/index.m3u8
