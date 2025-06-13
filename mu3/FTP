@@ -6,7 +6,7 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1  tvg-id="12" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="12" group-title="1Tamizh",Vijay Super HD
-http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/406.m3u8
+ http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:FF:03:75&stream=1097660&extension=ts
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
@@ -22,9 +22,9 @@ https://player.mslivestream.net/mslive/48be4c2542b56ac026c0e25dfe5b2f25.sdp/play
 #EXTINF:-1  tvg-id="43" tvg-logo="https://tatalogo.pages.dev/460.png" tvg-chno="43" group-title="2 Knowledge",Sony BBC Earth HD Tamil
 http://udigitalott.ridsys.in/riptv/live/stream107/index.m3u8
 #EXTINF:-1  tvg-id="55" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" tvg-chno="55" group-title="3 Movies",Star Movies
-http://38.76.152.22:8000/play/a021/index.m3u8
+http://nonamevos.com:80/junior/junior/106547
 #EXTINF:-1  tvg-id="56" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" tvg-chno="56" group-title="3 Movies",Star Movies Select
-http://38.76.152.22:8000/play/a020/index.m3u8
+http://nonamevos.com:80/junior/junior/89262
 #EXTINF:-1  tvg-id="58" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO+
 http://kstv.us:8080/live/jgarcia31/224178522/46635.ts
 #EXTINF:-1  tvg-id="59" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="59" group-title="3 Movies",CineBox 1
@@ -51,11 +51,11 @@ http://cord-cutter.net:8080/hq3y4G/234247/119434
 http://cord-cutter.net:8080/hq3y4G/234247/119431
 #EXTINF:-1  tvg-id="70" tvg-logo="https://play-lh.googleusercontent.com/osa_eh_B8paWe8CUEiuJMjCNFZxQQgxJ_w5hTIxYQjRkp_ORyPlxfCLcn1Ll1B5FXxFh=w240-h480-rw" tvg-chno="70" group-title="3 Movies",Jackie Chan Movies
 http://fortv.cc:8080/live/70453597/56651433/215378.ts
-#EXTINF:-1  tvg-id="123" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super FHD
+#EXTINF:-1  tvg-id="123" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super FHD
 http://sqemtdq.mant2021.xyz:900/live/9503368143/5030100149/400159597.ts
-#EXTINF:-1  tvg-id="124" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" tvg-chno="124" group-title="BackupTamizh",Vijay Super FHD 2
+#EXTINF:-1  tvg-id="124" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="124" group-title="BackupTamizh",Vijay Super FHD 2
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400159597.ts
-#EXTINF:-1  tvg-id="123" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super SD
+#EXTINF:-1  tvg-id="123" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super SD
 http://watchindia.net:8880/live/82963/72037/2190.ts
 #EXTINF:-1  tvg-id="124" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="124" group-title="BackupTamizh",Vijay Super Astro
 https://tatatv.stevosure123.workers.dev/video.m3u8?id=831
@@ -87,7 +87,7 @@ http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
 rtmp://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac
 #EXTINF:-1  tvg-id="110" tvg-logo="https://play-lh.googleusercontent.com/VsGTRdJrMxL6difnWEWIddWhDfhSDrLLNVbEshoEIeFHkQ04aOW9eak29wwVAdNfMKP1=w240-h480-rw" tvg-chno="110" group-title="Cable TV",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
-#EXTINF:-1  tvg-id="112" tvg-logo="https://play-lh.googleusercontent.com/GpP7fx3D7WauJEGYJkj8lJGuRVE3m5IqTKDqK74HIRhk2M_Hg49TSwlcP_oUUPKEt8ij=w240-h480-rw" tvg-chno="112" group-title="Cable TV",Agam TV
+#EXTINF:-1  tvg-id="112" tvg-logo="https://i.ibb.co/q3mJMVk1/agam.jpg" tvg-chno="112" group-title="Cable TV",Agam TV
 http://stream.vstartv.org/p/3674/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="113" tvg-logo="https://play-lh.googleusercontent.com/YImtNmRtt854TWLJWGvUWn27oYeH_7DcI6VnAUsztof3xQ9v43bxft9rQFESuwMnY1sy=w240-h480-rw" tvg-chno="113" group-title="Cable TV",MN Music TV
 https://mntv.livebox.co.in/musichls/live.m3u8
