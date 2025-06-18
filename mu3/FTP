@@ -5,8 +5,8 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-#EXTINF:-1  tvg-id="12" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="12" group-title="1Tamizh",Vijay Super HD
- http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:FF:03:75&stream=1097660&extension=ts
+#EXTINF:-1  tvg-id="123" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="12" group-title="1Tamizh",Vijay Super HD
+http://line.dnsdns5.com:80/ZeeALI1/465841/63531
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
