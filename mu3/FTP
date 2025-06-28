@@ -12,13 +12,15 @@ https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1  tvg-id="200" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" tvg-chno="200" group-title="Tamizh",Vijay Takkar
-http://nonamevos.com:80/live/billy1/billy1/54450.ts
+https://proxy-07-op.vercel.app/api/stream?id=23869
 #EXTINF:-1  tvg-id="202" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_24.png" tvg-chno="22" group-title="Tamizh",Mega 24
 http://udigitalott.ridsys.in/riptv/live/stream36/index.m3u8
 #EXTINF:-1  tvg-id="203" tvg-logo="https://www.lyngsat.com/logo/tv/num/7s-music-in.png" tvg-chno="23" group-title="Tamizh",7s Music
 http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
-#EXTINF:-1  tvg-id="299" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m-nadu-tv-in.png" tvg-chno="299" group-title="Tamizh",M Nadu
-https://player.mslivestream.net/mslive/48be4c2542b56ac026c0e25dfe5b2f25.sdp/playlist.m3u8
+#EXTINF:-1  tvg-id="200" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" tvg-chno="20" group-title="Tamizh",Astro Vellithirai
+http://99.iptv543.com/smt.php?id=Vellithirai
+#EXTINF:-1  tvg-id="299" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToahoIIoQv_c8cfvdEChgeb2RA2jClYvWZ1w&s" tvg-chno="299" group-title="Tamizh",Tata Tamil Cinema
+https://proxy-07-op.vercel.app/api/stream?id=467660
 #EXTINF:-1  tvg-id="43" tvg-logo="https://tatalogo.pages.dev/460.png" tvg-chno="43" group-title="2 Knowledge",Sony BBC Earth HD Tamil
 http://udigitalott.ridsys.in/riptv/live/stream107/index.m3u8
 #EXTINF:-1  tvg-id="55" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" tvg-chno="55" group-title="3 Movies",Star Movies
@@ -51,10 +53,8 @@ http://cord-cutter.net:8080/hq3y4G/234247/119434
 http://cord-cutter.net:8080/hq3y4G/234247/119431
 #EXTINF:-1  tvg-id="70" tvg-logo="https://play-lh.googleusercontent.com/osa_eh_B8paWe8CUEiuJMjCNFZxQQgxJ_w5hTIxYQjRkp_ORyPlxfCLcn1Ll1B5FXxFh=w240-h480-rw" tvg-chno="70" group-title="3 Movies",Jackie Chan Movies
 http://fortv.cc:8080/live/70453597/56651433/215378.ts
-#EXTINF:-1  tvg-id="123" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super FHD
-http://sqemtdq.mant2021.xyz:900/live/9503368143/5030100149/400159597.ts
-#EXTINF:-1  tvg-id="124" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="124" group-title="BackupTamizh",Vijay Super FHD 2
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400159597.ts
+#EXTINF:-1  tvg-id="123" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super FHD 5.1
+https://proxy-07-op.vercel.app/api/stream?id=1614
 #EXTINF:-1  tvg-id="123" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super SD
 http://watchindia.net:8880/live/82963/72037/2190.ts
 #EXTINF:-1  tvg-id="124" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="124" group-title="BackupTamizh",Vijay Super Astro
