@@ -120,7 +120,24 @@ Author email: nidhiarivu@gmail.com
                   </div>
                 </div>
               </div>
-              <a href="https://globaljobposting.demo/" class="read" target="_blank">Click to see the Demo</a>
+              <a href="#" class="read" onclick="showContactAdminModal(); return false;">Click to see the Demo</a>
+              <!-- Contact Admin Modal -->
+              <div id="contactAdminModal" style="display:none;position:fixed;z-index:9999;left:0;top:0;width:100vw;height:100vh;background:rgba(0,0,0,0.5);">
+                <div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:#fff;padding:32px 24px 24px 24px;border-radius:8px;box-shadow:0 2px 16px rgba(0,0,0,0.2);min-width:300px;text-align:center;">
+                  <span style="font-size:1.2em;font-weight:bold;display:block;margin-bottom:12px;">Contact admin</span>
+                  <span style="font-size:1.1em;color:#333;">+91 77085 61033</span>
+                  <br><br>
+                  <button onclick="closeContactAdminModal()" style="margin-top:10px;padding:6px 18px;font-size:1em;border:none;background:#007bff;color:#fff;border-radius:4px;cursor:pointer;">OK</button>
+                </div>
+              </div>
+    <script>
+      function showContactAdminModal() {
+        document.getElementById('contactAdminModal').style.display = 'block';
+      }
+      function closeContactAdminModal() {
+        document.getElementById('contactAdminModal').style.display = 'none';
+      }
+    </script>
               <div class="entry-content">
                 <div class="single-post-content">
                   <h2>Description</h2>
@@ -169,6 +186,15 @@ Author email: nidhiarivu@gmail.com
 
                 </div>
               </div>
+              <nav class="navigation post-navigation" aria-label="Posts">
+                <h2 class="screen-reader-text">Post navigation</h2>
+                <div class="nav-links">
+                  <div class="nav-previous"><a
+                      href="../product.html" rel="prev"><span
+                        class="fa fa-arrow-left" aria-hidden="true"></span> <span class="nav-subtitle">Back to Products
+                        </span></a></div>
+                </div>
+              </nav>
             </div>
             <div class="col-lg-4 mt-lg-0 mt-5">
               <div class="right-sidebar">
