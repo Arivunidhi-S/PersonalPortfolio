@@ -1,0 +1,129 @@
+﻿#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1  tvg-id="1" tvg-logo="https://i.ibb.co/qn5fHnp/Kalaignar-TV.png" tvg-chno="1" group-title="1Tamizh",Kalaingar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1  tvg-id="200" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" tvg-chno="200" group-title="1Tamizh",Vijay Takkar
+https://proxy-07-op.vercel.app/api/stream?id=23869
+#EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+#EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1  tvg-id="200" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" tvg-chno="20" group-title="Tamizh",Astro Vellithirai
+http://99.iptv543.com/smt.php?id=Vellithirai
+#EXTINF:-1  tvg-id="200" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Thangathirai.png" tvg-chno="20" group-title="Tamizh",Astro Thangathirai
+https://99.iptv543.com/smt.php?id=Thangathirai
+#EXTINF:-1  tvg-id="200" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Vinmeen.png" tvg-chno="20" group-title="Tamizh",Astro Vinmeen
+https://99.iptv543.com/smt.php?id=Vinmeen
+#EXTINF:-1  tvg-id="299" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToahoIIoQv_c8cfvdEChgeb2RA2jClYvWZ1w&s" tvg-chno="299" group-title="Tamizh",Tata Tamil Cinema
+https://proxy-07-op.vercel.app/api/stream?id=467660
+#EXTINF:-1  tvg-id="201" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Makkal_TV.png" tvg-chno="21" group-title="Tamizh",Mega TV
+http://udigitalott.ridsys.in/riptv/live/stream38/index.m3u8
+#EXTINF:-1  tvg-id="202" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_24.png" tvg-chno="22" group-title="Tamizh",Mega 24
+http://udigitalott.ridsys.in/riptv/live/stream36/index.m3u8
+#EXTINF:-1  tvg-id="203" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_Musiq.png" tvg-chno="23" group-title="Tamizh",Mega Musiq
+http://udigitalott.ridsys.in/riptv/live/stream37/index.m3u8
+#EXTINF:-1  tvg-id="203" tvg-logo="https://www.lyngsat.com/logo/tv/num/7s-music-in.png" tvg-chno="23" group-title="Tamizh",7s Music
+http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
+#EXTINF:-1  tvg-id="41" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Discovery_HD.png" tvg-chno="41" group-title="2 Knowledge",Discovery World HD Tamil
+https://smart.pendy.dpdns.org/Smart.php?id=discoveryworldtam_raj
+#EXTINF:-1  tvg-id="43" tvg-logo="https://tatalogo.pages.dev/460.png" tvg-chno="43" group-title="2 Knowledge",Sony BBC Earth HD Tamil
+http://udigitalott.ridsys.in/riptv/live/stream107/index.m3u8
+#EXTINF:-1  tvg-id="43" tvg-logo="https://tatalogo.pages.dev/460.png" tvg-chno="43" group-title="2 Knowledge",Sony BBC Earth HD
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1  tvg-id="52" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" tvg-chno="52" group-title="3 Movies",Sony Pix HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1  tvg-id="54" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now.png" tvg-chno="54" group-title="3 Movies",Movies Now HD
+http://udigitalott.ridsys.in/riptv/live/stream44/index.m3u8
+#EXTINF:-1  tvg-id="58" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO
+https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+#EXTINF:-1  tvg-id="58" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO+
+http://kstv.us:8080/live/jgarcia31/224178522/46635.ts
+#EXTINF:-1  tvg-id="71" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" tvg-chno="71" group-title="3 Movies",MN+ HD
+http://udigitalott.ridsys.in/riptv/live/stream92/index.m3u8
+#EXTINF:-1  tvg-id="57" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnx-in.png" tvg-chno="57" group-title="3 Movies",MXN HD
+http://udigitalott.ridsys.in/riptv/live/stream42/index.m3u8
+#EXTINF:-1  tvg-id="59" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="59" group-title="3 Movies",CineBox 1
+http://cord-cutter.net:8080/live/95549031/69361122/119437.ts
+#EXTINF:-1  tvg-id="60" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="60" group-title="3 Movies",CineBox 2
+http://xxip9.top:8080/live/95549031/69361122/119433.ts
+#EXTINF:-1  tvg-id="61" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="61" group-title="3 Movies",CineBox 3
+http://cord-cutter.net:8080/live/95549031/69361122/119436.ts
+#EXTINF:-1  tvg-id="62" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pink_rs_horror.png" tvg-chno="62" group-title="3 Movies",Cinema Horror thriller
+http://xxip9.top:8080/live/95549031/69361122/119429.ts
+#EXTINF:-1  tvg-id="63" tvg-logo="https://play-lh.googleusercontent.com/-T5sa38kAcStAxEf5mBapoPNel1aMtKBrMl18eDyMjeI6ZqxxiGPp7rK0uE-EUqOYQhY=w240-h480-rw" tvg-chno="63" group-title="3 Movies",Blockbuster Movies
+http://cord-cutter.net:8080/live/95549031/69361122/119421.ts
+#EXTINF:-1  tvg-id="64" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="64" group-title="3 Movies",Animation Movies
+http://cord-cutter.net:8080/live/95549031/69361122/119420.ts
+#EXTINF:-1  tvg-id="65" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="65" group-title="3 Movies",Tom & Jerry
+http://xxip9.top:8080/live/95549031/69361122/125635.ts
+#EXTINF:-1  tvg-id="66" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="66" group-title="3 Movies",Looney Tunes
+http://xxip9.top:8080/live/95549031/69361122/125638.ts
+#EXTINF:-1  tvg-id="67" tvg-logo="https://play-lh.googleusercontent.com/fAEC9Zw2S_KD-3uV1Eo5xVI0seT30eGp5SyeAfRFTCT-mc0shIWp9aJtTAGXtq__l4E=w240-h480-rw" tvg-chno="67" group-title="3 Movies",Jurassic Park
+http://xxip9.top:8080/live/95549031/69361122/215298.ts
+#EXTINF:-1  tvg-id="68" tvg-logo="https://www.lyngsat.com/logo/tv/ss/scifi-polska-us-pl.png" tvg-chno="68" group-title="3 Movies",24×7 Sci-Fi Movies
+http://cord-cutter.net:8080/hq3y4G/234247/119434
+#EXTINF:-1  tvg-id="69" tvg-logo="https://play-lh.googleusercontent.com/wH53tiEqxfmetaweLb922iJnTk-t3Vrkuu1B6A6Gh8ESPwhFbRWU85_1OVWzDr4NEDE=w240-h480-rw" tvg-chno="69" group-title="3 Movies",24×7 Mystery Movies
+http://cord-cutter.net:8080/hq3y4G/234247/119431
+#EXTINF:-1  tvg-id="70" tvg-logo="https://play-lh.googleusercontent.com/osa_eh_B8paWe8CUEiuJMjCNFZxQQgxJ_w5hTIxYQjRkp_ORyPlxfCLcn1Ll1B5FXxFh=w240-h480-rw" tvg-chno="70" group-title="3 Movies",Jackie Chan Movies
+http://fortv.cc:8080/live/70453597/56651433/215378.ts
+#EXTINF:-1  tvg-id="111" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="BackupTamizh",Kalaingar HD
+http://udigitalott.ridsys.in/riptv/live/stream29/index.m3u8
+#EXTINF:-1  tvg-id="222" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_tv_in.png" tvg-chno="222" group-title="BackupTamizh",Sun TV FHD
+https://proxy-07-op.vercel.app/api/stream?id=98899
+#EXTINF:-1  tvg-id="333" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_kondattam_tv.png" tvg-chno="333" group-title="BackupTamizh",KTV HD 2
+https://proxy-07-op.vercel.app/api/stream?id=5900
+#EXTINF:-1  tvg-id="444" tvg-logo="https://i.ibb.co/vQjFt6g/Vijaytv.png" tvg-chno="444" group-title="BackupTamizh",Star Vijay FHD
+https://prod-live-s2-5k8Jm-stream-edge.ygxworld.in/jplus/368/manifest.m3u8
+#EXTINF:-1  tvg-id="444" tvg-logo="https://i.ibb.co/vQjFt6g/Vijaytv.png" tvg-chno="444" group-title="BackupTamizh",Star Vijay HD Astro
+https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
+#EXTINF:-1  tvg-id="444" tvg-logo="https://i.ibb.co/vQjFt6g/Vijaytv.png" tvg-chno="444" group-title="BackupTamizh",Star Vijay SD
+https://prod-live-s2-5k8Jm-stream-edge.ygxworld.in/jplus/1130/manifest.m3u8
+#EXTINF:-1  tvg-id="556" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jaya_in_tv.png" tvg-chno="556" group-title="BackupTamizh",Jaya TV FHD
+https://proxy-07-op.vercel.app/api/stream?id=5895
+#EXTINF:-1  tvg-id="666" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" tvg-chno="666" group-title="BackupTamizh",Sun Music FHD
+https://proxy-07-op.vercel.app/api/stream?id=98900
+#EXTINF:-1  tvg-id="666" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" tvg-chno="666" group-title="BackupTamizh",Sun Music FHD 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/191993.ts
+#EXTINF:-1  tvg-id="777" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jaya_in_max.png" tvg-chno="777" group-title="BackupTamizh",Jaya Max SD
+http://sqemtdq.mant2021.xyz:900/live/9503368143/5030100149/187106.ts
+#EXTINF:-1  tvg-id="115" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png" tvg-chno="1111" group-title="BackupTamizh",Zee Thirai SD
+http://watchindia.net:8880/live/49387/51659/2142.ts
+#EXTINF:-1  tvg-id="123" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super FHD
+http://sqemtdq.mant2021.xyz:900/live/9503368143/5030100149/400159597.ts
+#EXTINF:-1  tvg-id="123" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="123" group-title="BackupTamizh",Vijay Super FHD 2
+https://proxy-07-op.vercel.app/api/stream?id=1614
+#EXTINF:-1  tvg-id="124" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" tvg-chno="124" group-title="BackupTamizh",Vijay Super Astro
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=831
+#EXTINF:-1  tvg-id="133" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jaya_in_movie.png" tvg-chno="133" group-title="BackupTamizh",Jaya Movies SD
+https://proxy-07-op.vercel.app/api/stream?id=9022
+#EXTINF:-1  tvg-id="16" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tamizh-in.png" tvg-chno="16" group-title="BackupTamizh",Zee Tamil HD 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/192017.ts
+#EXTINF:-1  tvg-id="16" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tamizh-in.png" tvg-chno="16" group-title="BackupTamizh",Zee Tamil HD 2
+https://proxy-07-op.vercel.app/api/stream?id=9971
+#EXTINF:-1  tvg-id="15" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" tvg-chno="15" group-title="BackupTamizh",Colors Tamil FHD
+https://proxy-07-op.vercel.app/api/stream?id=98911
+#EXTINF:-1  tvg-id="17" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polimer_in_tv.png" tvg-chno="17" group-title="BackupTamizh",Polimer TV SD
+https://proxy-07-op.vercel.app/api/stream?id=1617
+#EXTINF:-1  tvg-id="223" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_news_in.png" tvg-chno="223" group-title="BackupTamizh",Sun News SD
+https://proxy-07-op.vercel.app/api/stream?id=5924
+#EXTINF:-1  tvg-id="23" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polimer_in_news.png" tvg-chno="23" group-title="BackupTamizh",Polimer News SD
+https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3u8
+#EXTINF:-1  tvg-id="233" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polimer_in_news.png" tvg-chno="233" group-title="BackupTamizh",PolimerNews SD 2
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
+#EXTINF:-1  tvg-id="256" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thanthi_tv_in.png" tvg-chno="256" group-title="BackupTamizh",Thanthi TV SD
+https://proxy-07-op.vercel.app/api/stream?id=111034
+#EXTINF:-1  tvg-id="211" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_seithigal.png" tvg-chno="211" group-title="BackupTamizh",Seithigal TV SD
+http://udigitalott.ridsys.in/riptv/live/stream28/index.m3u8
+#EXTINF:-1  tvg-id="244" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news7_tamil_in.png" tvg-chno="244" group-title="BackupTamizh",News 7 SD
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+#EXTINF:-1  tvg-id="277" tvg-logo="https://www.lyngsat.com/logo/tv/pp/puthiya_thalaimurai.png" tvg-chno="277" group-title="BackupTamizh",PuthiyaThalaimurai SD
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8
+#EXTINF:-1  tvg-id="288" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-18-tamil-in.png" tvg-chno="288" group-title="BackupTamizh",News18 Tamil Nadu SD
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3u8
+#EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="BackupTamizh",Isaiaruvi SD
+http://udigitalott.ridsys.in/riptv/live/stream21/index.m3u8
+#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="BackupTamizh",Sirippoli SD
+http://udigitalott.ridsys.in/riptv/live/stream27/index.m3u8
