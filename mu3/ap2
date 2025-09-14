@@ -43,7 +43,33 @@ http://cord-cutter.net:8080/hq3y4G/234247/119431
 http://fortv.cc:8080/live/70453597/56651433/215378.ts
 #EXTINF:-1  tvg-id="111" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="BackupTamizh",Kalaingar SD
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="Undefined" http-referrer="https://onezoo.net",Zee Thirai HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-224
+
+#EXTINF:-1 tvg-id="thanthione" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/thanthione.png" group-title="Entertainment",Thanthi One
+https://live.dinesh29.com.np/stream/jiotv/thanthione/master.m3u8
+
+#EXTINF:-1 tvg-id="tamiljanam" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/tamiljanam.png" group-title="News",Tamil Janam
+https://live.dinesh29.com.np/stream/jiotv/tamiljanam/master.m3u8
+
+#EXTINF:-1 tvg-id="mnadu" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/mnadu.png" group-title="News",M Nadu
+https://live.dinesh29.com.np/stream/jiotv/mnadu/master.m3u8
+
+#EXTINF:-1 tvg-id="vaanaviltv" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/vaanaviltv.png" group-title="Entertainment",Vaanavil TV
+https://live.dinesh29.com.np/stream/jiotv/vaanaviltv/master.m3u8
+
+#EXTINF:-1 tvg-id="tamilantelevision" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/tamilantelevision.png" group-title="News",Tamilan Television
+https://live.dinesh29.com.np/stream/jiotv/tamilantelevision/master.m3u8
+
+#EXTINF:-1 tvg-id="velichamtv" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/velichamtv.png" group-title="News",Velicham Tv
+https://live.dinesh29.com.np/stream/jiotv/velichamtv/master.m3u8
+
+#EXTINF:-1 tvg-id="jmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jmovies.png" group-title="Movies",J Movies
+https://live.dinesh29.com.np/stream/jiotv/jmovies/master.m3u8
+
+#EXTINF:-1 tvg-id="jayatvhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jayatvhd.png" group-title="Entertainment",Jaya TV HD
+https://live.dinesh29.com.np/stream/jiotv/jayatvhd/master.m3u8
+
+#EXTINF:-1 tvg-id="jayamax" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jayamax.png" group-title="Music",Jaya Max
+https://live.dinesh29.com.np/stream/jiotv/jayamax/master.m3u8
+
+#EXTINF:-1 tvg-id="mksix" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/mksix.png" group-title="Entertainment",MK Six
+https://live.dinesh29.com.np/stream/jiotv/mksix/master.m3u8
