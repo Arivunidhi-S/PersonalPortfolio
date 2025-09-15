@@ -73,3 +73,8 @@ https://live.dinesh29.com.np/stream/jiotv/jayamax/master.m3u8
 
 #EXTINF:-1 tvg-id="mksix" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/mksix.png" group-title="Entertainment",MK Six
 https://live.dinesh29.com.np/stream/jiotv/mksix/master.m3u8
+
+#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="Undefined" http-referrer="https://onezoo.net",Zee Thirai HD
+#EXTVLCOPT:http-referrer="https://onezoo.net"
+#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
+https://playyonogames.in/z5/stream.m3u8?id=0-9-224
