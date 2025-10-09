@@ -14,9 +14,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8
 #EXTINF:-1  tvg-id="200" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Vinmeen.png" tvg-chno="20" group-title="Tamizh",Astro Vinmeen
 https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8
 #EXTINF:-1  tvg-id="58" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO
-https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+ https://zozotv.xyz:443/live/faizal1998/zoz161/96.ts
 #EXTINF:-1  tvg-id="58" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO+
-http://kstv.us:8080/live/jgarcia31/224178522/46635.ts
+https://zozotv.xyz:443/live/faizal1998/zoz161/97.ts
 #EXTINF:-1  tvg-id="59" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="59" group-title="3 Movies",CineBox 1
 http://cord-cutter.net:8080/live/95549031/69361122/119437.ts
 #EXTINF:-1  tvg-id="60" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="60" group-title="3 Movies",CineBox 2
@@ -43,6 +43,11 @@ http://cord-cutter.net:8080/hq3y4G/234247/119431
 http://fortv.cc:8080/live/70453597/56651433/215378.ts
 #EXTINF:-1  tvg-id="111" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="BackupTamizh",Kalaingar SD
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#EXTINF:-1 tvg-id="51"tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now.png"tvg-chno="54"group-title="3 Movies",Movies Now HD
+http://89.187.189.98/MOVIESNOWHD/index.m3u8
+#EXTINF:-1 tvg-id="54"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnx-in.png"tvg-chno="57"group-title="3 Movies",MXN HD
+http://89.187.189.98/MNXHD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="thanthione" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/thanthione.png" group-title="Entertainment",Thanthi One
 https://live.dinesh29.com.np/stream/jiotv/thanthione/master.m3u8
@@ -63,16 +68,19 @@ https://live.dinesh29.com.np/stream/jiotv/tamilantelevision/master.m3u8
 https://live.dinesh29.com.np/stream/jiotv/velichamtv/master.m3u8
 
 #EXTINF:-1 tvg-id="jmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jmovies.png" group-title="Movies",J Movies
-https://live.dinesh29.com.np/stream/jiotv/jmovies/master.m3u8
+http://line.rain-ott.com:80/live/Ckks7HMG12/1VDpJ5Xj4q/1483938.ts
 
 #EXTINF:-1 tvg-id="jayatvhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jayatvhd.png" group-title="Entertainment",Jaya TV HD
-https://live.dinesh29.com.np/stream/jiotv/jayatvhd/master.m3u8
+http://line.rain-ott.com:80/live/Ckks7HMG12/1VDpJ5Xj4q/1533289.ts
 
 #EXTINF:-1 tvg-id="jayamax" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jayamax.png" group-title="Music",Jaya Max
-https://live.dinesh29.com.np/stream/jiotv/jayamax/master.m3u8
+http://line.rain-ott.com:80/live/Ckks7HMG12/1VDpJ5Xj4q/1484566.ts
 
 #EXTINF:-1 tvg-id="mksix" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/mksix.png" group-title="Entertainment",MK Six
-https://live.dinesh29.com.np/stream/jiotv/mksix/master.m3u8
+https://zozotv.xyz:443/live/faizal1998/zoz161/97.ts
+
+#EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png"tvg-chno="299"group-title="Tamil Backup",M Nadu
+https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="Undefined" http-referrer="https://onezoo.net",Zee Thirai HD
 #EXTVLCOPT:http-referrer="https://onezoo.net"
