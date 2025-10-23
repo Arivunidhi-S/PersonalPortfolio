@@ -1,39 +1,27 @@
+
+
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz
 
 
-#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Z€€5 ® Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
-https://stream.kliv.fun/allplus18/z5/index.php?id=0-9-zeetamil%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com
-#EXTINF:-1 tvg-id="0-9-224" group-title="Z€€5 ® Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
-https://stream.kliv.fun/allplus18/z5/index.php?id=0-9-224%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com
-#EXTINF:-1 tvg-id="0-9-9z5383487" group-title="Z€€5 ® Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
-https://stream.kliv.fun/allplus18/z5/index.php?id=0-9-9z5383487%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Z€€5 ® Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&flix HD
-https://stream.kliv.fun/allplus18/z5/index.php?id=0-9-channel_2105335046%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com
-#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Z€€5 ® Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
-https://stream.kliv.fun/allplus18/z5/index.php?id=0-9-9z5543514%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36&Origin=https://www.zee5.com&Referer=https://www.zee5.com
+#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&amp;Prive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs8001/index.php?id=0-9-9z5543514
 
-#---- Additional Playlist ----
- <html> 
- 
-<head> 
-    <script src="https://cdn.jsdelivr.net/npm/disable-devtool" disable-devtool-auto="true" clear-log="true" 
-        disable-select="true" disable-copy="true" disable-cut="true" disable-paste="true"></script> 
-    <script src="prodevs.js"></script> 
-    <script src="aes.js"></script> 
-    <script src="main.js"></script> <!-- Your main JavaScript file --> 
-</head> 
- 
-<body> 
-    
-</body> 
- 
-</html> 
+#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs8001/index.php?id=0-9-zeetamil
 
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&amp;flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs8001/index.php?id=0-9-channel_2105335046
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=09ffaaff477d490abb4516b7e0711d35&key=759cc157a993e8a76ff4d675e34b5400
-#EXTINF:-1 group-title="SUN🔆NXT" group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="194408" tvg-language="Hindi" tvg-logo="https://i.ibb.co/rRtdSJpc/Picsart-25-02-10-15-08-55-705.png",Sun Neo HD
-https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
+#EXTINF:-1 tvg-id="0-9-9z5383487" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs8001/index.php?id=0-9-9z5383487
+
+#EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/zs8001/index.php?id=0-9-224
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
