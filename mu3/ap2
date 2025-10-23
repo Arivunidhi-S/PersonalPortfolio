@@ -97,21 +97,19 @@ https://cdn-6.pishow.tv/live/1243/master.m3u8
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
 
 #EXTINF:-1 tvg-id="jmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jmovies.png" group-title="1Tamizh",J Movies
-http://b1g.uk:80/111111/222222/20792
+http://line.rain-ott.com:80/live/Ckks7HMG12/1VDpJ5Xj4q/1483938.ts
 
 #EXTINF:-1 tvg-id="jayatvhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jayatvhd.png" group-title="1Tamizh",Jaya TV HD
-http://b1g.uk:80/111111/222222/8495
+http://line.rain-ott.com:80/live/Ckks7HMG12/1VDpJ5Xj4q/1533289.ts
 
 #EXTINF:-1 tvg-id="jayamax" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jayamax.png" group-title="1Tamizh",Jaya Max
-http://b1g.uk:80/111111/222222/166304
+http://line.rain-ott.com:80/live/Ckks7HMG12/1VDpJ5Xj4q/1484566.ts
 
-#EXTINF:-1 tvg-id="mksix" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/mksix.png" group-title="1Tamizh",MK Six
+#EXTINF:-1 tvg-id="mksix" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_six.png" group-title="1Tamizh",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 
 #EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="1Tamizh",Malai Murasu
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-224
+http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/277123.m3u8
