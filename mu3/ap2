@@ -58,12 +58,12 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="1131" tvg-name="Vijay Super" tvg-language="Unknown" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="1Tamizh" group-logo="", Vijay Super HD
+#EXTINF:-1 tvg-id="1131" tvg-name="Vijay Super" tvg-language="Unknown" tvg-logo="https://i.ibb.co/RbMcDXB/Vijay-Super.png" group-title="1Tamizh" group-logo="", Vijay Super HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8
 https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
-#EXTINF:-1 tvg-id="ts906" tvg-chno="18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="1Tamizh", Vijay Takkar
+#EXTINF:-1 tvg-id="ts906" tvg-chno="18" tvg-logo="https://i.ibb.co/6wSYv93/Vijay-Takkar.png" group-title="1Tamizh", Vijay Takkar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecdf4d18807e55bf814c3f40656a33c3:0031af1bf42234195cda0eb88fd6003b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
@@ -72,38 +72,23 @@ https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Takkar_BTS/output/index.mpd|Refere
 #EXTINF:-1 tvg-id="vikatan-tv" tvg-logo="https://a.jsrdn.com/hls/23087/vikatan-tv/poster_20230509_173210.jpg" group-title="Tamizh",Vikatan TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
 
-#EXTINF:-1 tvg-id="843" tvg-name="Madhimugam TV" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="Tamizh" group-logo="", Madhimugam TV
+#EXTINF:-1 tvg-id="843" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="Tamizh" group-logo="", Madhimugam TV
 https://cdn-3.pishow.tv/live/1476/master.m3u8
 
 #EXTINF:-1 tvg-id="2958" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0044256880499658982038945.png" group-title="Tamizh", Tamilan Television
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="thanthione" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/thanthione.png" group-title="Tamizh",Thanthi One
-https://live.dinesh29.com.np/stream/jiotv/thanthione/master.m3u8
-
-#EXTINF:-1 tvg-id="tamiljanam" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/tamiljanam.png" group-title="Tamizh",Tamil Janam
-https://live.dinesh29.com.np/stream/jiotv/tamiljanam/master.m3u8
-
-#EXTINF:-1 tvg-id="mnadu" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/mnadu.png" group-title="Tamizh",M Nadu
-https://live.dinesh29.com.np/stream/jiotv/mnadu/master.m3u8
-
-#EXTINF:-1 tvg-id="vaanaviltv" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/vaanaviltv.png" group-title="Tamizh",Vaanavil TV
+#EXTINF:-1 tvg-id="vaanaviltv" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vaanavil_tv_in.png" group-title="Tamizh",Vanavil TV
 Hhttps://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="Tamizh", Chithiram
+#EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="Tamizh", Chithiram
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
 #EXTINF:-1 tvg-id="velichamtv" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/velichamtv.png" group-title="Tamizh",Velicham Tv
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
 
-#EXTINF:-1 tvg-id="jmovies" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jmovies.png" group-title="1Tamizh",J Movies
-http://line.rain-ott.com:80/live/Ckks7HMG12/1VDpJ5Xj4q/1483938.ts
-
-#EXTINF:-1 tvg-id="jayatvhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jayatvhd.png" group-title="1Tamizh",Jaya TV HD
-http://line.rain-ott.com:80/live/Ckks7HMG12/1VDpJ5Xj4q/1533289.ts
-
-#EXTINF:-1 tvg-id="jayamax" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/jayamax.png" group-title="1Tamizh",Jaya Max
-http://line.rain-ott.com:80/live/Ckks7HMG12/1VDpJ5Xj4q/1484566.ts
+#EXTINF:-1 tvg-id="831" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="1Tamizh | INDIA",Star Vijay Super HD
+https://public.kliv.fun/Mac21o/play.php?id=831
 
 #EXTINF:-1 tvg-id="mksix" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_six.png" group-title="1Tamizh",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
@@ -113,3 +98,30 @@ https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
 http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/277123.m3u8
+
+#EXTINF:-1 tvg-id="1016" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="1Tamizh | INDIA",STAR Vijay Takkar SD
+https://public.kliv.fun/Mac21o/play.php?id=1016
+
+#EXTINF:-1 tvg-id="11784" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11700.jpg" group-title="Tamizh",Athavan TV
+https://public.kliv.fun/Mac21o/play.php?id=11784
+
+#EXTINF:-1 tvg-id="72348" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/71851.png" group-title="Tamizh",TVT TV
+https://public.kliv.fun/Mac21o/play.php?id=72348
+
+#EXTINF:-1 tvg-id="687" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/604.png" group-title="Tamizh",Cine Mania Tamil
+https://public.kliv.fun/Mac21o/play.php?id=687
+
+#EXTINF:-1 tvg-id="71128" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/70803.png" group-title="Tamizh",TNSE
+https://public.kliv.fun/Mac21o/play.php?id=71128
+
+#EXTINF:-1 tvg-id="61517" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61295.jpg" group-title="Tamizh",Mega 24 Tamil
+https://public.kliv.fun/Mac21o/play.php?id=61517
+
+#EXTINF:-1 tvg-id="61518" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/61296.png" group-title="Tamizh",Mega Music
+https://public.kliv.fun/Mac21o/play.php?id=61518
+
+#EXTINF:-1 tvg-id="58180" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/57964.png" group-title="Tamizh",Mega TV
+https://public.kliv.fun/Mac21o/play.php?id=58180
+
+#EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
+https://public.kliv.fun/Mac21o/play.php?id=9184T
