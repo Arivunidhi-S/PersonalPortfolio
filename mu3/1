@@ -1,45 +1,5 @@
 
 
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz
-
-
-#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs8001/index.php?id=0-9-9z5543514
-
-#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs8001/index.php?id=0-9-zeetamil
-
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs8001/index.php?id=0-9-channel_2105335046
-
-#EXTINF:-1 tvg-id="0-9-9z5383487" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs8001/index.php?id=0-9-9z5383487
-
-#EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
-https://public.kliv.fun/Mac21o/play.php?id=796
-
-
-
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids: Hungama" tvg-logo="" group-title="PLAYLIVTV⭐EXTRA",Hungama
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=454f8353caac500d95d641e0c7cfe048&key=0aaca46ea0f5096335598781fbe590e4
-https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1391
-
-#EXTINF:-1 tvg-id="12" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony PIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://stream.kliv.fun/allplus18/sony/stream.php?id=12
-
-#EXTINF:-1 tvg-id="13" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://stream.kliv.fun/allplus18/sony/stream.php?id=13
-
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="JTV ☎️ Kids",Disney Channel
