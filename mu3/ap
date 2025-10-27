@@ -14,9 +14,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8
 #EXTINF:-1  tvg-id="200" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Vinmeen.png" tvg-chno="20" group-title="Tamizh",Astro Vinmeen
 https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8
 #EXTINF:-1  tvg-id="58" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO
-https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+ https://zozotv.xyz:443/live/faizal1998/zoz161/96.ts
 #EXTINF:-1  tvg-id="58" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-chno="58" group-title="3 Movies",HBO+
-http://kstv.us:8080/live/jgarcia31/224178522/46635.ts
+https://zozotv.xyz:443/live/faizal1998/zoz161/97.ts
+#EXTINF:-1 tvg-id="51"tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now.png"tvg-chno="54"group-title="3 Movies",Movies Now HD
+http://89.187.189.98/MOVIESNOWHD/index.m3u8
+#EXTINF:-1 tvg-id="54"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnx-in.png"tvg-chno="57"group-title="3 Movies",MNX HD
+http://89.187.189.98/MNXHD/index.m3u8
 #EXTINF:-1  tvg-id="59" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="59" group-title="3 Movies",CineBox 1
 http://cord-cutter.net:8080/live/95549031/69361122/119437.ts
 #EXTINF:-1  tvg-id="60" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="60" group-title="3 Movies",CineBox 2
