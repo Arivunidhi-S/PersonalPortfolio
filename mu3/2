@@ -90,13 +90,13 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
 #EXTINF:-1 tvg-id="831" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="1Tamizh",Star Vijay Super HD
 https://public.kliv.fun/Mac21o/play.php?id=831
 
-#EXTINF:-1 tvg-id="mksix" tvg-logo="https://i.ibb.co/hx9K2Kqf/mk6.png" group-title="1Tamizh",MK Six
+#EXTINF:-1 tvg-id="mksix" tvg-logo="https://i.ibb.co/p6cfm9bX/mk6.png" group-title="1Tamizh",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 
 #EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="1Tamizh",Malai Murasu
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
-#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
+#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.ibb.co/pvTj7p6R/Zee-Thirai.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
 http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/277123.m3u8
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="1Tamizh",Star Vijay Takkar SD
