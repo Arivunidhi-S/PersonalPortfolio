@@ -553,7 +553,7 @@ https://stream.kliv.fun/allplus189/jtv/manifest.mpd?id=411
 https://stream.kliv.fun/allplus189/jtv/manifest.mpd?id=412
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
-http://livebox.pro:80/live/565trail724/6655447788/9022.ts
+http://livebox.pro:80/live/565trail724/6655447788/1618.ts
 
 #EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="JTV ☎️ News",Jaya Plus
 #KODIPROP:inputstream=inputstream.adaptive

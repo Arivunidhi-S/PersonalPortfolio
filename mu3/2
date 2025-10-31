@@ -7,6 +7,8 @@
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
+http://livebox.pro:80/live/565trail724/6655447788/5932.ts
+#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli SD
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
@@ -174,13 +176,15 @@ http://livebox.pro:80/live/565trail724/6655447788/136460.ts
 https://public.kliv.fun/Mac21o/play.php?id=9184
 
 #EXTINF:-1 tvg-id="61517" tvg-logo="https://i.ibb.co/zJ0ZzxC/Mega-24.webp" group-title="Tamizh",Mega 24 Tamil
-https://public.kliv.fun/Mac21o/play.php?id=61517
+#https://public.kliv.fun/Mac21o/play.php?id=61517
+http://livebox.pro:80/live/565trail724/6655447788/26163.ts
 
 #EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/KqKNgSz/Mega-Musiq.webp" group-title="Tamizh",Mega Music
-https://public.kliv.fun/Mac21o/play.php?id=61518
-
+#https://public.kliv.fun/Mac21o/play.php?id=61518
+http://livebox.pro:80/live/565trail724/6655447788/26164.ts
 #EXTINF:-1 tvg-id="58180" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Mega_tv_in.png/revision/latest?cb=20191224092610" group-title="Tamizh",Mega TV
-https://public.kliv.fun/Mac21o/play.php?id=58180
+#https://public.kliv.fun/Mac21o/play.php?id=58180
+http://livebox.pro:80/live/565trail724/6655447788/28141.ts
 
 
 
