@@ -553,8 +553,10 @@ https://stream.kliv.fun/allplus189/jtv/manifest.mpd?id=411
 https://stream.kliv.fun/allplus189/jtv/manifest.mpd?id=412
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
-http://livebox.pro:80/live/565trail724/6655447788/1618.ts
-
+#http://livebox.pro:80/live/565trail724/6655447788/9022.ts
+#http://livebox.pro:80/live/565trail724/6655447788/1618.ts
+#https://public.kliv.fun/Mac21o/play.php?id=11793
+https://public.kliv.fun/Mac21o/play.php?id=670
 #EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="JTV ☎️ News",Jaya Plus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -562,10 +564,12 @@ http://livebox.pro:80/live/565trail724/6655447788/1618.ts
 https://stream.kliv.fun/allplus189/jtv/manifest.mpd?id=418
 
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="JTV ☎️ Entertainment",Jaya TV HD
-http://livebox.pro:80/live/565trail724/6655447788/5895.ts
+#http://livebox.pro:80/live/565trail724/6655447788/5895.ts
+https://public.kliv.fun/Mac21o/play.php?id=767
 
 #EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="JTV ☎️ Music",Jaya Max
-http://livebox.pro:80/live/565trail724/6655447788/240.ts
+#http://livebox.pro:80/live/565trail724/6655447788/240.ts
+https://public.kliv.fun/Mac21o/play.php?id=970
 
 #EXTINF:-1 tvg-id="429" tvg-name="Colors Tamil HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="JTV ☎️ Entertainment",Colors Tamil HD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2872,7 +2876,7 @@ https://stream.kliv.fun/allplus189/jtv/manifest.mpd?id=1210
 https://stream.kliv.fun/allplus189/jtv/manifest.mpd?id=1212
 
 #EXTINF:-1 tvg-id="1219" tvg-name="Animal Planet HD Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="JTV ☎️ Infotainment",Animal Planet HD Tamil
-http://livebox.pro:80/live/565trail724/6655447788/182.ts
+https://public.kliv.fun/Mac21o/play.php?id=11786
 
 #EXTINF:-1 tvg-id="1223" tvg-name="Dagdusheth Ganpati - Pune" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dagdusheth_Pune.png" group-title="JTV ☎️ Devotional",Dagdusheth Ganpati - Pune
 #KODIPROP:inputstream=inputstream.adaptive
