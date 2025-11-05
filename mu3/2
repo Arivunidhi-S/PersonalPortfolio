@@ -1,6 +1,6 @@
 ﻿#=================================
 # 🖥 Developed by: Arivunidhi
-# 🕒 Last Updated: 2025-10-27 02:57 PM 
+# 🕒 Last Updated: 2025-11-05 07:51 AM 
 #==================================
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
@@ -122,60 +122,24 @@ https://public.kliv.fun/Mac1n/play.php?id=71128
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8?hdnts=st%3D1761899291~exp%3D1761920891~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-THALAA-TV-TAM_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2069c593-3c07-4d62-9d44-746be5c3a5d6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_70_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_70_-1~hmac%3D3786ade9f243a29c653b7c694ca23ed5be663316e5afbdd715146777aacb0557
 
+#=================================
+# 🖥 Developed by: Arivunidhi
+# 🕒 Last Updated: 2025-10-27 02:57 PM 
+#==================================
 
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/UtW5hDtyJ71uKgJbvKjeETrYwNzTlnFJ2OwFViYw1CCKKWthDDOfLewXzfw-J_uHawU=w240-h480-rw" group-title="Tamizh Movies",Tamil Cine Mania 
-https://public.kliv.fun/Mac1n/play.php?id=687
+#EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="JTV ☎️ Entertainment",Jaya TV HD
+https://public.kliv.fun/Mac1n/play.php?id=767
 
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/UtW5hDtyJ71uKgJbvKjeETrYwNzTlnFJ2OwFViYw1CCKKWthDDOfLewXzfw-J_uHawU=w240-h480-rw" group-title="Tamizh Movies",Tamil Cine Mania Action
-http://livebox.pro:80/live/565trail724/6655447788/136431.ts
+#EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="JTV ☎️ Music",Jaya Max
+https://public.kliv.fun/Mac1n/play.php?id=970
 
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/UtW5hDtyJ71uKgJbvKjeETrYwNzTlnFJ2OwFViYw1CCKKWthDDOfLewXzfw-J_uHawU=w240-h480-rw" group-title="Tamizh Movies",Tamil Cine Mania 
-http://livebox.pro:80/live/565trail724/6655447788/136453.ts
+#EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
+#https://public.kliv.fun/Mac1n/play.php?id=11793
+https://public.kliv.fun/Mac1n/play.php?id=670
 
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/UtW5hDtyJ71uKgJbvKjeETrYwNzTlnFJ2OwFViYw1CCKKWthDDOfLewXzfw-J_uHawU=w240-h480-rw" group-title="Tamizh Movies",Tamil Cine Mania 
-http://livebox.pro:80/live/565trail724/6655447788/136455.ts
+#EXTINF:-1 tvg-id="1219" tvg-name="Animal Planet HD Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="JTV ☎️ Infotainment",Animal Planet HD Tamil
+https://public.kliv.fun/Mac1n/play.php?id=11786
 
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema Action Tamil
-http://livebox.pro:80/live/565trail724/6655447788/136430.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema Ravi Mohan Tamil
-http://livebox.pro:80/live/565trail724/6655447788/136454.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema Tamil Romance 
-http://livebox.pro:80/live/565trail724/6655447788/136434.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema Now in Cinema Tamil
-http://livebox.pro:80/live/565trail724/6655447788/136425.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema Tamil Drama
-http://livebox.pro:80/live/565trail724/6655447788/136421.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema New Release Tamil
-http://livebox.pro:80/live/565trail724/6655447788/136398.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema 90s Tamil
-http://livebox.pro:80/live/565trail724/6655447788/136399.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema 80s Tamil
-http://livebox.pro:80/live/565trail724/6655447788/136400.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema 70s Tamil
-http://livebox.pro:80/live/565trail724/6655447788/136401.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Tamizh Movies",Cue Cinema 60s Tamil
-http://livebox.pro:80/live/565trail724/6655447788/136402.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Telugu Movies",Cue Cinema Telugu 2020-2024
-http://livebox.pro:80/live/565trail724/6655447788/136457.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Telugu Movies",Cue Cinema Telugu 20s
-http://livebox.pro:80/live/565trail724/6655447788/136458.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Telugu Movies",Cue Cinema Telugu 90s
-http://livebox.pro:80/live/565trail724/6655447788/136459.ts
-
-#EXTINF:-1 tvg-id="687" tvg-logo="https://play-lh.googleusercontent.com/eUuA0mUCgFhVKsnqmsBdkDs9enkj-sEjYQDtlg3vpvEIugVoddYb1B_LRIMH-D3qnEmm=w240-h480-rw" group-title="Telugu Movies",Cue Cinema Telugu 80s
-http://livebox.pro:80/live/565trail724/6655447788/136460.ts
 
 #EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
 https://public.kliv.fun/Mac1n/play.php?id=9184
