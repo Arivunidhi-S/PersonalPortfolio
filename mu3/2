@@ -98,7 +98,8 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.ibb.co/bjX5CRW2/Zee-Thirai.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
-http://livebox.pro:80/live/565trail724/6655447788/181966.ts
+https://port.denver1769.fun/Star69/181966.m3u8
+#http://livebox.pro:80/live/565trail724/6655447788/181966.ts
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="1Tamizh",Star Vijay Takkar SD
 https://public.kliv.fun/Mac1n/play.php?id=1016
@@ -131,15 +132,22 @@ https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d
 https://public.kliv.fun/Mac1n/play.php?id=767
 
 #EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="JTV ☎️ Music",Jaya Max
-https://public.kliv.fun/Mac1n/play.php?id=970
+https://port.denver1769.fun/Star69/98872.m3u8
+#https://public.kliv.fun/Mac1n/play.php?id=970
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
 #https://public.kliv.fun/Mac1n/play.php?id=11793
 https://public.kliv.fun/Mac1n/play.php?id=670
 
 #EXTINF:-1 tvg-id="1219" tvg-name="Animal Planet HD Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="JTV ☎️ Infotainment",Animal Planet HD Tamil
-https://public.kliv.fun/Mac1n/play.php?id=11786
+https://port.denver1769.fun/Star69/98873.m3u8
+#https://public.kliv.fun/Mac1n/play.php?id=11786
 
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="JTV ☎️ Infotainment",Discovery HD World
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=463
+https://port.denver1769.fun/Star69/98872.m3u8
 
 #EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
 https://public.kliv.fun/Mac1n/play.php?id=9184
