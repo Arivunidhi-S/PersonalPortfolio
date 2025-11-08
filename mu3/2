@@ -90,7 +90,7 @@ https://cdn-6.pishow.tv/live/1243/master.m3u8
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="1Tamizh",Star Vijay Super HD
-https://public.kliv.fun/Mac1n/play.php?id=831
+https://public.kliv.fun/Macbook/play.php?id=831
 
 #EXTINF:-1 tvg-id="mksix" tvg-logo="https://i.ibb.co/LD4v104b/mk6.png" group-title="1Tamizh",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
@@ -105,20 +105,20 @@ https://port.denver1769.fun/Star69/181966.m3u8|User-Agent=
 #http://livebox.pro:80/live/565trail724/6655447788/181966.ts
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="1Tamizh",Star Vijay Takkar SD
-https://public.kliv.fun/Mac1n/play.php?id=1016
+https://public.kliv.fun/Macbook/play.php?id=1016
 
 #EXTINF:-1 tvg-id="11784" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11700.jpg" group-title="Cable",Athavan TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-#https://public.kliv.fun/Mac1n/play.php?id=11784
+#https://public.kliv.fun/Macbook/play.php?id=11784
 https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st%3D1761899283~exp%3D1761920883~acl%3D%21%2A%2F120723%2Fsmil%3Aathavantv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_205_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_205_-1~hmac%3Df3d589f4f7655df55209eec80fd6882d92bc969c97b58dcbc7fd31f7008df600
 
 #EXTINF:-1 tvg-id="72348" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/71851.png" group-title="Cable",TVT TV
-https://public.kliv.fun/Mac1n/play.php?id=72348
+https://public.kliv.fun/Macbook/play.php?id=72348
 
 #EXTINF:-1 tvg-id="71128" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/70803.png" group-title="Cable",TNSE
-https://public.kliv.fun/Mac1n/play.php?id=71128
+https://public.kliv.fun/Macbook/play.php?id=71128
 
 #EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Cable", Thalaa TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -139,22 +139,22 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1391
 https://stream.kliv.fun/allplus18900/sony/stream.php?id=12
 
 #EXTINF:-1 tvg-id="13" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony BBC Earth HD
-https://public.kliv.fun/Mac1n/play.php?id=785
+https://public.kliv.fun/Macbook/play.php?id=785
 #http://livebox.pro:80/live/565trail724/6655447788/222.ts
 #https://stream.kliv.fun/allplus18900/sony/stream.php?id=13
 
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="JTV ☎️ Entertainment",Jaya TV HD
-https://public.kliv.fun/Mac1n/play.php?id=767
+https://public.kliv.fun/Macbook/play.php?id=767
 
 #EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="JTV ☎️ Music",Jaya Max
-https://public.kliv.fun/Mac1n/play.php?id=970
+https://public.kliv.fun/Macbook/play.php?id=970
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
-#https://public.kliv.fun/Mac1n/play.php?id=11793
-https://public.kliv.fun/Mac1n/play.php?id=670
+#https://public.kliv.fun/Macbook/play.php?id=11793
+https://public.kliv.fun/Macbook/play.php?id=670
 
 #EXTINF:-1 tvg-id="98873" tvg-name="Animal Planet HD Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="JTV ☎️ Infotainment",Animal Planet HD Tamil
-https://public.kliv.fun/Mac1n/play.php?id=11786
+https://public.kliv.fun/Macbook/play.php?id=11786
 
 #EXTINF:-1 tvg-id="98872" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="JTV ☎️ Infotainment",Discovery HD World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
@@ -162,18 +162,18 @@ https://public.kliv.fun/Mac1n/play.php?id=11786
 https://port.denver1769.fun/Star69/98872.m3u8|User-Agent=
 
 #EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
-https://public.kliv.fun/Mac1n/play.php?id=9184
+https://public.kliv.fun/Macbook/play.php?id=9184
 
 #EXTINF:-1 tvg-id="61517" tvg-logo="https://i.ibb.co/zJ0ZzxC/Mega-24.webp" group-title="Tamizh",Mega 24 Tamil
-https://public.kliv.fun/Mac1n/play.php?id=61517
+https://public.kliv.fun/Macbook/play.php?id=61517
 #http://livebox.pro:80/live/565trail724/6655447788/26163.ts
 
 #EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/KqKNgSz/Mega-Musiq.webp" group-title="Tamizh",Mega Music
-https://public.kliv.fun/Mac1n/play.php?id=61518
+https://public.kliv.fun/Macbook/play.php?id=61518
 #http://livebox.pro:80/live/565trail724/6655447788/26164.ts
 
 #EXTINF:-1 tvg-id="58180" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Mega_tv_in.png/revision/latest?cb=20191224092610" group-title="Tamizh",Mega TV
-https://public.kliv.fun/Mac1n/play.php?id=58180
+https://public.kliv.fun/Macbook/play.php?id=58180
 #http://livebox.pro:80/live/565trail724/6655447788/28141.ts
 
 #EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
