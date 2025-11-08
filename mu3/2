@@ -4,6 +4,7 @@
 #==================================
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
@@ -125,27 +126,35 @@ https://public.kliv.fun/Mac1n/play.php?id=71128
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8?hdnts=st%3D1761899291~exp%3D1761920891~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-THALAA-TV-TAM_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2069c593-3c07-4d62-9d44-746be5c3a5d6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_70_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_70_-1~hmac%3D3786ade9f243a29c653b7c694ca23ed5be663316e5afbdd715146777aacb0557
 
-#=================================
-# 🖥 Developed by: Arivunidhi
-# 🕒 Last Updated: 2025-10-27 02:57 PM 
-#==================================
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids: Hungama" tvg-logo="" group-title="PLAYLIVTV⭐EXTRA",Hungama
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=454f8353caac500d95d641e0c7cfe048&key=0aaca46ea0f5096335598781fbe590e4
+https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1391
+
+#EXTINF:-1 tvg-id="98871" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#http://livebox.pro:80/live/565trail724/6655447788/147.ts
+https://stream.kliv.fun/allplus18900/sony/stream.php?id=12
+
+#EXTINF:-1 tvg-id="13" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony BBC Earth HD
+https://public.kliv.fun/Mac1n/play.php?id=785
+#http://livebox.pro:80/live/565trail724/6655447788/222.ts
+#https://stream.kliv.fun/allplus18900/sony/stream.php?id=13
 
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="JTV ☎️ Entertainment",Jaya TV HD
 https://public.kliv.fun/Mac1n/play.php?id=767
 
 #EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="JTV ☎️ Music",Jaya Max
-https://port.denver1769.fun/Star69/98872.m3u8
-#https://public.kliv.fun/Mac1n/play.php?id=970
+https://public.kliv.fun/Mac1n/play.php?id=970
 
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
 #https://public.kliv.fun/Mac1n/play.php?id=11793
 https://public.kliv.fun/Mac1n/play.php?id=670
 
 #EXTINF:-1 tvg-id="98873" tvg-name="Animal Planet HD Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="JTV ☎️ Infotainment",Animal Planet HD Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-https://port.denver1769.fun/Star69/98873.m3u8|User-Agent=
-#https://public.kliv.fun/Mac1n/play.php?id=11786
+https://public.kliv.fun/Mac1n/play.php?id=11786
 
 #EXTINF:-1 tvg-id="98872" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="JTV ☎️ Infotainment",Discovery HD World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3

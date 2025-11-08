@@ -1,53 +1,8 @@
 
 #=================================
 # 🖥 Developed by: Arivunidhi
-# 🕒 Last Updated: 2025-11-05 07:51 AM 
+# 🕒 Last Updated: 2025-11-08 10:51 AM 
 #==================================
-
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-
-
-#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs3nov/index.php?id=0-9-9z5543514
-
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs3nov/index.php?id=0-9-channel_2105335046
-
-#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs3nov/index.php?id=0-9-zeetamil
-
-#EXTINF:-1 tvg-id="0-9-9z5383487" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs3nov/index.php?id=0-9-9z5383487
-
-#EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/Mac1n/play.php?id=796
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids: Hungama" tvg-logo="" group-title="PLAYLIVTV⭐EXTRA",Hungama
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=454f8353caac500d95d641e0c7cfe048&key=0aaca46ea0f5096335598781fbe590e4
-https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1391
-
-#EXTINF:-1 tvg-id="98871" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony PIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#http://livebox.pro:80/live/565trail724/6655447788/147.ts
-https://stream.kliv.fun/allplus18900/sony/stream.php?id=12
-
-#EXTINF:-1 tvg-id="13" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-https://port.denver1769.fun/Star69/98871.m3u8|User-Agent=
-#http://livebox.pro:80/live/565trail724/6655447788/222.ts
-#https://stream.kliv.fun/allplus18900/sony/stream.php?id=13
-
-
-
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
