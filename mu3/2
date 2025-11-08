@@ -1,6 +1,18 @@
 ﻿
 #EXTM3U
 
+#EXTINF:-1 tvg-id="147" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="INDIA ENGLISH MOVIES", Sony PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/147.ts|User-Agent=
+#EXTINF:-1 tvg-id="222" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/222.ts|User-Agent=
+#EXTINF:-1 tvg-id="9391" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="INDIA DOCUMENTARY",Animal Planet HD Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/9391.ts|User-Agent=
 #EXTINF:-1 tvg-id="98872" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="INDIA DOCUMENTARY",Discovery HD World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
@@ -9,7 +21,6 @@ http://webhop.live:80/live/haPPy/haPPy123/98872.ts|User-Agent=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
 http://webhop.live:80/live/haPPy/haPPy123/181966.ts|User-Agent=
-#http://livebox.pro:80/live/565trail724/6655447788/181966.ts
 
 #=================================
 # 🖥 Developed by: Arivunidhi
@@ -141,15 +152,8 @@ https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=454f8353caac500d95d641e0c7cfe048&key=0aaca46ea0f5096335598781fbe590e4
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1391
 
-#EXTINF:-1 tvg-id="98871" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony PIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#http://livebox.pro:80/live/565trail724/6655447788/147.ts
-https://stream.kliv.fun/allplus18900/sony/stream.php?id=12
 
-#EXTINF:-1 tvg-id="13" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLI√" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony BBC Earth HD
-https://public.kliv.fun/Macbook/play.php?id=785
-#http://livebox.pro:80/live/565trail724/6655447788/222.ts
-#https://stream.kliv.fun/allplus18900/sony/stream.php?id=13
+
 
 #EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="JTV ☎️ Entertainment",Jaya TV HD
 https://public.kliv.fun/Macbook/play.php?id=767
@@ -161,8 +165,7 @@ https://public.kliv.fun/Macbook/play.php?id=970
 #https://public.kliv.fun/Macbook/play.php?id=11793
 https://public.kliv.fun/Macbook/play.php?id=670
 
-#EXTINF:-1 tvg-id="98873" tvg-name="Animal Planet HD Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="JTV ☎️ Infotainment",Animal Planet HD Tamil
-https://public.kliv.fun/Macbook/play.php?id=11786
+
 
 
 
