@@ -21,6 +21,19 @@ http://webhop.live:80/live/haPPy/haPPy123/98872.ts|User-Agent=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
 http://webhop.live:80/live/haPPy/haPPy123/181966.ts|User-Agent=
+#EXTINF:-1 tvg-id="188" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="TAMIL | ENTERTAINMENT",Jaya TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/188.ts|User-Agent=
+#EXTINF:-1 tvg-id="240" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="TAMIL | ENTERTAINMENT,Jaya Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/240.ts|User-Agent=
+#EXTINF:-1 tvg-id="1618" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="TAMIL | MOVIES",J Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/1618.ts|User-Agent=
+
 
 #=================================
 # 🖥 Developed by: Arivunidhi
@@ -95,6 +108,10 @@ https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd|Refe
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
 https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Takkar_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
+#EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/Mac1n/play.php?id=796
+
 #EXTINF:-1 tvg-id="vikatan-tv" tvg-logo="https://a.jsrdn.com/hls/23087/vikatan-tv/poster_20230509_173210.jpg" group-title="Tamizh",Vikatan TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
 
@@ -154,16 +171,6 @@ https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1391
 
 
 
-
-#EXTINF:-1 tvg-id="419" tvg-name="Jaya TV HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="JTV ☎️ Entertainment",Jaya TV HD
-https://public.kliv.fun/Macbook/play.php?id=767
-
-#EXTINF:-1 tvg-id="420" tvg-name="Jaya Max" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="JTV ☎️ Music",Jaya Max
-https://public.kliv.fun/Macbook/play.php?id=970
-
-#EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
-#https://public.kliv.fun/Macbook/play.php?id=11793
-https://public.kliv.fun/Macbook/play.php?id=670
 
 
 
