@@ -33,6 +33,14 @@ http://webhop.live:80/live/haPPy/haPPy123/240.ts|User-Agent=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
 http://webhop.live:80/live/haPPy/haPPy123/1618.ts|User-Agent=
+#EXTINF:-1 tvg-id="1618" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="TAMIL | MOVIES",Vijay Super HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/1614.ts|User-Agent=
+#EXTINF:-1 tvg-id="1618" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="TAMIL | ENTERTAINMENT",Vijay Takkar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/haPPy/haPPy123/23869.ts|User-Agent=
 
 
 #=================================
@@ -97,16 +105,6 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="1131" tvg-name="Vijay Super" tvg-language="Unknown" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="1Tamizh" group-logo="", Vijay Super HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8
-https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
-
-#EXTINF:-1 tvg-id="ts906" tvg-chno="18" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh", Vijay Takkar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecdf4d18807e55bf814c3f40656a33c3:0031af1bf42234195cda0eb88fd6003b
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-https://jtvp.8088yyy.workers.dev/bpk-tv/Vijay_Takkar_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -168,13 +166,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=454f8353caac500d95d641e0c7cfe048&key=0aaca46ea0f5096335598781fbe590e4
 https://stream.kliv.fun/allplus18900/jtv/manifest.mpd?id=1391
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
 https://public.kliv.fun/Macbook/play.php?id=9184
