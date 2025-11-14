@@ -57,8 +57,6 @@ https://ipcloud.live/kingtv/kingtv/index.m3u8
 http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="145" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w240-h480-rw" tvg-chno="145" group-title="Cable TV",Surya TV
 https://galaxyott.live/hls/suryatv.m3u8
-#EXTINF:-1  tvg-id="146" tvg-logo="https://play-lh.googleusercontent.com/5REK-Rm9aqwcvIVUHGO6YPHG7En_EVAR5TclkgrFUl96Tl9F6E4gKrdNO9vBdZLtDfw=w240-h480-rw" tvg-chno="146" group-title="Cable TV",Sooriyan TV
-https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
 #EXTINF:-1  tvg-id="147" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Rainbow_TV_Logo.png/revision/latest?cb=20211014060555" tvg-chno="147" group-title="Cable TV",Rainbow TV
 https://tll.atrprasath.workers.dev/hari_VhfXu?id=16
 #EXTINF:-1  tvg-id="148" tvg-logo="https://play-lh.googleusercontent.com/02P9VZ6N__M9qmvjlT1JB3yHyFVQ5vrXQHVUPvnqmw9HhSavqSs3_Sp-xuqMMFO1_W8=w240-h480-rw" tvg-chno="148" group-title="Cable TV",Yogaa TV
@@ -271,8 +269,17 @@ https://public.kliv.fun/Macbook/play.php?id=72348
 #EXTINF:-1 tvg-id="71128" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/70803.png" group-title="Cable TV",TNSE
 https://public.kliv.fun/Macbook/play.php?id=71128
 
-#EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Cable", Thalaa TV
+#EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Cable TV", Thalaa TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8?hdnts=st%3D1761899291~exp%3D1761920891~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-THALAA-TV-TAM_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2069c593-3c07-4d62-9d44-746be5c3a5d6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_70_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_70_-1~hmac%3D3786ade9f243a29c653b7c694ca23ed5be663316e5afbdd715146777aacb0557
+
+#EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="https://i.postimg.cc/K8kgN7bt/ibctamil.png" group-title="Cable TV",IBC Tamil
+https://ibc.massstream.net/IBC/index.m3u8
+
+#EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="Tamil",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Cable TV",Sooriyan TV
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
