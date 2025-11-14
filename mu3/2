@@ -5,33 +5,32 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
 https://public.kliv.fun/zs3nov/Sony/stream.php?id=12
-#EXTINF:-1 tvg-id="222" tvg-logo="https://i.ibb.co/Y4pKvRRB/Sony-BBC-Earth.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
+#EXTINF:-1 tvg-id="190" tvg-logo="https://i.ibb.co/Y4pKvRRB/Sony-BBC-Earth.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-#http://webhop.live:80/live/3aonDuQEM4/obedient5grab/222.ts|User-Agent=
-https://public.kliv.fun/zs3nov/Sony/stream.php?id=13
+http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/190.ts|User-Agent=
 #EXTINF:-1 tvg-id="182" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="INDIA DOCUMENTARY",Animal Planet HD Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-http://webhop.live:80/live/3aonDuQEM4/obedient5grab/182.ts|User-Agent=
+http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/182.ts|User-Agent=
 #EXTINF:-1 tvg-id="156" tvg-logo="https://i.ibb.co/8nCFBX13/Discovery.png" group-title="INDIA DOCUMENTARY",Discovery HD World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-http://webhop.live:80/live/3aonDuQEM4/obedient5grab/181966.ts|User-Agent=
+http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/156.ts|User-Agent=
 #EXTINF:-1 tvg-id="JayaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="TAMIL | ENTERTAINMENT",Jaya TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-#http://webhop.live:80/live/3aonDuQEM4/obedient5grab/188.ts|User-Agent=
-http://87.255.35.150:18829
+#http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/188.ts|User-Agent=
+http://87.255.35.150:18820
 #EXTINF:-1 tvg-id="JayaMax.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="TAMIL | ENTERTAINMENT,Jaya Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-#http://webhop.live:80/live/3aonDuQEM4/obedient5grab/240.ts|User-Agent=
+#http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/240.ts|User-Agent=
 http://87.255.35.150:18829
 #EXTINF:-1 tvg-id="1618" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="TAMIL | MOVIES",J Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-#http://webhop.live:80/live/3aonDuQEM4/obedient5grab/1618.ts|User-Agent=
+#http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/1618.ts|User-Agent=
 https://public.kliv.fun/Macbook/play.php?id=11793
 
 
@@ -52,6 +51,7 @@ https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1  tvg-id="200" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" tvg-chno="20" group-title="Tamizh",Astro Vellithirai
 #http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
+http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/12305.ts
 #EXTINF:-1  tvg-id="200" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Thangathirai.png" tvg-chno="20" group-title="Tamizh",Astro Thangathirai
 https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8
 #EXTINF:-1  tvg-id="200" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Vinmeen.png" tvg-chno="20" group-title="Tamizh",Astro Vinmeen
@@ -104,10 +104,10 @@ http://66.102.120.18:8000/play/a013/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://public.kliv.fun/Macbook/play.php?id=796
 
-#EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="1Tamizh",Vijay Super HD
+#EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="1Tamizh",Vijay Super HD
 http://87.255.35.150:18954
 
-#EXTINF:-1 tvg-id="VijayTakkar.in@SD" tvg-logo="https://i.imgur.com/bqqcEu7.png" group-title="1Tamizh",Vijay Takkar
+#EXTINF:-1 tvg-id="VijayTakkar.in@SD" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Vijay Takkar
 http://87.255.35.150:18950
 
 #EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
