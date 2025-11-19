@@ -1,14 +1,13 @@
 ﻿
 #EXTM3U
 
-#EXTINF:-1 tvg-id="147" tvg-logo="https://i.ibb.co/fGVvn7Sd/Sony-Pix.png" group-title="INDIA ENGLISH MOVIES", Sony PIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-https://public.kliv.fun/zs3nov/Sony/stream.php?id=12
+#EXTINF:-1 tvg-id="12" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.ibb.co/fGVvn7Sd/Sony-Pix.png" group-title="SONYLI√", Sony PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://stream.kliv.fun/allplus13nov/sony/stream.php?id=12
 #EXTINF:-1 tvg-id="190" tvg-logo="https://i.ibb.co/Y4pKvRRB/Sony-BBC-Earth.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/190.ts|User-Agent=
+http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/174.ts|User-Agent=
 #EXTINF:-1 tvg-id="182" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="INDIA DOCUMENTARY",Animal Planet HD Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
@@ -27,11 +26,11 @@ http://87.255.35.150:18820
 #KODIPROP:http-referer=http:///stalker_portal/c/
 #http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/240.ts|User-Agent=
 http://87.255.35.150:18829
-#EXTINF:-1 tvg-id="1618" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="TAMIL | MOVIES",J Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-#http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/1618.ts|User-Agent=
-https://public.kliv.fun/Macbook14/play.php?id=11793
+#EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=417
+https://stream.kliv.fun/allplus13nov/jtv/manifest.mpd?id=417
 
 
 #=================================
