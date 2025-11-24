@@ -3,6 +3,7 @@
 
 #EXTINF:-1 tvg-id="12" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.ibb.co/fGVvn7Sd/Sony-Pix.png" group-title="SONYLI√", Sony PIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#http://87.255.35.150:18495
 https://stream.kliv.fun/allplus23/sony/stream.php?id=12
 #EXTINF:-1 tvg-id="190" tvg-logo="https://i.ibb.co/Y4pKvRRB/Sony-BBC-Earth.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
@@ -48,19 +49,8 @@ https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-#EXTINF:-1  tvg-id="200" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" tvg-chno="20" group-title="Tamizh",Astro Vellithirai
-#http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
-http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/12305.ts
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-#EXTINF:-1  tvg-id="AstroThangathirai" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Thangathirai.png" tvg-chno="20" group-title="Astro GO",Astro Thangathirai
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTINF:-1  tvg-id="AstroVinmeen" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Vinmeen.png" tvg-chno="20" group-title="Astro GO",Astro Vinmeen
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2105//default_primary.mpd
+
+
 #EXTINF:-1  tvg-id="59" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="59" group-title="3 Movies",CineBox 1
 http://cord-cutter.net:8080/live/95549031/69361122/119437.ts
 #EXTINF:-1  tvg-id="60" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="60" group-title="3 Movies",CineBox 2
@@ -105,6 +95,11 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="4 Kids",Disney Channel HD
 http://66.102.120.18:8000/play/a013/index.m3u8
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://public.kliv.fun/Macair22/play.php?id=796
@@ -112,7 +107,7 @@ https://public.kliv.fun/Macair22/play.php?id=796
 #EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="1Tamizh",Vijay Super HD
 http://87.255.35.150:18954
 
-#EXTINF:-1 tvg-id="VijayTakkar.in@SD" tvg-logo="https://i.ibb.co/H1zFsQB/Vijay-Takkar.png" group-title="1Tamizh",Vijay Takkar
+#EXTINF:-1 tvg-id="VijayTakkar.in@SD" tvg-logo="https://i.ibb.co/cKjsxxTH/Vijay-Takkar.png" group-title="1Tamizh",Vijay Takkar
 http://87.255.35.150:18950
 
 #EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.ibb.co/zw8mhLm/Zee-Thirai-HD-29.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
@@ -120,44 +115,44 @@ http://87.255.35.150:18950
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 http://87.255.35.150:18597
 
-#EXTINF:-1 tvg-id="vikatan-tv" tvg-logo="https://a.jsrdn.com/hls/23087/vikatan-tv/poster_20230509_173210.jpg" group-title="Tamizh",Vikatan TV
+#EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/rRYL568F/Vijay-Super-2019-copy.webp" group-title="1Tamizh",Star Vijay Super HD
+https://public.kliv.fun/Macair22/play.php?id=831
+
+#EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Star Vijay Takkar SD
+https://public.kliv.fun/Macair22/play.php?id=1016
+
+#EXTINF:-1 tvg-id="vikatan-tv" tvg-logo="https://i.ibb.co/dsSxZwCB/vikatan-Custom-1.png" group-title="Tamizh",Vikatan TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="843" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="Tamizh" group-logo="", Madhimugam TV
 https://cdn-3.pishow.tv/live/1476/master.m3u8
 
-#EXTINF:-1 tvg-id="2958" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0044256880499658982038945.png" group-title="Tamizh", Tamilan Television
+#EXTINF:-1 tvg-id="2958" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0044256880499658982038945.png" group-title="hilaytv", Tamilan Television
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vaanaviltv" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vaanavil_tv_in.png" group-title="Tamizh",Vaanavil TV
+#EXTINF:-1 tvg-id="vaanaviltv" tvg-logo="https://i.ibb.co/KxYpXbQP/vaanavil-tv-in.png" group-title="Tamizh",Vaanavil TV
 #http://202.164.50.194:8000/play/a02r/index.m3u8
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Tamizh",7S Music
+#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.ibb.co/VYNc5YsJ/7s.png" group-title="Tamizh",7S Music
 http://202.164.50.194:8000/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
-#EXTINF:-1  tvg-chno="ts1167" tvg-chno="18" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m-nadu-tv-in.png" group-title="Tamizh",M Nadu
+#EXTINF:-1  tvg-chno="ts1167" tvg-chno="18" tvg-logo="https://i.ibb.co/Fbys5zSc/m-nadu-tv-in.png" group-title="Tamizh",M Nadu
 http://202.164.50.194:8000/play/a021/index.m3u8
 
-
-#EXTINF:-1 tvg-id="velichamtv" tvg-logo="https://www.lyngsat.com/logo/tv/vv/velicham-tv-in.png" group-title="Tamizh",Velicham Tv
+#EXTINF:-1 tvg-id="velichamtv" tvg-logo="https://i.ibb.co/1JKwNnkH/velicham-tv-in.png" group-title="Tamizh",Velicham Tv
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
-
-#EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/5Wx4N8KK/Vijay-Super-2019.webp" group-title="1Tamizh",Star Vijay Super HD
-https://public.kliv.fun/Macair22/play.php?id=831
 
 #EXTINF:-1 tvg-id="mksix" tvg-logo="https://i.ibb.co/LD4v104b/mk6.png" group-title="1Tamizh",MK Six
 #https://cdn-3.pishow.tv/live/1253/master.m3u8
 http://202.164.50.194:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="1Tamizh",Malai Murasu
-https://cdn-3.pishow.tv/live/1606/master.m3u8
-
-#EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Star Vijay Takkar SD
-https://public.kliv.fun/Macair22/play.php?id=1016
+#https://cdn-3.pishow.tv/live/1606/master.m3u8
+http://12dec25-rkdyiptv.wasmer.app/play.php?id=989
 
 #EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
 https://public.kliv.fun/Macair22/play.php?id=9184

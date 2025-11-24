@@ -13,7 +13,7 @@ https://public.kliv.fun/zs3nov/index.php?id=0-9-9z5543514
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://public.kliv.fun/zs3nov/index.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="ZeeTamil.in@SD" ttvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
+#EXTINF:-1 tvg-id="ZeeTamil.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 http://87.255.35.150:18553

@@ -1,4 +1,18 @@
-﻿#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+﻿#EXTINF:-1  tvg-id="200" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" tvg-chno="20" group-title="Tamizh",Astro Vellithirai
+#http://front-main.eagle-4k.me:80/live/m7t7u5p96o/g4xb6pbb1r/1163696.m3u8
+http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/12305.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTINF:-1  tvg-id="AstroThangathirai" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Thangathirai.png" tvg-chno="20" group-title="Astro GO",Astro Thangathirai
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1  tvg-id="AstroVinmeen" tvg-logo="https://i.ibb.co/3yP5pbgT/Astro-Vinmeen.png" tvg-chno="20" group-title="Astro GO",Astro Vinmeen
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105//default_primary.mpd
+
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1  tvg-id="104" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" tvg-chno="104" group-title="Cable TV",CTN Arasu
 https://ipcloud.live/ctn/arasu/index.m3u8
 #EXTINF:-1  tvg-id="103" tvg-logo="https://play-lh.googleusercontent.com/Y7yKVFlxFnmT5vi8nAsoUeo8YYF2RyZWhnlvwMk9lAxAXrEsS9hZGXrr-2ExrDtOUlgv=w240-h480-rw" tvg-chno="103" group-title="Cable TV",CTN NXT TV
@@ -256,12 +270,11 @@ https://ipcloud.live/sachintv/musichd/index.m3u8
 #EXTINF:-1  tvg-id="338" tvg-logo="https://play-lh.googleusercontent.com/weF5tBb_3j2KlQ5r8vW2VYEeyDVbfjdzHpaH-XoGKS663UW0ILNGcLkShtjV0uSSp8tt=s64-rw" tvg-chno="338" group-title="Cable TV",Dhoni TV
 https://ipcloud.live/sachintv/dhonitv/index.m3u8
 
-#EXTINF:-1 tvg-id="11784" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/11700.jpg" group-title="Cable TV",Athavan TV
+#EXTINF:-1 tvg-id="205" tvg-chno="526" tvg-name="athavan-tv-hd" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png" group-title="Cable TV", Athavan TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-#https://public.kliv.fun/Macbook/play.php?id=11784
-https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st%3D1761899283~exp%3D1761920883~acl%3D%21%2A%2F120723%2Fsmil%3Aathavantv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_205_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_205_-1~hmac%3Df3d589f4f7655df55209eec80fd6882d92bc969c97b58dcbc7fd31f7008df600
+https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st%3D1763981550~exp%3D1764003150~acl%3D%21%2A%2F120723%2Fsmil%3Aathavantv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.234.41.65_yuppfast_2_channel_205_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.234.41.65_yuppfast_2_channel_205_-1~hmac%3Db4dca3f25be935ec94752b087478e469b06147a8299b79e821d70797d4a6e0a1
 
 #EXTINF:-1 tvg-id="72348" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/71851.png" group-title="Cable TV",TVT TV
 https://public.kliv.fun/Macbook14/play.php?id=72348
@@ -363,3 +376,4 @@ https://live.applelive.in/penguinhd/penguinhd/index.m3u8
 https://rtmp.applelive.in/anbudantv/anbudantv/index.m3u8
 #EXTINF:-1tvg-id="" tvg-logo="" group-title="Cable TV",Boys tv
 http://rtmp.applelive.in/boystv/boystv/index.m3u8
+
