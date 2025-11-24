@@ -32,10 +32,6 @@ http://87.255.35.150:18829
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=417
 https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=417
-#EXTINF:-1  tvg-id="5932" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="TAMIL | ENTERTAINMENT",Sirippoli SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-http://webhop.live:80/live/adeeljisgpr/sonuiptv/5932.ts|User-Agent=
 
 #=================================
 # 🖥 Developed by: Arivunidhi
@@ -47,8 +43,7 @@ http://webhop.live:80/live/adeeljisgpr/sonuiptv/5932.ts|User-Agent=
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
-#https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
-http://webhop.live:80/live/adeeljisgpr/sonuiptv/240.ts
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
@@ -117,10 +112,10 @@ https://public.kliv.fun/Macair22/play.php?id=796
 #EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="1Tamizh",Vijay Super HD
 http://87.255.35.150:18954
 
-#EXTINF:-1 tvg-id="VijayTakkar.in@SD" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Vijay Takkar
+#EXTINF:-1 tvg-id="VijayTakkar.in@SD" tvg-logo="https://i.ibb.co/H1zFsQB/Vijay-Takkar.png" group-title="1Tamizh",Vijay Takkar
 http://87.255.35.150:18950
 
-#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.imgur.com/vmHfPD8.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
+#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.ibb.co/zw8mhLm/Zee-Thirai-HD-29.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 http://87.255.35.150:18597
@@ -135,30 +130,33 @@ https://cdn-3.pishow.tv/live/1476/master.m3u8
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vaanaviltv" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vaanavil_tv_in.png" group-title="Tamizh",Vaanavil TV
+#http://202.164.50.194:8000/play/a02r/index.m3u8
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Tamizh",7S Music
 http://202.164.50.194:8000/play/a026/index.m3u8
 
-#EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://i.ibb.co/WK1WwvW/Chithiram-tv-logo.png" group-title="Tamizh", Chithiram
+#EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 
+#EXTINF:-1  tvg-chno="ts1167" tvg-chno="18" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m-nadu-tv-in.png" group-title="Tamizh",M Nadu
+http://202.164.50.194:8000/play/a021/index.m3u8
 
 
 #EXTINF:-1 tvg-id="velichamtv" tvg-logo="https://www.lyngsat.com/logo/tv/vv/velicham-tv-in.png" group-title="Tamizh",Velicham Tv
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
 
-#EXTINF:-1 tvg-id="831" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="1Tamizh",Star Vijay Super HD
+#EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/5Wx4N8KK/Vijay-Super-2019.webp" group-title="1Tamizh",Star Vijay Super HD
 https://public.kliv.fun/Macair22/play.php?id=831
 
 #EXTINF:-1 tvg-id="mksix" tvg-logo="https://i.ibb.co/LD4v104b/mk6.png" group-title="1Tamizh",MK Six
-https://cdn-3.pishow.tv/live/1253/master.m3u8
+#https://cdn-3.pishow.tv/live/1253/master.m3u8
+http://202.164.50.194:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="1Tamizh",Malai Murasu
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
-
-#EXTINF:-1 tvg-id="1016" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="1Tamizh",Star Vijay Takkar SD
+#EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Star Vijay Takkar SD
 https://public.kliv.fun/Macair22/play.php?id=1016
 
 #EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil

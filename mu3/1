@@ -13,9 +13,10 @@ https://public.kliv.fun/zs3nov/index.php?id=0-9-9z5543514
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://public.kliv.fun/zs3nov/index.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs3nov/index.php?id=0-9-zeetamil
+#EXTINF:-1 tvg-id="ZeeTamil.in@SD" ttvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
+http://87.255.35.150:18553
 
 #EXTINF:-1 tvg-id="0-9-9z5383487" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -1568,7 +1569,8 @@ https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=701
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=705
-https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=705
+#https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=705
+https://cdn-2.pishow.tv/live/1241/master.m3u8
 
 #EXTINF:-1 tvg-id="706" tvg-name="DD Saptagiri" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="JTV ☎️ Entertainment",DD Saptagiri
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2870,7 +2872,8 @@ https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=1205
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=1209
-https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=1209
+#https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=1209
+https://edge2-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 tvg-id="1210" tvg-name="Kalaignar Seithigal" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="JTV ☎️ News",Kalaignar Seithigal
 #KODIPROP:inputstream=inputstream.adaptive
