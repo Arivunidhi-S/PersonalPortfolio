@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="12" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.ibb.co/fGVvn7Sd/Sony-Pix.png" group-title="SONYLI√", Sony PIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://stream.kliv.fun/allplus13nov/sony/stream.php?id=12
+https://stream.kliv.fun/allplus23/sony/stream.php?id=12
 #EXTINF:-1 tvg-id="190" tvg-logo="https://i.ibb.co/Y4pKvRRB/Sony-BBC-Earth.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
@@ -19,19 +19,23 @@ http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/156.ts|User-Agent=
 #EXTINF:-1 tvg-id="JayaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="TAMIL | ENTERTAINMENT",Jaya TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-#http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/188.ts|User-Agent=
+#http://webhop.live:80/live/adeeljisgpr/sonuiptv/188.ts|User-Agent=
+#http://webhop.live:80/live/adeeljisgpr/sonuiptv/5895.ts|User-Agent=
 http://87.255.35.150:18820
-#EXTINF:-1 tvg-id="JayaMax.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="TAMIL | ENTERTAINMENT,Jaya Max
+#EXTINF:-1 tvg-id="JayaMax.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="TAMIL | ENTERTAINMENT",Jaya Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-#http://webhop.live:80/live/869RRAmDep/2t5iCTlJQX/240.ts|User-Agent=
+#http://webhop.live:80/live/adeeljisgpr/sonuiptv/240.ts|User-Agent=
 http://87.255.35.150:18829
 #EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=417
-https://stream.kliv.fun/allplus13nov/jtv/manifest.mpd?id=417
-
+https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=417
+#EXTINF:-1  tvg-id="5932" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="TAMIL | ENTERTAINMENT",Sirippoli SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+http://webhop.live:80/live/adeeljisgpr/sonuiptv/5932.ts|User-Agent=
 
 #=================================
 # 🖥 Developed by: Arivunidhi
@@ -43,7 +47,8 @@ https://stream.kliv.fun/allplus13nov/jtv/manifest.mpd?id=417
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+http://webhop.live:80/live/adeeljisgpr/sonuiptv/240.ts
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
@@ -107,7 +112,7 @@ http://66.102.120.18:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/Macbook14/play.php?id=796
+https://public.kliv.fun/Macair22/play.php?id=796
 
 #EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="1Tamizh",Vijay Super HD
 http://87.255.35.150:18954
@@ -144,7 +149,7 @@ https://cdn-6.pishow.tv/live/1243/master.m3u8
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="1Tamizh",Star Vijay Super HD
-https://public.kliv.fun/Macbook14/play.php?id=831
+https://public.kliv.fun/Macair22/play.php?id=831
 
 #EXTINF:-1 tvg-id="mksix" tvg-logo="https://i.ibb.co/LD4v104b/mk6.png" group-title="1Tamizh",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
@@ -154,21 +159,21 @@ https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="1Tamizh",Star Vijay Takkar SD
-https://public.kliv.fun/Macbook14/play.php?id=1016
+https://public.kliv.fun/Macair22/play.php?id=1016
 
 #EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
-https://public.kliv.fun/Macbook14/play.php?id=9184
+https://public.kliv.fun/Macair22/play.php?id=9184
 
 #EXTINF:-1 tvg-id="61517" tvg-logo="https://i.ibb.co/zJ0ZzxC/Mega-24.webp" group-title="Tamizh",Mega 24 Tamil
-https://public.kliv.fun/Macbook14/play.php?id=61517
+https://public.kliv.fun/Macair22/play.php?id=61517
 #http://livebox.pro:80/live/565trail724/6655447788/26163.ts
 
 #EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/HjndNGN/Mega-Musiq.png" group-title="Tamizh",Mega MusiQ
-https://public.kliv.fun/Macbook14/play.php?id=61518
+https://public.kliv.fun/Macair22/play.php?id=61518
 #http://livebox.pro:80/live/565trail724/6655447788/26164.ts
 
 #EXTINF:-1 tvg-id="58180" tvg-logo="https://i.ibb.co/Mxg9Kkfr/Mega.png" group-title="Tamizh",Mega TV
-https://public.kliv.fun/Macbook14/play.php?id=58180
+https://public.kliv.fun/Macair22/play.php?id=58180
 #http://livebox.pro:80/live/565trail724/6655447788/28141.ts
 
 #EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
