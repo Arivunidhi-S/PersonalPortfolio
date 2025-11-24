@@ -2050,7 +2050,8 @@ https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=817
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=824
-https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=824
+#https://stream.kliv.fun/allplus23/jtv/manifest.mpd?id=824
+http://202.164.50.194:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-id="826" tvg-name="Malai Murasu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="JTV ☎️ News",Malai Murasu
 #KODIPROP:inputstream=inputstream.adaptive
