@@ -12,7 +12,18 @@ Author email: nidhiarivu@gmail.com
 	<link href="http://fonts.googleapis.com/css2?family=Jost:wght@300;400;600&amp;display=swap" rel="stylesheet">
 	<link href="http://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style-starter.css">
-  <link href="assets/css/style-liberty.css" rel="stylesheet">	
+  <link href="assets/css/style-liberty.css" rel="stylesheet">
+  <style>
+    .portfolio-area { display: grid !important; grid-template-columns: repeat(3, 1fr) !important; gap: 20px !important; clear: none !important; }
+    .portfolio-item2 { width: 100% !important; }
+    @media (max-width: 768px) {
+      .portfolio-area { grid-template-columns: repeat(2, 1fr) !important; }
+    }
+    @media (max-width: 480px) {
+      .portfolio-area { grid-template-columns: 1fr !important; }
+    }
+  </style>
+</head>
 <body>	
 	<!--header-->
 	<header id="site-header" class="main-header fixed-top">
@@ -98,7 +109,7 @@ Author email: nidhiarivu@gmail.com
                     title="Category 4">Portfolio</a>
             </li> -->
         </ul>
-        <ul class="portfolio-area clearfix p-0 m-0" style="height:auto!important;">
+        <ul class="portfolio-area p-0 m-0">
             <li class="portfolio-item2 content" data-id="id-1" data-type="cat-item-1">
                 <span class="image-block">
                     <a class="image-zoom"
@@ -106,7 +117,7 @@ Author email: nidhiarivu@gmail.com
                         data-gal="prettyPhoto[gallery]">
                         <div class="content-overlay"></div>
                         <img src="assets/images/bps.jpg"
-                            alt="portfolio-img" class="img-fluid w3layouts agileits">
+                            alt="portfolio-img" class="img-fluid w3layouts agileits" style="width:100%; height:auto; display:block;">
                         <div class="content-details fadeIn-bottom">
                             <h3 class="content-title">
                               Beyond Paradigm Summit 2019                             </h3>
@@ -123,7 +134,7 @@ Author email: nidhiarivu@gmail.com
                         data-gal="prettyPhoto[gallery]">
                         <div class="content-overlay"></div>
                         <img src="assets/images/meexpo.jpg"
-                            alt="portfolio-img" class="img-fluid w3layouts agileits">
+                            alt="portfolio-img" class="img-fluid w3layouts agileits" style="width:100%; height:auto; display:block;">
                         <div class="content-details fadeIn-bottom">
                             <h3 class="content-title">
                               The Malaysia E-Commerce Expo 2017                          </h3>
@@ -133,14 +144,14 @@ Author email: nidhiarivu@gmail.com
                     </a>
                 </span>
             </li>
-            <li class="portfolio-item2 content" data-id="id-3" data-type="cat-item-2">
+            <li class="portfolio-item2 content" data-id="id-3" data-type="cat-item-1">
                 <span class="image-block">
                     <a class="image-zoom"
                         href="assets/images/25TH2018.jpg"
                         data-gal="prettyPhoto[gallery]">
                         <div class="content-overlay"></div>
                         <img src="assets/images/25th.jpg"
-                            alt="portfolio-img" class="img-fluid w3layouts agileits">
+                            alt="portfolio-img" class="img-fluid w3layouts agileits" style="width:100%; height:auto; display:block;">
                         <div class="content-details fadeIn-bottom">
                             <h3 class="content-title">
                               Serba Dinamik 25th Anniversary                           </h3>
@@ -150,14 +161,14 @@ Author email: nidhiarivu@gmail.com
                     </a>
                 </span>
             </li>
-            <li class="portfolio-item2 content" data-id="id-4" data-type="cat-item-1">
+            <li class="portfolio-item2 content" data-id="id-4" data-type="cat-item-2">
                 <span class="image-block">
                     <a class="image-zoom"
                         href="assets/images/SILV2018.jpg"
                         data-gal="prettyPhoto[gallery]">
                         <div class="content-overlay"></div>
                         <img src="assets/images/silv.jpg"
-                            alt="portfolio-img" class="img-fluid w3layouts agileits">
+                            alt="portfolio-img" class="img-fluid w3layouts agileits" style="width:100%; height:auto; display:block;">
                         <div class="content-details fadeIn-bottom">
                             <h3 class="content-title">
                              Serba Dinamik Silver Jubilee                          </h3>
@@ -167,14 +178,14 @@ Author email: nidhiarivu@gmail.com
                     </a>
                 </span>
             </li>
-            <li class="portfolio-item2 content" data-id="id-5" data-type="cat-item-1">
+            <li class="portfolio-item2 content" data-id="id-5" data-type="cat-item-2">
                 <span class="image-block">
                     <a class="image-zoom"
                         href="assets/images/EBB2018.JPG"
                         data-gal="prettyPhoto[gallery]">
                         <div class="content-overlay"></div>
                         <img src="assets/images/EBB2018.JPG"
-                            alt="portfolio-img" class="img-fluid w3layouts agileits">
+                            alt="portfolio-img" class="img-fluid w3layouts agileits" style="width:100%; height:auto; display:block;">
                         <div class="content-details fadeIn-bottom">
                             <h3 class="content-title">
                               EasyBuyBye                        </h3>
@@ -191,65 +202,63 @@ Author email: nidhiarivu@gmail.com
                         data-gal="prettyPhoto[gallery]">
                         <div class="content-overlay"></div>
                         <img src="assets/images/expo.jpg"
-                            alt="portfolio-img" class="img-fluid w3layouts agileits">
+                            alt="portfolio-img" class="img-fluid w3layouts agileits" style="width:100%; height:auto; display:block;">
                         <div class="content-details fadeIn-bottom">
                             <h3 class="content-title">
                                  ME Expo 2017                           </h3>
                             <p class="content-text">
-                                It was the leading e-commerce trade show and conference in Malaysia for SMEs and corporations, showcasing industrial technologies, services, and updates. 
-                                                         </p>
+                                It was the leading e-commerce trade show and conference in Malaysia, showcasing industrial technologies, services, and updates. </p>
                         </div>
                     </a>
                 </span>
             </li>
-            <li class="portfolio-item2 content" data-id="id-4" data-type="cat-item-2">
+            <li class="portfolio-item2 content" data-id="id-8" data-type="cat-item-2">
                 <span class="image-block">
                     <a class="image-zoom"
-                        href="assets/images/gjpbig.png"
+                        href="assets/images/SNB2018.jpg"
                         data-gal="prettyPhoto[gallery]">
                         <div class="content-overlay"></div>
-                        <img src="assets/images/gjp.jpg"
-                            alt="portfolio-img" class="img-fluid w3layouts agileits">
+                        <img src="assets/images/snb.jpg"
+                            alt="portfolio-img" class="img-fluid w3layouts agileits" style="width:100%; height:auto; display:block;">
                         <div class="content-details fadeIn-bottom">
                             <h3 class="content-title">
-                                Global Job Posting Portal                            </h3>
+                               Snow bowling competition                            </h3>
                             <p class="content-text">
-                                Global Job Posting Portal will be used by all employees of the Group of companies to post and 
-apply for jobs globally.                            </p>
+                                Serba Dinamik snow bowling competition held in 2018.                  </p>
                         </div>
                     </a>
                 </span>
             </li>
-            <li class="portfolio-item2 content" data-id="id-5" data-type="cat-item-1">
+            <li class="portfolio-item2 content" data-id="id-2" data-type="cat-item-1">
                 <span class="image-block">
                     <a class="image-zoom"
-                        href="assets/images/assetbig.jpg"
+                        href="assets/images/2018SNB.jpg"
                         data-gal="prettyPhoto[gallery]">
                         <div class="content-overlay"></div>
-                        <img src="assets/images/asset.jpg"
-                            alt="portfolio-img" class="img-fluid w3layouts agileits">
+                        <img src="assets/images/2018snow.jpg"
+                            alt="portfolio-img" class="img-fluid w3layouts agileits" style="width:100%; height:auto; display:block;">
                         <div class="content-details fadeIn-bottom">
                             <h3 class="content-title">
-                               Asset Management System                        </h3>
+                               2018 Snow bowling competition                        </h3>
                             <p class="content-text">
-                               An asset management system project involves developing a system to track and manage an organization's assets, including hardware, software, and other resources.                             </p>
+                               Serba Dinamik snow bowling competition held in 2018.</p>
                         </div>
                     </a>
                 </span>
             </li>
-            <li class="portfolio-item2 content" data-id="id-7" data-type="cat-item-1">
+            <li class="portfolio-item2 content" data-id="id-1" data-type="cat-item-2">
                 <span class="image-block">
                     <a class="image-zoom"
-                        href="assets/images/Inventorybig.jpg"
+                        href="assets/images/TEM2018.jpg"
                         data-gal="prettyPhoto[gallery]">
                         <div class="content-overlay"></div>
-                        <img src="assets/images/Inventory.jpg"
-                            alt="portfolio-img" class="img-fluid w3layouts agileits">
+                        <img src="assets/images/tem.jpg"
+                            alt="portfolio-img" class="img-fluid w3layouts agileits" style="width:100%; height:auto; display:block;">
                         <div class="content-details fadeIn-bottom">
                             <h3 class="content-title">
-                                Inventory Management System                          </h3>
+                               TEM 15 Aug 2018                         </h3>
                             <p class="content-text">
-                                An Inventory Management System project typically involves creating a system for tracking and managing inventory levels.                            </p>
+                               Tamil Expact Malaysia Members celebrating independence day.                     </p>
                         </div>
                     </a>
                 </span>
