@@ -93,12 +93,39 @@ http://66.102.120.18:8000/play/a013/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="61517" tvg-logo="https://i.ibb.co/zJ0ZzxC/Mega-24.webp" group-title="Tamizh",Mega 24 Tamil
+https://public.kliv.fun/Macair30/play.php?id=61517
+#http://livebox.pro:80/live/565trail724/6655447788/26163.ts
 
+#EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/HjndNGN/Mega-Musiq.png" group-title="Tamizh",Mega MusiQ
+https://public.kliv.fun/Macair30/play.php?id=61518
+#http://livebox.pro:80/live/565trail724/6655447788/26164.ts
 
+#EXTINF:-1 tvg-id="58180" tvg-logo="https://i.ibb.co/Mxg9Kkfr/Mega.png" group-title="Tamizh",Mega TV
+https://public.kliv.fun/Macair30/play.php?id=58180
+#http://livebox.pro:80/live/565trail724/6655447788/28141.ts
+
+#EXTINF:-1 tvg-id="mksix" tvg-logo="https://i.ibb.co/LD4v104b/mk6.png" group-title="1Tamizh",MK Six
+#https://cdn-3.pishow.tv/live/1253/master.m3u8
+https://public.kliv.fun/Macair30/play.php?id=983
+
+#EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
+https://public.kliv.fun/Macair30/play.php?id=9184
 
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/Macair22/play.php?id=796
+https://public.kliv.fun/Macair30/play.php?id=796
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/rRYL568F/Vijay-Super-2019-copy.webp" group-title="1Tamizh",Star Vijay Super HD
+https://public.kliv.fun/Macair30/play.php?id=831
+
+#EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Star Vijay Takkar SD
+https://public.kliv.fun/Macair30/play.php?id=1016
+
+#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.ibb.co/zw8mhLm/Zee-Thirai-HD-29.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
+#EXTVLCOPT:http-referrer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
+http://87.255.35.150:18597
 
 #EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="1Tamizh",Vijay Super HD
 http://87.255.35.150:18954
@@ -106,16 +133,7 @@ http://87.255.35.150:18954
 #EXTINF:-1 tvg-id="VijayTakkar.in@SD" tvg-logo="https://i.ibb.co/cKjsxxTH/Vijay-Takkar.png" group-title="1Tamizh",Vijay Takkar
 http://87.255.35.150:18950
 
-#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.ibb.co/zw8mhLm/Zee-Thirai-HD-29.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-http://87.255.35.150:18597
 
-#EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/rRYL568F/Vijay-Super-2019-copy.webp" group-title="1Tamizh",Star Vijay Super HD
-https://public.kliv.fun/Macair22/play.php?id=831
-
-#EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Star Vijay Takkar SD
-https://public.kliv.fun/Macair22/play.php?id=1016
 
 #EXTINF:-1 tvg-id="vikatan-tv" tvg-logo="https://i.ibb.co/dsSxZwCB/vikatan-Custom-1.png" group-title="Tamizh",Vikatan TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
@@ -142,28 +160,13 @@ http://202.164.50.194:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="velichamtv" tvg-logo="https://i.ibb.co/1JKwNnkH/velicham-tv-in.png" group-title="Tamizh",Velicham Tv
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
 
-#EXTINF:-1 tvg-id="mksix" tvg-logo="https://i.ibb.co/LD4v104b/mk6.png" group-title="1Tamizh",MK Six
-#https://cdn-3.pishow.tv/live/1253/master.m3u8
-http://202.164.50.194:8000/play/a05u/index.m3u8
+
 
 #EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="1Tamizh",Malai Murasu
 #https://cdn-3.pishow.tv/live/1606/master.m3u8
 http://12dec25-rkdyiptv.wasmer.app/play.php?id=989
 
-#EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
-https://public.kliv.fun/Macair22/play.php?id=9184
 
-#EXTINF:-1 tvg-id="61517" tvg-logo="https://i.ibb.co/zJ0ZzxC/Mega-24.webp" group-title="Tamizh",Mega 24 Tamil
-https://public.kliv.fun/Macair22/play.php?id=61517
-#http://livebox.pro:80/live/565trail724/6655447788/26163.ts
-
-#EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/HjndNGN/Mega-Musiq.png" group-title="Tamizh",Mega MusiQ
-https://public.kliv.fun/Macair22/play.php?id=61518
-#http://livebox.pro:80/live/565trail724/6655447788/26164.ts
-
-#EXTINF:-1 tvg-id="58180" tvg-logo="https://i.ibb.co/Mxg9Kkfr/Mega.png" group-title="Tamizh",Mega TV
-https://public.kliv.fun/Macair22/play.php?id=58180
-#http://livebox.pro:80/live/565trail724/6655447788/28141.ts
 
 #EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
 #KODIPROP:inputstream=inputstream.adaptive
