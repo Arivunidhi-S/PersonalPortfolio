@@ -41,7 +41,8 @@ https://stream.kliv.fun/allplus299/jtv/manifest.mpd?id=417
 #https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/481455.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+https://kashurflix-frt23-mi20-cc.wasmer.app/getlink/526
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
