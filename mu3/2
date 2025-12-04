@@ -37,6 +37,9 @@ https://stream.kliv.fun/allplus299/jtv/manifest.mpd?id=417
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
+#EXTINF:-1  tvg-id="111" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="BackupTamizh",Kalaingar SD
+#https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+http://iptvmedia.live:8080/live/F18115/068f009e/193204.ts
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
 #https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/481455.m3u8
@@ -48,8 +51,8 @@ https://edge2-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/manifest.m3u8
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
-https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/475474.m3u8
-#https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/475474.m3u8
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
 
 #EXTINF:-1  tvg-id="59" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="59" group-title="3 Movies",CineBox 1
@@ -68,17 +71,15 @@ http://cord-cutter.net:8080/live/95549031/69361122/119420.ts
 http://xxip9.top:8080/live/95549031/69361122/125635.ts
 #EXTINF:-1  tvg-id="66" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="66" group-title="3 Movies",Looney Tunes
 http://xxip9.top:8080/live/95549031/69361122/125638.ts
+#EXTINF:-1  tvg-id="66" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Masha_and_bear_2022.png/revision/latest?cb=20240727143141" tvg-chno="66" group-title="3 Movies",Masha and the Bear 🐻
 #EXTINF:-1  tvg-id="67" tvg-logo="https://play-lh.googleusercontent.com/fAEC9Zw2S_KD-3uV1Eo5xVI0seT30eGp5SyeAfRFTCT-mc0shIWp9aJtTAGXtq__l4E=w240-h480-rw" tvg-chno="67" group-title="3 Movies",Jurassic Park
 http://xxip9.top:8080/live/95549031/69361122/215298.ts
 #EXTINF:-1  tvg-id="68" tvg-logo="https://www.lyngsat.com/logo/tv/ss/scifi-polska-us-pl.png" tvg-chno="68" group-title="3 Movies",24×7 Sci-Fi Movies
-http://cord-cutter.net:8080/hq3y4G/234247/119434
+http://xxip9.top:8080/live/95549031/69361122/119434.ts
 #EXTINF:-1  tvg-id="69" tvg-logo="https://play-lh.googleusercontent.com/wH53tiEqxfmetaweLb922iJnTk-t3Vrkuu1B6A6Gh8ESPwhFbRWU85_1OVWzDr4NEDE=w240-h480-rw" tvg-chno="69" group-title="3 Movies",24×7 Mystery Movies
-http://cord-cutter.net:8080/hq3y4G/234247/119431
+http://xxip9.top:8080/live/95549031/69361122/119431.ts
 #EXTINF:-1  tvg-id="70" tvg-logo="https://play-lh.googleusercontent.com/osa_eh_B8paWe8CUEiuJMjCNFZxQQgxJ_w5hTIxYQjRkp_ORyPlxfCLcn1Ll1B5FXxFh=w240-h480-rw" tvg-chno="70" group-title="3 Movies",Jackie Chan Movies
 http://fortv.cc:8080/live/70453597/56651433/215378.ts
-#EXTINF:-1  tvg-id="111" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="BackupTamizh",Kalaingar SD
-#https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-https://edge2-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="3 Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -177,24 +178,12 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
 
 
 #EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="1Tamizh",Malai Murasu
-https://cdn-3.pishow.tv/live/1606/master.m3u8
+#https://cdn-3.pishow.tv/live/1606/master.m3u8
 #http://12dec25-rkdyiptv.wasmer.app/play.php?id=989
-#https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/3461.m3u8
+https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/3461.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://img.media.jio.com/imagespublic/57/91/301192_1645625074879_l_high.jpg" ,Raj News 24x7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbf09ac3d0f45b4ab418d62d206b4865:f440838bdffa36d041e405dc2734dab2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1764618005~exp=1764704405~acl=/*~hmac=d1e0c130b89933f223ca99c99248df97f2365168ee6e5cc4bdf5e0b36ebb27fb"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Raj_News_24x7_BTS/output/index.mpd?__hdnea__=st=1764618005~exp=1764704405~acl=/*~hmac=d1e0c130b89933f223ca99c99248df97f2365168ee6e5cc4bdf5e0b36ebb27fb
 #EXTINF:-1 group-title="News" tvg-logo="https://img.media.jio.com/imagespublic/31/67/301719_1717061594995_l_high.jpg" ,Tamil Janam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4de4a5c05118507d8e7e81390addc2a7:f80ec85f9713e4e28616d77179d414ce
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1764618005~exp=1764704405~acl=/*~hmac=d1e0c130b89933f223ca99c99248df97f2365168ee6e5cc4bdf5e0b36ebb27fb"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Janam_Tamil_BTS/output/index.mpd?__hdnea__=st=1764618005~exp=1764704405~acl=/*~hmac=d1e0c130b89933f223ca99c99248df97f2365168ee6e5cc4bdf5e0b36ebb27fb
-
-
+http://iptvmedia.live:8080/live/F18115/068f009e/308353.ts
 
 #EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
 #KODIPROP:inputstream=inputstream.adaptive

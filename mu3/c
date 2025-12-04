@@ -194,7 +194,7 @@ http://applelive.in/prtv/prtv.m3u8
 http://garudatv.applelive.in/hls/garudantv.m3u8
 #EXTINF:-1  tvg-id="250" tvg-logo="https://play-lh.googleusercontent.com/NOyScyIs1gUftOQlg3ECCcu5kFn9sDT434RhAfefX9Ror2tpR4q7qnTO-QM5kVxV1D-H=w240-h480-rw" tvg-chno="250" group-title="Cable TV",VTV
 https://rtmp.applelive.in/vtv/vtv/index.m3u8
-#EXTINF:-1  tvg-id="252" tvg-logo="https://play-lh.googleusercontent.com/xfqbIDE5DBqAdLQmGZJ9bxK5bQJjQkUibgEtQzUgZ5AVqO7Bx-YoO5VeJ4RcxqjWL2k=w240-h480-rw" tvg-chno="252" group-title="Cable TV",Vaanavil TV
+#EXTINF:-1  tvg-id="252" tvg-logo="https://play-lh.googleusercontent.com/xfqbIDE5DBqAdLQmGZJ9bxK5bQJjQkUibgEtQzUgZ5AVqO7Bx-YoO5VeJ4RcxqjWL2k=w240-h480-rw" tvg-chno="252" group-title="Cable TV",Vanavil TV
 http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
 #EXTINF:-1  tvg-id="254" tvg-logo="https://play-lh.googleusercontent.com/1XBAZjSOWaVM7UDFKvzuMR-WRoR5gCnsYrw17_ihHLcJKT9Qc7hXptHwWQ3Bf83mry4=s64-rw" tvg-chno="254" group-title="Cable TV",Apple TV
 http://applelive.in/appletv/appletv.m3u8
