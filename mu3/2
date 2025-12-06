@@ -38,8 +38,8 @@ https://stream.kliv.fun/allplus5d/jtv/manifest.mpd?id=417
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:-1  tvg-id="111" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="BackupTamizh",Kalaingar SD
-#https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-http://iptvmedia.live:8080/live/F18115/068f009e/193204.ts
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#http://iptvmedia.live:8080/live/F18115/068f009e/193204.ts
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
 #https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/481455.m3u8
@@ -188,7 +188,10 @@ https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/3461.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=615
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://img.media.jio.com/imagespublic/31/67/301719_1717061594995_l_high.jpg" ,Tamil Janam
+#EXTINF:-1 group-title="Tamizh" tvg-logo="https://kumudamnews.com/uploads/logo/logo_667fcce5056ab5-51745617.png" ,Kumudam News 24x7
+https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
+
+#EXTINF:-1 group-title="Tamizh" tvg-logo="https://img.media.jio.com/imagespublic/31/67/301719_1717061594995_l_high.jpg" ,Tamil Janam
 http://iptvmedia.live:8080/live/F18115/068f009e/308353.ts
 
 #EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
