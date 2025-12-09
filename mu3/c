@@ -40,6 +40,10 @@ rtmp://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac
 https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1  tvg-id="112" tvg-logo="https://i.ibb.co/q3mJMVk1/agam.jpg" tvg-chno="112" group-title="Cable TV",Agam TV
 http://stream.vstartv.org/p/3674/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Music",Aaryaa TV (1080p)
+http://103.140.254.2:3500/live/3395.m3u8
+#EXTINF:-1 tvg-id="BrioTV.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/brio-tv-in.png" group-title="Entertainment",Brio TV (576p)
+http://103.140.254.2:3500/live/3381.m3u8
 #EXTINF:-1  tvg-id="113" tvg-logo="https://play-lh.googleusercontent.com/YImtNmRtt854TWLJWGvUWn27oYeH_7DcI6VnAUsztof3xQ9v43bxft9rQFESuwMnY1sy=w240-h480-rw" tvg-chno="113" group-title="Cable TV",MN Music TV
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1  tvg-id="114" tvg-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/32/b7/e44c4e6afc16c7d8fc16a1b3ef11-ycb.jpg" tvg-chno="114" group-title="Cable TV",Sana TV
