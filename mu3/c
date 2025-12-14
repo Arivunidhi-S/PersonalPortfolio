@@ -282,11 +282,11 @@ https://ipcloud.live/sachintv/dhonitv/index.m3u8
 https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st%3D1763981550~exp%3D1764003150~acl%3D%21%2A%2F120723%2Fsmil%3Aathavantv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.234.41.65_yuppfast_2_channel_205_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.234.41.65_yuppfast_2_channel_205_-1~hmac%3Db4dca3f25be935ec94752b087478e469b06147a8299b79e821d70797d4a6e0a1
 
 #EXTINF:-1 tvg-id="72348" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/71851.png" group-title="Cable TV",TVT TV
-#https://public.kliv.fun/Macair66/play.php?id=72348
+#https://public.kliv.fun/Macair13/play.php?id=72348
 https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/479916.m3u8
 
 #EXTINF:-1 tvg-id="71128" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/70803.png" group-title="Cable TV",TNSE
-https://public.kliv.fun/Macair66/play.php?id=71128
+https://public.kliv.fun/Macair13/play.php?id=71128
 
 #EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Cable TV", Thalaa TV
 #KODIPROP:inputstream=inputstream.adaptive
