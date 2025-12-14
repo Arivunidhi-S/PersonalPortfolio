@@ -10,7 +10,7 @@
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
-#EXTINF:-1  tvg-id="111" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="1Tamizh",Kalaingar TV
+#EXTINF:-1  tvg-id="111" tvg-logo="https://i.ibb.co/qn5fHnp/Kalaignar-TV.png" tvg-chno="111" group-title="1Tamizh",Kalaingar TV
 https://edge2-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
 #http://iptvmedia.live:8080/live/F18115/068f009e/193204.ts
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
@@ -24,7 +24,13 @@ https://edge2-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/manifest.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
 #https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/475474.m3u8
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
-
+#EXTINF:-1 tvg-id="705" tvg-name="Polimer TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="1Tamizh",Polimer TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=705
+#https://stream.kliv.fun/allplus11de/jtv/manifest.mpd?id=705
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+#https://stream-by-xfireflixbd.vercel.app/api/OP/381015.m3u8
 
 #================================== Tamil Movie Section ==================================
 
