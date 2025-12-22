@@ -67,10 +67,10 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26163.ts
 #http://livebox.pro:80/live/565trail724/6655447788/26163.ts
 
 #EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/HjndNGN/Mega-Musiq.png" group-title="Tamizh",Mega MusiQ
-http://iptvmedia.live:8080/F18115/068f009e/308442
+#http://iptvmedia.live:8080/F18115/068f009e/308442
 #https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/481456.m3u8
 #https://public.kliv.fun/Macair13/play.php?id=61518
-#http://livebox.pro:80/live/565trail724/6655447788/26164.ts
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26164.ts
 
 #EXTINF:-1 tvg-id="ts37" tvg-logo="https://i.ibb.co/Mxg9Kkfr/Mega.png" group-title="Regional Tamil",Mega TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -103,10 +103,10 @@ https://cdn-3.pishow.tv/live/1606/master.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=615
-https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+#https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 group-title="Tamizh" tvg-logo="https://kumudamnews.com/uploads/logo/logo_667fcce5056ab5-51745617.png" ,Kumudam News 24x7
-https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
+#https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
 
 
 #================================== English Movies Section ==================================
