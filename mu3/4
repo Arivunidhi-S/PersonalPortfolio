@@ -57,7 +57,7 @@ https://public.kliv.fun/Macair13/play.php?id=796
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://m3u.8088y.fun/z5/index.php?id=0-9-zeetamil
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/598757.ts
 
 #EXTINF:-1 tvg-id="61517" tvg-logo="https://i.ibb.co/zJ0ZzxC/Mega-24.webp" group-title="Tamizh",Mega 24 Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
@@ -113,11 +113,11 @@ https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&flix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://m3u.8088y.fun/z5/index.php?id=0-9-channel_2105335046
+https://public.kliv.fun/zs7d/index.php?id=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://m3u.8088y.fun/z5/index.php?id=0-9-9z5543514
+https://public.kliv.fun/zs7d/index.php?id=0-9-9z5543514
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="3 Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
