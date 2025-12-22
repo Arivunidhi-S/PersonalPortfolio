@@ -13,29 +13,31 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2105//default_primary.mpd
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTINF:-1  tvg-id="104" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" tvg-chno="104" group-title="Cable TV",CTN Arasu
-https://ipcloud.live/ctn/arasu/index.m3u8
-#EXTINF:-1  tvg-id="103" tvg-logo="https://play-lh.googleusercontent.com/Y7yKVFlxFnmT5vi8nAsoUeo8YYF2RyZWhnlvwMk9lAxAXrEsS9hZGXrr-2ExrDtOUlgv=w240-h480-rw" tvg-chno="103" group-title="Cable TV",CTN NXT TV
-https://ipcloud.live/ctn/nxt/index.m3u8
+
 #EXTINF:-1  tvg-id="107" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" tvg-chno="107" group-title="Cable TV",Rasi TV
 https://rasinetworks.in/live/rasitvhd/index.mpd
-#EXTINF:-1  tvg-id="108" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" tvg-chno="108" group-title="Cable TV",Rasi Tamil
+#EXTINF:-1  tvg-id="108" tvg-logo="https://i.ibb.co/V0M62QsC/Rasi-Tamil.png" tvg-chno="108" group-title="Cable TV",Rasi Tamil
 https://rasinetworks.in/live/rasitamilhd/index.mpd
-#EXTINF:-1  tvg-id="109" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" tvg-chno="109" group-title="Cable TV",Rasi Movies
+#EXTINF:-1  tvg-id="109" tvg-logo="https://i.ibb.co/GvTZW2jJ/Rasi-Movies.png" tvg-chno="109" group-title="Cable TV",Rasi Movies
 https://rasinetworks.in/live/rasimovieshd/index.mpd
-#EXTINF:-1  tvg-id="104" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" tvg-chno="104" group-title="Cable TV",Rasi Hollywood
-https://rasinetworks.in/live/rasihollywood/index.mpd
-#EXTINF:-1  tvg-id="18" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" tvg-chno="18" group-title="Cable TV",Rasi Music HD
-https://rasinetworks.in/live/rasimusic/index.mpd
-#EXTINF:-1  tvg-id="105" tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg" tvg-chno="105" group-title="Cable TV",Rasi comedy TV
+#EXTINF:-1  tvg-id="104" tvg-logo="https://i.ibb.co/xt6fXJtv/Rasi-Hollywood.png" tvg-chno="104" group-title="Cable TV",Rasi Hollywood
+https://rasinetworks.in/live/rasihollywoodhd/index.mpd
+#EXTINF:-1  tvg-id="18" tvg-logo="https://i.ibb.co/CKSrQv86/Rasi-Music.png" tvg-chno="18" group-title="Cable TV",Rasi Music HD
+https://rasinetworks.in/live/rasimusichd/index.mpd
+#EXTINF:-1  tvg-id="105" tvg-logo="https://i.ibb.co/6RJ8bRMn/Rasi-Comedy.png" tvg-chno="105" group-title="Cable TV",Rasi comedy TV
 https://rasinetworks.in/live/rasicomedyhd/index.mpd
-#EXTINF:-1  tvg-id="106" tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" tvg-chno="106" group-title="Cable TV",Rasi Classic
-https://rasinetworks.in/live/rasiclassic/index.mpd
+#EXTINF:-1  tvg-id="106" tvg-logo="https://i.ibb.co/ZRVFX05b/Rasi-Classic.png" tvg-chno="106" group-title="Cable TV",Rasi Classic
 #http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
+https://rasinetworks.in/live/rasiclassichd/index.mpd
 #EXTINF:-1  tvg-id="108" tvg-logo="https://i.ibb.co/TbcXbz0/Rasi-Cinema.png" tvg-chno="108" group-title="Cable TV",Rasi Cinema HD
 https://rasinetworks.in/live/rasicinemahd/index.mpd
 #EXTINF:-1  tvg-id="109" tvg-logo="https://i.ibb.co/BCR9wJy/Rasi-Action.png" tvg-chno="109" group-title="Cable TV",Rasi Cinemax HD
 https://rasinetworks.in/live/rasicinemaxhd/index.mpd
+
+#EXTINF:-1  tvg-id="104" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" tvg-chno="104" group-title="Cable TV",CTN Arasu
+https://ipcloud.live/ctn/arasu/index.m3u8
+#EXTINF:-1  tvg-id="103" tvg-logo="https://play-lh.googleusercontent.com/Y7yKVFlxFnmT5vi8nAsoUeo8YYF2RyZWhnlvwMk9lAxAXrEsS9hZGXrr-2ExrDtOUlgv=w240-h480-rw" tvg-chno="103" group-title="Cable TV",CTN NXT TV
+https://ipcloud.live/ctn/nxt/index.m3u8
 #EXTINF:-1  tvg-id="110" tvg-logo="https://play-lh.googleusercontent.com/VsGTRdJrMxL6difnWEWIddWhDfhSDrLLNVbEshoEIeFHkQ04aOW9eak29wwVAdNfMKP1=w240-h480-rw" tvg-chno="110" group-title="Cable TV",Subin TV
 https://stream.galaxyott.live/live/subintv/index.m3u8
 #EXTINF:-1  tvg-id="175" tvg-logo="https://play-lh.googleusercontent.com/sPVbaR_HUZkQKIUGw0MalnzReEY7PGXcF4_S0RzAQgoe3DNsivPEYPAwZ6fHqcBOM1vR=s64-rw" tvg-chno="175" group-title="Cable TV",Anandham tv
