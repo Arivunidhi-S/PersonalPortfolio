@@ -28,7 +28,7 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=705
-#https://stream.kliv.fun/allplus11de/jtv/manifest.mpd?id=705
+#https://stream.kliv.fun/allplus22de/jtv/manifest.mpd?id=705
 https://cdn-2.pishow.tv/live/1241/master.m3u8
 #https://stream-by-xfireflixbd.vercel.app/api/OP/381015.m3u8
 
@@ -46,7 +46,8 @@ https://public.kliv.fun/Macair13/play.php?id=1016
 
 #EXTINF:-1 tvg-id="1182" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="1Tamizh", Zee Thirai HD
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Referer":"https://www.zee5.com/","Origin":"https://www.zee5.com"}
-https://m3u.8088y.fun/z5/index.php?id=0-9-224
+#https://m3u.8088y.fun/z5/index.php?id=0-9-224
+https://ranapk.online/OPPLEX/RANAPK5/play.php?id=380984
 
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36

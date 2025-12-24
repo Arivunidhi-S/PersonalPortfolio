@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="12" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.ibb.co/fGVvn7Sd/Sony-Pix.png" group-title="SONYLI√", Sony PIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #http://87.255.35.150:18495
-https://stream.kliv.fun/allplus11de/sony/stream.php?id=12
+https://stream.kliv.fun/allplus22de/sony/stream.php?id=12
 #EXTINF:-1 tvg-id="190" tvg-logo="https://i.ibb.co/Y4pKvRRB/Sony-BBC-Earth.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
@@ -29,7 +29,7 @@ http://87.255.35.150:18829
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=417
-https://stream.kliv.fun/allplus11de/jtv/manifest.mpd?id=417
+https://stream.kliv.fun/allplus22de/jtv/manifest.mpd?id=417
 #http://103.140.254.2:3500/live/417.m3u8
 
 #=================================
