@@ -190,32 +190,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b1
 
 #================================== US/UK Movies Section ==================================
 
-
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed SD" group-title="TVPass | By Arivu",HBO Eastern Feed SD
-https://tvpass.org/live/HBOEast/sd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="TVPass | By Arivu",HBO Eastern Feed HD
-https://tvpass.org/live/HBOEast/hd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed SD" group-title="TVPass | By Arivu",HBO 2 Eastern Feed SD
-https://tvpass.org/live/HBO2East/sd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="TVPass | By Arivu",HBO 2 Eastern Feed HD
-https://tvpass.org/live/HBO2East/hd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East SD" group-title="TVPass | By Arivu",HBO Comedy HD East SD
-https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="TVPass | By Arivu",HBO Comedy HD East HD
-https://tvpass.org/live/HBOComedyEast/hd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed SD" group-title="TVPass | By Arivu",HBO Family Eastern Feed SD
-https://tvpass.org/live/HBOFamilyEast/sd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="TVPass | By Arivu",HBO Family Eastern Feed HD
-https://tvpass.org/live/HBOFamilyEast/hd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern SD" group-title="TVPass | By Arivu",HBO Signature (HBO 3) Eastern SD
-https://tvpass.org/live/HBOSignatureEast/sd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="TVPass | By Arivu",HBO Signature (HBO 3) Eastern HD
-https://tvpass.org/live/HBOSignatureEast/hd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East SD" group-title="TVPass | By Arivu",HBO Zone HD East SD
-https://tvpass.org/live/HBOZoneEast/sd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="TVPass | By Arivu",HBO Zone HD East HD
-https://tvpass.org/live/HBOZoneEast/hd
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/007_jamesbond._SL170_FMpng_.png" group-title="Amz USA | Action",James Bond 007!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
