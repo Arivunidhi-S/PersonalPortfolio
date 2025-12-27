@@ -197,10 +197,7 @@ https://ipcloud.live/sachintv/musichd/index.m3u8
 #EXTINF:-1  tvg-id="338" tvg-logo="https://play-lh.googleusercontent.com/weF5tBb_3j2KlQ5r8vW2VYEeyDVbfjdzHpaH-XoGKS663UW0ILNGcLkShtjV0uSSp8tt=s64-rw" tvg-chno="338" group-title="Cable TV",Dhoni TV
 https://ipcloud.live/sachintv/dhonitv/index.m3u8
 #EXTINF:-1 tvg-id="205" tvg-chno="526" tvg-name="athavan-tv-hd" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png" group-title="Cable TV", Athavan TV HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimresmum.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st%3D1766550097~exp%3D1766571697~acl%3D%21%2A%2F120723%2Fsmil%3Aathavantv1.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.65_yuppfast_2_channel_205_-1%2F%2A-data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.201.65_yuppfast_2_channel_205_-1~hmac%3D1d86637566f628c95d96941397f5f453343a14ee61c7ca095a080b69344186a9
+https://public.kliv.fun/Macair13/play.php?id=11784
 #EXTINF:-1 tvg-id="72348" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/71851.png" group-title="Cable TV",TVT TV
 https://public.kliv.fun/Macair13/play.php?id=72348
 #http://21de2027-rkdyiptv.wasmer.app/play.php?id=479916
@@ -275,8 +272,6 @@ http://applelive.in/riyatv/riyatv.m3u8
 https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
 #EXTINF:-1 tvg-name="Penguin Tv" group-title="Cable TV" tvg-logo="https://i.ibb.co/LzrTB9Rr/1000145853.jpg",Penguin Tv
 https://live.applelive.in/penguinhd/penguinhd/index.m3u8
-#EXTINF:-1 tvg-id="AnbudanTV" tvg-logo="https://play-lh.googleusercontent.com/-lygOyPSa6o0v_RsThiA5Nf6XGN9I6mJATeY3E1xl80cAJSg48bFJabdKifjQPuqdulF=s512-rw" group-title="Cable TV",Anbudan TV
-https://rtmp.applelive.in/anbudantv/anbudantv/index.m3u8
 #EXTINF:-1tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/mep-esf_u7GHrzd48kzAm3pplME8fHjLceaYxCLy6Di7k9WDUEr0JVbsCFRCpFavn4M=w240-h480-rw" group-title="Cable TV",Boys tv
 http://rtmp.applelive.in/boystv/boystv/index.m3u8
 #EXTINF:-1  tvg-name="" group-title="Local Channels" tvg-logo="https://play-lh.googleusercontent.com/TD_XAFnpLJk1A9pT-vMW1dImZDTRpN7UZ8F8KGWy8u0z7LnG19MWeiTtnRJenT4-YlA=w240-h480-rw",Devathai tv
