@@ -7,7 +7,12 @@
 
 #================================== Tamil Entertainment Section ==================================
 
-
+#EXTM3U x-tvg-url="https://tsepg.cf/epg.xml.gz"
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
+#EXTM3U x-tvg-url="https://pluto.freechannels.me/epg.xml"
+#EXTM3U x-tvg-url="https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz"
+#EXTM3U x-tvg-url="https://rb.gy/hspor2"
+#EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:-1  tvg-id="111" tvg-logo="https://i.ibb.co/qn5fHnp/Kalaignar-TV.png" tvg-chno="111" group-title="1Tamizh",Kalaingar SD
@@ -28,7 +33,7 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=705
-#https://stream.kliv.fun/allplus11de/jtv/manifest.mpd?id=705
+#https://stream.kliv.fun/allplus299d/jtv/manifest.mpd?id=705
 https://cdn-2.pishow.tv/live/1241/master.m3u8
 #https://stream-by-xfireflixbd.vercel.app/api/OP/381015.m3u8
 
@@ -36,13 +41,13 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 
 
 #EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
-https://public.kliv.fun/Macair13/play.php?id=9184
+https://public.kliv.fun/Macair300/play.php?id=9184
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/rRYL568F/Vijay-Super-2019-copy.webp" group-title="1Tamizh",Star Vijay Super HD
-https://public.kliv.fun/Macair13/play.php?id=831
+https://public.kliv.fun/Macair300/play.php?id=831
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Star Vijay Takkar SD
-https://public.kliv.fun/Macair13/play.php?id=1016
+https://public.kliv.fun/Macair300/play.php?id=1016
 
 #EXTINF:-1 tvg-id="1182" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="1Tamizh", Zee Thirai HD
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","Referer":"https://www.zee5.com/","Origin":"https://www.zee5.com"}
@@ -51,7 +56,7 @@ https://ranapk.online/OPPLEX/RANAPK5/play.php?id=380984
 
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/Macair13/play.php?id=796
+https://public.kliv.fun/Macair300/play.php?id=796
 
 
 #================================== Tamil Entertainment Extra Section ==================================
@@ -64,19 +69,19 @@ http://4kgood.org:80/live/4o48up5evz/r4fiast66u/598757.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26163.ts
-#https://public.kliv.fun/Macair13/play.php?id=61517
+#https://public.kliv.fun/Macair300/play.php?id=61517
 #http://livebox.pro:80/live/565trail724/6655447788/26163.ts
 
 #EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/HjndNGN/Mega-Musiq.png" group-title="Tamizh",Mega MusiQ
 #http://iptvmedia.live:8080/F18115/068f009e/308442
 #https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/481456.m3u8
-#https://public.kliv.fun/Macair13/play.php?id=61518
+#https://public.kliv.fun/Macair300/play.php?id=61518
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26164.ts
 
 #EXTINF:-1 tvg-id="ts37" tvg-logo="https://i.ibb.co/Mxg9Kkfr/Mega.png" group-title="Regional Tamil",Mega TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 http://iptvmedia.live:8080/F18115/068f009e/193209
-#https://public.kliv.fun/Macair13/play.php?id=58180
+#https://public.kliv.fun/Macair300/play.php?id=58180
 #http://livebox.pro:80/live/565trail724/6655447788/28141.ts
 
 #EXTINF:-1 tvg-id="vikatan-tv" tvg-logo="https://i.ibb.co/dsSxZwCB/vikatan-Custom-1.png" group-title="Tamizh",Vikatan TV
