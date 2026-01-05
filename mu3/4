@@ -16,8 +16,8 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:-1  tvg-id="111" tvg-logo="https://i.ibb.co/qn5fHnp/Kalaignar-TV.png" tvg-chno="111" group-title="1Tamizh",Kalaingar SD
-https://edge2-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
-#http://iptvmedia.live:8080/live/F18115/068f009e/193204.ts
+#https://edge2-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
@@ -86,7 +86,7 @@ https://dhoomtv.xyz:443//live/8zpo3GsVY7/beneficial2concern/28141.ts
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.ibb.co/VYNc5YsJ/7s.png" group-title="Tamizh",7S Music
-http://202.164.50.194:8000/play/a026/index.m3u8
+https://mumt03.tangotv.in/7SMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram
 https://cdn-6.pishow.tv/live/1243/master.m3u8
@@ -114,13 +114,16 @@ https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #================================== English Movies Section ==================================
 
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png",&flix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs7d/index.php?id=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Entertainment" tvg-logo="https://i.ibb.co/rRnZvRNk/1000192802-modified.png",&Flix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
+#EXTHTTP:{"Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1767639362~acl=%2f*~id=2fc190bc-3863-4c31-9e48-63eb788f944c~data=hdntl~hmac=f5c4845675a2953e6d907224813b221d01049b308d2911884f49acb1b81fed38
 
-#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png",&Prive HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/zs7d/index.php?id=0-9-9z5543514
+#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Entertainment" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/&PriveHD_Thumbnail_8fe4510f-be7c-475c-8f5f-85b5fe6f52ab.png",&Prive HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 @joker_verse/537.36
+#EXTHTTP:{"Referer":"https://www.zee5.com/"}
+https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1767639362~acl=%2f*~id=2fc190bc-3863-4c31-9e48-63eb788f944c~data=hdntl~hmac=f5c4845675a2953e6d907224813b221d01049b308d2911884f49acb1b81fed38
+
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="3 Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
