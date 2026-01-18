@@ -1,18 +1,12 @@
 ﻿#=================================
 # 🖥 Created by: Arivunidhi
-# 🕒 Last Updated: 2025-12-22 11:30 AM 
+# 🕒 Last Updated: 2026-01-18 10:30 AM 
 #==================================
 
 #EXTM3U
 
 #================================== Tamil Entertainment Section ==================================
 
-#EXTM3U x-tvg-url="https://tsepg.cf/epg.xml.gz"
-#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz"
-#EXTM3U x-tvg-url="https://pluto.freechannels.me/epg.xml"
-#EXTM3U x-tvg-url="https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz"
-#EXTM3U x-tvg-url="https://rb.gy/hspor2"
-#EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:-1  tvg-id="111" tvg-logo="https://i.ibb.co/qn5fHnp/Kalaignar-TV.png" tvg-chno="111" group-title="1Tamizh",Kalaingar SD
@@ -23,10 +17,11 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
 #https://public.kliv.fun/Sharetest/play.php?id=5932
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #https://kashurflix-frt23-mi20-cc.wasmer.app/getlink/526
 #https://edge2-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/manifest.m3u8
 #https://public.kliv.fun/Sharetest/play.php?id=26165
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/197137.ts
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="705" tvg-name="Polimer TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="1Tamizh",Polimer SD
@@ -52,11 +47,13 @@ https://public.kliv.fun/TPTV12J/play.php?id=1016
 #EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="1Tamizh", Zee Thirai HD
 #EXTVLCOPT:http-user-agent=null
 #https://public.kliv.fun/Sharetest/play.php?id=181966
-https://public.kliv.fun/TPTV12J/play.php?id=796
+#https://public.kliv.fun/TPTV12J/play.php?id=796
+http://dhoomtv.xyz:80/live/P4B9TB9xR8/humongous2tonight/144636.ts
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://public.kliv.fun/TPTV12J/play.php?id=796
-
+#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
 #================================== Tamil Entertainment Extra Section ==================================
 
@@ -171,11 +168,13 @@ http://66.102.120.18:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="190" tvg-logo="https://i.ibb.co/Y4pKvRRB/Sony-BBC-Earth.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/222.ts|User-Agent=
+#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/222.ts|User-Agent=
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/33610.ts
 #EXTINF:-1 tvg-id="156" tvg-logo="https://i.ibb.co/8nCFBX13/Discovery.png" group-title="INDIA DOCUMENTARY",Discovery HD World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/156.ts|User-Agent=
+#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/156.ts|User-Agent=
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/132240.ts
 
 #EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
 #KODIPROP:inputstream=inputstream.adaptive

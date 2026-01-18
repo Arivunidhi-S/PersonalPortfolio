@@ -21,10 +21,11 @@ https://converse.nathcreqtives.com/astro/2309/manifest.mpd?token=eyJhbGciOiJIUzI
 https://live.catvod.com/live.php?id=Vasantham
 
 #EXTINF:-1 tvg-ID="AstroVellithirai" group-title="Astro GO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png",Astro Vellithirai
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/2130.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
-https://converse.nathcreqtives.com/astro/5073/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ2ZW9zZXBoIiwiaWF0IjoxNzY2NzQ2NzgzLCJleHAiOjE3NjcxNzg3ODMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NzE3ODc4M30.RBIV_PHzh54QUlErzde1mSvTbP7j-tceOrm-lSAtB6s
+#https://converse.nathcreqtives.com/astro/5073/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ2ZW9zZXBoIiwiaWF0IjoxNzY2NzQ2NzgzLCJleHAiOjE3NjcxNzg3ODMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NzE3ODc4M30.RBIV_PHzh54QUlErzde1mSvTbP7j-tceOrm-lSAtB6s
 
 
 #================================== Rasi Network ==========================================
@@ -196,7 +197,8 @@ https://account11.livebox.co.in/vidyaltvhls/live.m3u8
 #EXTINF:-1  tvg-id="288" tvg-logo="https://play-lh.googleusercontent.com/W92ekNMxuUVvj_ZyKPN8Q7flJPqWdInZZvg_sqMXty7OmscURTYTN8Zg-qzNkNcvY6E=w240-h480-rw" tvg-chno="288" group-title="Cable TV",Malligai TV
 https://server.sscloud7.in/live/malligai/index.m3u8
 #EXTINF:-1  tvg-id="294" tvg-logo="https://play-lh.googleusercontent.com/Rzf4PWmBziK24MXR0bBaIwhRA8tH5zUZQxsWVhreSOuprtqiGFrkC-YOKjfWLYoGkAA=w240-h480-rw" tvg-chno="294" group-title="Cable TV",Thendral 2 TV
-https://ipcloud.live/thendralmdu/thendral2/index.m3u8
+#https://ipcloud.live/thendralmdu/thendral2/index.m3u8
+https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1  tvg-id="296" tvg-logo="https://play-lh.googleusercontent.com/7n1oYUc9Eld9CmfdRXQoZBnDkayjdnByzc-Y7uk3QpFABXBAeL9seGQY-vD3NTyz40i_=w526-h296-rw" tvg-chno="296" group-title="Cable TV",Smart Sri
 http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
 #EXTINF:-1  tvg-id="300" tvg-logo="https://play-lh.googleusercontent.com/VuGcjfIEogf7W5cztkJKkyCINbL7gG_qRbn8Aoce5Sv15n0oCCglG4WhJtpQEeVpoG4=w240-h480-rw" tvg-chno="300" group-title="Cable TV",Rplus TV
@@ -309,7 +311,10 @@ http://198.144.149.206:8080/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
 https://notvstream.in/queens/queens.m3u8
 
 
-
+#EXTINF:-1 tvg-name="Queens Tv" group-title="Cable TV" tvg-logo="https://i.ibb.co/Jj3CkDq5/gta.jpg",GTA Tamil Tv
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/5738.ts
+#EXTINF:-1 tvg-name="Queens Tv" group-title="Cable TV" tvg-logo="https://play-lh.googleusercontent.com/SgKEHhaOjL-oqtS7vyD_aZk03rp-76G7XKDJkkPgsNQvJnHVvHOgKown410H7BKpqeQ=w240-h480-rw",TVI Tv
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/5857.ts
 
 
 
