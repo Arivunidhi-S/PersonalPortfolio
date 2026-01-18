@@ -1,88 +1,122 @@
-﻿
-#EXTM3U
-
-#EXTINF:-1 tvg-id="12" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.ibb.co/fGVvn7Sd/Sony-Pix.png" group-title="SONYLI√", Sony PIX HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#http://87.255.35.150:18495
-https://stream.kliv.fun/allplus11jo/sony/stream.php?id=12
-#EXTINF:-1 tvg-id="190" tvg-logo="https://i.ibb.co/Y4pKvRRB/Sony-BBC-Earth.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-http://starhub.pro:80/live/God/God123/222.ts|User-Agent=
-#EXTINF:-1 tvg-id="156" tvg-logo="https://i.ibb.co/8nCFBX13/Discovery.png" group-title="INDIA DOCUMENTARY",Discovery HD World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-http://starhub.pro:80/live/God/God123/156.ts|User-Agent=
-#EXTINF:-1 tvg-id="JayaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="TAMIL | ENTERTAINMENT",Jaya TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-#http://webhop.live:80/live/adeeljisgpr/sonuiptv/188.ts|User-Agent=
-#http://webhop.live:80/live/adeeljisgpr/sonuiptv/5895.ts|User-Agent=
-http://87.255.35.150:18820
-#http://103.140.254.2:3500/live/419.m3u8
-#EXTINF:-1 tvg-id="JayaMax.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="TAMIL | ENTERTAINMENT",Jaya Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
-#KODIPROP:http-referer=http:///stalker_portal/c/
-#http://webhop.live:80/live/adeeljisgpr/sonuiptv/240.ts|User-Agent=
-http://87.255.35.150:18829
-#EXTINF:-1 tvg-id="417" tvg-name="J Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="JTV ☎️ Movies",J Movies
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=417
-https://stream.kliv.fun/allplus11jo/jtv/manifest.mpd?id=417
-#http://103.140.254.2:3500/live/417.m3u8
-
-#=================================
-# 🖥 Developed by: Arivunidhi
-# 🕒 Last Updated: 2025-11-05 07:51 AM 
+﻿#=================================
+# 🖥 Created by: Arivunidhi
+# 🕒 Last Updated: 2026-01-18 10:30 AM 
 #==================================
 
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U
 
-#EXTINF:-1  tvg-id="111" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" tvg-chno="111" group-title="BackupTamizh",Kalaingar SD
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-#http://iptvmedia.live:8080/live/F18115/068f009e/193204.ts
+#================================== Tamil Entertainment Section ==================================
+
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1  tvg-id="111" tvg-logo="https://i.ibb.co/qn5fHnp/Kalaignar-TV.png" tvg-chno="111" group-title="1Tamizh",Kalaingar TV
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/33527.ts
+
 #EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
-#https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-#https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/481455.m3u8
-https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+#https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
+#https://public.kliv.fun/Sharetest/play.php?id=5932
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/197137.ts
 #https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #https://kashurflix-frt23-mi20-cc.wasmer.app/getlink/526
-https://edge2-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/manifest.m3u8
+#https://edge2-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/manifest.m3u8
+#https://public.kliv.fun/Sharetest/play.php?id=26165
+
+#EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+#EXTINF:-1 tvg-id="705" tvg-name="Polimer TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="1Tamizh",Polimer TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=705
+#https://stream.kliv.fun/allplus11jo/jtv/manifest.mpd?id=705
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+#https://stream-by-xfireflixbd.vercel.app/api/OP/381015.m3u8
+
+#================================== Tamil Movie Section ==================================
+
+
+#EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
+https://public.kliv.fun/TPTV12J/play.php?id=9184
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/rRYL568F/Vijay-Super-2019-copy.webp" group-title="1Tamizh",Star Vijay Super HD
+https://public.kliv.fun/TPTV12J/play.php?id=831
+
+#EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Star Vijay Takkar SD
+https://public.kliv.fun/TPTV12J/play.php?id=1016
+
+#EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="1Tamizh", Zee Thirai FHD
+#EXTVLCOPT:http-user-agent=null
+#https://public.kliv.fun/Sharetest/play.php?id=181966
+#https://public.kliv.fun/TPTV12J/play.php?id=796
+http://dhoomtv.xyz:80/live/P4B9TB9xR8/humongous2tonight/144636.ts
+#EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://public.kliv.fun/TPTV12J/play.php?id=796
+
+
+#================================== Tamil Entertainment Extra Section ==================================
+
+#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",Zee Tamil FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/598757.ts
+
+#EXTINF:-1 tvg-id="61517" tvg-logo="https://i.ibb.co/zJ0ZzxC/Mega-24.webp" group-title="Tamizh",Mega 24 Tamil
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26163.ts
+#https://public.kliv.fun/TPTV12J/play.php?id=61517
+#http://livebox.pro:80/live/565trail724/6655447788/26163.ts
+
+#EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/HjndNGN/Mega-Musiq.png" group-title="Tamizh",Mega MusiQ
+#http://iptvmedia.live:8080/F18115/068f009e/308442
+#https://public.kliv.fun/TPTV12J/play.php?id=61518
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26164.ts
+
+#EXTINF:-1 tvg-id="ts37" tvg-logo="https://i.ibb.co/Mxg9Kkfr/Mega.png" group-title="Regional Tamil",Mega TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dhoomtv.xyz:443//live/8zpo3GsVY7/beneficial2concern/28141.ts
+#http://iptvmedia.live:8080/F18115/068f009e/193209
+#https://public.kliv.fun/TPTV12J/play.php?id=58180
+#http://livebox.pro:80/live/565trail724/6655447788/28141.ts
+
+#EXTINF:-1 tvg-id="vikatan-tv" tvg-logo="https://i.ibb.co/dsSxZwCB/vikatan-Custom-1.png" group-title="Tamizh",Vikatan TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
+
+#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.ibb.co/VYNc5YsJ/7s.png" group-title="Tamizh",7S Music
+https://mumt03.tangotv.in/7SMUSIC/index.m3u8
+
+#EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+
+#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="BackTamizh",Sirippoli SD
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1  tvg-id="111" tvg-logo="https://i.ibb.co/qn5fHnp/Kalaignar-TV.png" tvg-chno="111" group-title="1Tamizh",Kalaingar SD
+#https://edge2-moblive.yuppcdn.net/drm1/smil:kalaignartvdrm.smil/chunklist_b996000.m3u8
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+#================================== Tamil News Section ==================================
+
+
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
-#EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
-#https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/475474.m3u8
-https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="1Tamizh",Malai Murasu
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+#http://12dec25-rkdyiptv.wasmer.app/play.php?id=989
+
+#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="1Tamizh",News 18 Tamilnadu
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=615
+#https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 group-title="Tamizh" tvg-logo="https://kumudamnews.com/uploads/logo/logo_667fcce5056ab5-51745617.png" ,Kumudam News 24x7
+#https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
 
 
-#EXTINF:-1  tvg-id="59" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="59" group-title="3 Movies",CineBox 1
-http://cord-cutter.net:8080/live/95549031/69361122/119437.ts
-#EXTINF:-1  tvg-id="60" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="60" group-title="3 Movies",CineBox 2
-http://xxip9.top:8080/live/95549031/69361122/119433.ts
-#EXTINF:-1  tvg-id="61" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="61" group-title="3 Movies",CineBox 3
-http://cord-cutter.net:8080/live/95549031/69361122/119436.ts
-#EXTINF:-1  tvg-id="62" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pink_rs_horror.png" tvg-chno="62" group-title="3 Movies",Cinema Horror thriller
-http://xxip9.top:8080/live/95549031/69361122/119429.ts
-#EXTINF:-1  tvg-id="63" tvg-logo="https://play-lh.googleusercontent.com/-T5sa38kAcStAxEf5mBapoPNel1aMtKBrMl18eDyMjeI6ZqxxiGPp7rK0uE-EUqOYQhY=w240-h480-rw" tvg-chno="63" group-title="3 Movies",Blockbuster Movies
-http://cord-cutter.net:8080/live/95549031/69361122/119421.ts
-#EXTINF:-1  tvg-id="64" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="64" group-title="3 Movies",Animation Movies
-http://cord-cutter.net:8080/live/95549031/69361122/119420.ts
-#EXTINF:-1  tvg-id="65" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="65" group-title="3 Movies",Tom & Jerry
-http://xxip9.top:8080/live/95549031/69361122/125635.ts
-#EXTINF:-1  tvg-id="66" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="66" group-title="3 Movies",Looney Tunes
-http://xxip9.top:8080/live/95549031/69361122/125638.ts
-#EXTINF:-1  tvg-id="66" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Masha_and_bear_2022.png/revision/latest?cb=20240727143141" tvg-chno="66" group-title="3 Movies",Masha and the Bear 🐻
-#EXTINF:-1  tvg-id="67" tvg-logo="https://play-lh.googleusercontent.com/fAEC9Zw2S_KD-3uV1Eo5xVI0seT30eGp5SyeAfRFTCT-mc0shIWp9aJtTAGXtq__l4E=w240-h480-rw" tvg-chno="67" group-title="3 Movies",Jurassic Park
-http://xxip9.top:8080/live/95549031/69361122/215298.ts
-#EXTINF:-1  tvg-id="68" tvg-logo="https://www.lyngsat.com/logo/tv/ss/scifi-polska-us-pl.png" tvg-chno="68" group-title="3 Movies",24×7 Sci-Fi Movies
-http://xxip9.top:8080/live/95549031/69361122/119434.ts
-#EXTINF:-1  tvg-id="69" tvg-logo="https://play-lh.googleusercontent.com/wH53tiEqxfmetaweLb922iJnTk-t3Vrkuu1B6A6Gh8ESPwhFbRWU85_1OVWzDr4NEDE=w240-h480-rw" tvg-chno="69" group-title="3 Movies",24×7 Mystery Movies
-http://xxip9.top:8080/live/95549031/69361122/119431.ts
-#EXTINF:-1  tvg-id="70" tvg-logo="https://play-lh.googleusercontent.com/osa_eh_B8paWe8CUEiuJMjCNFZxQQgxJ_w5hTIxYQjRkp_ORyPlxfCLcn1Ll1B5FXxFh=w240-h480-rw" tvg-chno="70" group-title="3 Movies",Jackie Chan Movies
-http://fortv.cc:8080/live/70453597/56651433/215378.ts
+#================================== English Movies Section ==================================
 
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Entertainment" tvg-logo="https://i.ibb.co/rRnZvRNk/1000192802-modified.png",&Flix HD
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98841.ts
+#EXTINF:-1 tvg-id="0-9-9z5543514" group-title="Entertainment" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/&PriveHD_Thumbnail_8fe4510f-be7c-475c-8f5f-85b5fe6f52ab.png",&Prive HD
+https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/98840.ts
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="3 Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
@@ -98,105 +132,52 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
+#EXTINF:-1  tvg-id="59" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="59" group-title="3 Movies",CineBox 1
+http://xxip9.top:8080/live/95549031/69361122/119437.ts
+#EXTINF:-1  tvg-id="60" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="60" group-title="3 Movies",CineBox 2
+http://xxip9.top:8080/live/95549031/69361122/119433.ts
+#EXTINF:-1  tvg-id="61" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8UP-N1X0_R5WmRWWTQkgOxsV0X9Lvyqr8rZQnIx5ANhA=s160-c-k-c0x00ffffff-no-rj" tvg-chno="61" group-title="3 Movies",CineBox 3
+http://xxip9.top:8080/live/95549031/69361122/119436.ts
+#EXTINF:-1  tvg-id="62" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pink_rs_horror.png" tvg-chno="62" group-title="3 Movies",Cinema Horror thriller
+http://xxip9.top:8080/live/95549031/69361122/119429.ts
+#EXTINF:-1  tvg-id="63" tvg-logo="https://play-lh.googleusercontent.com/-T5sa38kAcStAxEf5mBapoPNel1aMtKBrMl18eDyMjeI6ZqxxiGPp7rK0uE-EUqOYQhY=w240-h480-rw" tvg-chno="63" group-title="3 Movies",Blockbuster Movies
+http://xxip9.top:8080/live/95549031/69361122/119421.ts
+#EXTINF:-1  tvg-id="64" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="64" group-title="3 Movies",Animation Movies
+http://xxip9.top:8080/live/95549031/69361122/119420.ts
+#EXTINF:-1  tvg-id="65" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="65" group-title="3 Movies",Tom & Jerry
+http://xxip9.top:8080/live/95549031/69361122/125635.ts
+#EXTINF:-1  tvg-id="66" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy-fleU6BY5k5rbjQJpCR3j3iDhLHnvvD9TQ&s" tvg-chno="66" group-title="3 Movies",Looney Tunes
+http://xxip9.top:8080/live/95549031/69361122/125638.ts
+#EXTINF:-1  tvg-id="67" tvg-logo="https://play-lh.googleusercontent.com/fAEC9Zw2S_KD-3uV1Eo5xVI0seT30eGp5SyeAfRFTCT-mc0shIWp9aJtTAGXtq__l4E=w240-h480-rw" tvg-chno="67" group-title="3 Movies",Jurassic Park
+http://xxip9.top:8080/live/95549031/69361122/215298.ts
+#EXTINF:-1  tvg-id="68" tvg-logo="https://www.lyngsat.com/logo/tv/ss/scifi-polska-us-pl.png" tvg-chno="68" group-title="3 Movies",24×7 Sci-Fi Movies
+http://xxip9.top:8080/live/95549031/69361122/119434.ts
+#EXTINF:-1  tvg-id="69" tvg-logo="https://play-lh.googleusercontent.com/wH53tiEqxfmetaweLb922iJnTk-t3Vrkuu1B6A6Gh8ESPwhFbRWU85_1OVWzDr4NEDE=w240-h480-rw" tvg-chno="69" group-title="3 Movies",24×7 Mystery Movies
+http://xxip9.top:8080/live/95549031/69361122/119431.ts
+#EXTINF:-1  tvg-id="70" tvg-logo="https://play-lh.googleusercontent.com/osa_eh_B8paWe8CUEiuJMjCNFZxQQgxJ_w5hTIxYQjRkp_ORyPlxfCLcn1Ll1B5FXxFh=w240-h480-rw" tvg-chno="70" group-title="3 Movies",Jackie Chan Movies
+http://fortv.cc:8080/live/70453597/56651433/215378.ts
+
+
+#================================== Kids Section ==================================
+
+
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="4 Kids",Disney Channel HD
 http://66.102.120.18:8000/play/a013/index.m3u8
 
 
+#================================== Infotainment Section ==================================
 
-#EXTINF:-1 tvg-id="61517" tvg-logo="https://i.ibb.co/zJ0ZzxC/Mega-24.webp" group-title="Tamizh",Mega 24 Tamil
+
+#EXTINF:-1 tvg-id="190" tvg-logo="https://i.ibb.co/Y4pKvRRB/Sony-BBC-Earth.png" group-title="INDIA DOCUMENTARY", Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
 #KODIPROP:http-referer=http:///stalker_portal/c/
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26163.ts
-#https://public.kliv.fun/Macair300/play.php?id=61517
-#http://livebox.pro:80/live/565trail724/6655447788/26163.ts
-
-#EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/HjndNGN/Mega-Musiq.png" group-title="Tamizh",Mega MusiQ
-https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/481456.m3u8
-#https://public.kliv.fun/Macair300/play.php?id=61518
-#http://livebox.pro:80/live/565trail724/6655447788/26164.ts
-
-#EXTINF:-1 tvg-id="ts37" tvg-logo="https://i.ibb.co/Mxg9Kkfr/Mega.png" group-title="Regional Tamil",Mega TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-http://iptvmedia.live:8080/F18115/068f009e/193209
-#https://public.kliv.fun/Macair300/play.php?id=58180
-#http://livebox.pro:80/live/565trail724/6655447788/28141.ts
-
-
-
-
-#EXTINF:-1 tvg-id="mksix" tvg-logo="https://i.ibb.co/LD4v104b/mk6.png" group-title="1Tamizh",MK Six
-https://cdn-3.pishow.tv/live/1253/master.m3u8
-#https://public.kliv.fun/Macair300/play.php?id=983
-
-#EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
-https://public.kliv.fun/Macair300/play.php?id=9184
-
-#EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/Macair300/play.php?id=796
-
-#EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/rRYL568F/Vijay-Super-2019-copy.webp" group-title="1Tamizh",Star Vijay Super HD
-https://public.kliv.fun/Macair300/play.php?id=831
-
-#EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Star Vijay Takkar SD
-https://public.kliv.fun/Macair300/play.php?id=1016
-
-#EXTINF:-1 tvg-id="ZeeThirai.in@SD" tvg-logo="https://i.ibb.co/zw8mhLm/Zee-Thirai-HD-29.png" group-title="1Tamizh" http-referrer="https://onezoo.net",Zee Thirai HD
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-http://87.255.35.150:18597
-
-#EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="1Tamizh",Vijay Super HD
-http://87.255.35.150:18954
-
-#EXTINF:-1 tvg-id="VijayTakkar.in@SD" tvg-logo="https://i.ibb.co/cKjsxxTH/Vijay-Takkar.png" group-title="1Tamizh",Vijay Takkar
-http://87.255.35.150:18950
-
-
-
-#EXTINF:-1 tvg-id="vikatan-tv" tvg-logo="https://i.ibb.co/dsSxZwCB/vikatan-Custom-1.png" group-title="Tamizh",Vikatan TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="843" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="Tamizh" group-logo="", Madhimugam TV
-https://cdn-3.pishow.tv/live/1476/master.m3u8
-
-#EXTINF:-1 tvg-id="2958" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0044256880499658982038945.png" group-title="hilaytv", Tamilan Television
-https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vaanaviltv" tvg-logo="https://i.ibb.co/KxYpXbQP/vaanavil-tv-in.png" group-title="Tamizh",Vaanavil TV
-#http://202.164.50.194:8000/play/a02r/index.m3u8
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.ibb.co/VYNc5YsJ/7s.png" group-title="Tamizh",7S Music
-http://202.164.50.194:8000/play/a026/index.m3u8
-
-#EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram
-https://cdn-6.pishow.tv/live/1243/master.m3u8
-
-#EXTINF:-1  tvg-chno="ts1167" tvg-chno="18" tvg-logo="https://i.ibb.co/Fbys5zSc/m-nadu-tv-in.png" group-title="Tamizh",M Nadu
-http://202.164.50.194:8000/play/a021/index.m3u8
-
-#EXTINF:-1 tvg-id="velichamtv" tvg-logo="https://i.ibb.co/1JKwNnkH/velicham-tv-in.png" group-title="Tamizh",Velicham Tv
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-461
-
-
-
-#EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="1Tamizh",Malai Murasu
-https://cdn-3.pishow.tv/live/1606/master.m3u8
-#http://12dec25-rkdyiptv.wasmer.app/play.php?id=989
-#https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/3461.m3u8
-
-#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="1Tamizh",News 18 Tamilnadu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jkey.playlivtvlinks.workers.dev/?id=615
-https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
-
-#EXTINF:-1 group-title="Tamizh" tvg-logo="https://kumudamnews.com/uploads/logo/logo_667fcce5056ab5-51745617.png" ,Kumudam News 24x7
-https://utubev2.psrutube.workers.dev/stream/UCYmUbCx3q38TJo4_qN-_uAA/master.m3u8
-
-#EXTINF:-1 group-title="Tamizh" tvg-logo="https://img.media.jio.com/imagespublic/31/67/301719_1717061594995_l_high.jpg" ,Tamil Janam
-http://iptvmedia.live:8080/live/F18115/068f009e/308353.ts
+#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/222.ts|User-Agent=
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/33610.ts
+#EXTINF:-1 tvg-id="156" tvg-logo="https://i.ibb.co/8nCFBX13/Discovery.png" group-title="INDIA DOCUMENTARY",Discovery HD World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)  stbapp ver: 2 rev: 254 Safari/533.3
+#KODIPROP:http-referer=http:///stalker_portal/c/
+#https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/156.ts|User-Agent=
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/132240.ts
 
 #EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -204,237 +185,5 @@ http://iptvmedia.live:8080/live/F18115/068f009e/308353.ts
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8?hdnts=st%3D1761899316~exp%3D1761920916~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-ESCAPE_TV_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F4da91549-1762-4d60-b8b7-db07ef7ee64b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_267_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_267_-1~hmac%3Dafa5f8df8ccfc986bfcc08d7ef5c7a427c4472147b2d8ee7b4d26eeb56bd34ad
 
-
-
-
-#=================================
-# 🖥 Developed by: Arivunidhi
-# 🕒 Last Updated: 2025-10-23 07:51 AM 
-#==================================
-
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed SD" group-title="TVPass | By Arivu",HBO Eastern Feed SD
-https://tvpass.org/live/HBOEast/sd
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed HD" group-title="TVPass | By Arivu",HBO Eastern Feed HD
-https://tvpass.org/live/HBOEast/hd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed SD" group-title="TVPass | By Arivu",HBO 2 Eastern Feed SD
-https://tvpass.org/live/HBO2East/sd
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed HD" group-title="TVPass | By Arivu",HBO 2 Eastern Feed HD
-https://tvpass.org/live/HBO2East/hd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East SD" group-title="TVPass | By Arivu",HBO Comedy HD East SD
-https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East HD" group-title="TVPass | By Arivu",HBO Comedy HD East HD
-https://tvpass.org/live/HBOComedyEast/hd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed SD" group-title="TVPass | By Arivu",HBO Family Eastern Feed SD
-https://tvpass.org/live/HBOFamilyEast/sd
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed HD" group-title="TVPass | By Arivu",HBO Family Eastern Feed HD
-https://tvpass.org/live/HBOFamilyEast/hd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern SD" group-title="TVPass | By Arivu",HBO Signature (HBO 3) Eastern SD
-https://tvpass.org/live/HBOSignatureEast/sd
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern HD" group-title="TVPass | By Arivu",HBO Signature (HBO 3) Eastern HD
-https://tvpass.org/live/HBOSignatureEast/hd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East SD" group-title="TVPass | By Arivu",HBO Zone HD East SD
-https://tvpass.org/live/HBOZoneEast/sd
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East HD" group-title="TVPass | By Arivu",HBO Zone HD East HD
-https://tvpass.org/live/HBOZoneEast/hd
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/007_jamesbond._SL170_FMpng_.png" group-title="Amz USA | Action",James Bond 007!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/903490ef7b5effa45b2fdba457ac3bea95d9fb2fbc1ef8b62fee61317125a270._SL170_FMpng_.png" group-title="Amz USA | Action",ActionMAX HD East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Amz USA | Movies",Cinemax HD East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/04cbd55e14402ee38367817efa02dd8f0cf94a1937214415d7bc8df9f9e2cf22._SL170_FMpng_.png" group-title="Amz USA | Movies",MovieMAX East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14a9a68a9da25997087bd8d6613d4d40:29ab18369310657053f55d4172981e92
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grtjzrom8b/out/v1/dbd3bca5cad44a8c8fb2e075aa08a824/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e6fc1034cd2bca0c407eb6f89257ff40fd433dadd62393cda9a5f3b597d3fa90._SL170_FMpng_.png" group-title="Amz USA | Movies",MoreMAX HD East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Amz USA | Movies",Cinemax West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
-https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/185d71f2eac4aeacfb475655ef9625e382b26245d8e65ef994bc0efc520b8565._SL170_FMpng_.png" group-title="Amz USA | Movies",5StarMAX East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dc690e5ba3fd497e686c4ebdf851b2b02503aca677988571453512d6d1870727._SL170_FMpng_.png" group-title="Amz USA | Movies",OuterMAX East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f1f10a41f93965f0ff594ca4899f31:e403a933f06bb0a23aea48c30a92cb78
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xv0ecztirv/out/v1/f7a60f0d97b44dc5b0cfefff5f784b81/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Amz USA | Premium Movies",HBO East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png" group-title="Amz USA | Entertainment",HBO Zone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Amz USA | Comedy",HBO Comedy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_WEST_WHITE_1920x1080_f._SL170_FMpng_.png" group-title="Amz USA | Premium Movies",HBO West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBOFamily._SL170_FMpng_.png" group-title="Amz USA | Family",HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a33b17bf71f18a361b595934bf09e5:3ce7dd628d3f031b5c3791b82d4ad3be
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ijxxmehuid/out/v1/d79264cd9e2944788e507c52b5f0d3b7/cenc.mpd
-
-#EXTINF:-1 tvg-name="HBO 2 - Eastern Feed (804).us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png" group-title="Amz USA | Premium Movies",HBO 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/hbo_signature._SL170_FMpng_.png" group-title="Amz USA | Premium Movies",HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Starz_HD_East._SL170_FMpng_.png" group-title="Amz USA | Premium Movies",Starz HD East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03da16f24d487d69c4474839af66eca5:a37b3734edfad7f6cf4d9cb55fc40247
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/pmaujuwbz1/out/v1/2be191af25954e63ab9de6ae08d6a52f/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Starz_inBlack_HD_East._SL170_FMpng_.png" group-title="Amz USA | Entertainment",Starz inBlack
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f0d5834ee5b0a8ec4a1e70da3727a8a:d2ef936bd1ba9f91eb1c5639a59f37d3
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/jqcz2pxwvz/out/v1/acae663de563489d9f00f2df13da3e96/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Starz_HD_West._SL170_FMpng_.png" group-title="Amz USA | Premium Movies",Starz HD West
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ee1c81c0daac2a3ac51b5f3b590d813:9afa59093ea8e7ffba3761ea5cf753c4
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/j48alu8yvp/out/v1/05549c4c7eb7428f8e6db00816bff553/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Encore_Action_HD_East._SL170_FMpng_.png" group-title="Amz USA | Action",Starz Encore Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8deeac2cf5ed4ad8f09a581da0b03d66:30b2a0a2d8e4a1d9337f5240eb3a47ba
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/wqvyt5lprt/out/v1/0496ddfe63a643d5ace57320ea7fe4e9/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Starz_Edge_HD_East._SL170_FMpng_.png" group-title="Amz USA | Movies",Starz Edge
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebef914db6a7db73570f98c2aeed9d48:65eaeb6b245befb7efa73c48b59ecdd9
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/cwefqpv0am/out/v1/5bb89226fb40403e87e6470cb61b35e4/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Encore_HD_East._SL170_FMpng_.png" group-title="Amz USA | Movies",Starz Encore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6adea8785ecdf981a3ca3802b6e4dc2:bddddae086a2752361359bd1c5198c63
-https://a147aivottlinear-a.akamaihd.net/OTTB/IAD/clients/dash/enc/uqhsayulr3/out/v1/29d005cdd41749f4901ddb9f94c96ee3/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Starz_Comedy_HD_East._SL170_FMpng_.png" group-title="Amz USA | Comedy",Starz Comedy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e799d091a775e320fe991ac1157e54c:3905edab045510aa8e16a036dfdcbad4
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/kwj9ebjr2v/out/v1/e4240c0b0310427fa7c04bbece7689f4/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Starz_Cinema_HD_East._SL170_FMpng_.png" group-title="Amz USA | Movies",Starz Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8444157d211f200b1208d0504148fac:538fc35e74cae4ea5c92029420517ef7
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/imxbzhzpv2/out/v1/cd2d7ef5281844aea11ed57d51800ebb/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Starz_Kids__Family_East._SL170_FMpng_.png" group-title="Amz USA | Family",Starz Kids & Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c6ca94e4d9cdcb8eb387e659ba00834:0565f7a65c76833908647b4a4c382d26
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/nrc5bbshtk/out/v1/a5969f1d6b1e4327ae04fe03dd1eec36/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Reelz_Channel_1920x1080._SL170_FMpng_.png" group-title="Amz USA | Entertainment",REELZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
-https://ottb.live.cf.ww.aiv-cdn.net/IAD/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix_Action._SL170_FMpng_.png" group-title="Amz USA | Action",Screenpix Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a340ce5a22ce1a5f54c2c5dd18e8fe7d:afa091d637e61d585ad036fd4b8a3235
-https://OTTB.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/2bsytxoitz/out/v1/312e6d1e20e744c0a9bf25519f6da91b/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix_Westerns_HD._SL170_FMpng_.png" group-title="Amz USA | Western",Screenpix Westerns
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=429d2a8c13dc9a40a13ef8d4e2325209:631892e5f5451b5596528e194c44d95b
-https://ottb.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/ikqumnhhew/out/v1/1f50afbc65ba48e79f8325022bdb72a0/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix._SL170_FMpng_.png" group-title="Amz USA | Movies",Screenpix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=537cc6cb07fe4bcc63d06c3018d5e35c:7420e0237883a05e4d2ddafaf114b050
-https://ottb.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MGMDriveIN._SL170_FMpng_.png" group-title="Amz USA | Movies",MGM Drive-in
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b74cf4e95c3dac51f8445d044d5fa11:abe32ddf4ab8e451b505354d55629785
-https://OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ijf9c1nj9l/out/v1/d8018bfb87ac4be1840dbc18b31f2fed/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MGMHD._SL170_FMpng_.png" group-title="Amz USA | Movies",MGM Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=563740ab2942d108384539e507d268a3:fb51835b952fab5a9d5233c771da1d3d
-https://OTTB.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6twfogu6go/out/v1/fe3c6ff9c8d94b2187e2e87b4edacca8/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MGMMARQUEE._SL170_FMpng_.png" group-title="Amz USA | Movies",MGM Marquee
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edec01accce094e2e105f76a8fac1a48:0c536390abb52439b4cac20bfe96daea
-https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/y7rqqxcdk4/out/v1/fb99f1f5705d4f3194e9a234ef717bd5/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MGM._SL170_FMpng_.png" group-title="Amz USA | Premium Movies",MGM+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea46cd84fc0fcaefc45b5d1d9b977db4:715a77d80b090e9f964e3616ca9e66d2
-https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ck8h9qqlfr/out/v1/34a373fb214d4e1590a3ab397b2d7af1/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png" group-title="Amz USA | Entertainment",AMC+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
-https://OTTB.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
 
 
