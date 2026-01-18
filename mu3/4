@@ -16,8 +16,9 @@ https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
 #https://public.kliv.fun/Sharetest/play.php?id=5932
+
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
-http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/197137.ts
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1  tvg-id="38" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-id="705" tvg-name="Polimer TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="1Tamizh",Polimer SD
@@ -41,15 +42,17 @@ https://public.kliv.fun/TPTV12J/play.php?id=831
 https://public.kliv.fun/TPTV12J/play.php?id=1016
 
 #EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="1Tamizh", Zee Thirai HD
+http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/33665.ts
+
+#EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="1Tamizh", Zee Thirai HD
 #EXTVLCOPT:http-user-agent=null
 #https://public.kliv.fun/Sharetest/play.php?id=181966
 #https://public.kliv.fun/TPTV12J/play.php?id=796
-http://line.smartfr.xyz:80/live/UHKYAJHH/KJKS37G8/33665.ts
+
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://public.kliv.fun/TPTV12J/play.php?id=796
-#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
 
 #================================== Tamil Entertainment Extra Section ==================================
 
@@ -82,7 +85,8 @@ https://mumt03.tangotv.in/7SMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-chno="ts1166" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram
 https://cdn-6.pishow.tv/live/1243/master.m3u8
-
+#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli SD
+http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/197137.ts
 
 #================================== Tamil News Section ==================================
 

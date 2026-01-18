@@ -45,9 +45,6 @@ https://public.kliv.fun/TPTV12J/play.php?id=831
 https://public.kliv.fun/TPTV12J/play.php?id=1016
 
 #EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="1Tamizh", Zee Thirai FHD
-#EXTVLCOPT:http-user-agent=null
-#https://public.kliv.fun/Sharetest/play.php?id=181966
-#https://public.kliv.fun/TPTV12J/play.php?id=796
 http://dhoomtv.xyz:80/live/P4B9TB9xR8/humongous2tonight/144636.ts
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
