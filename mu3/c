@@ -87,6 +87,14 @@ https://live.maxtn.in/vanitv/vanitv/index.m3u8
 http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="145" tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w240-h480-rw" tvg-chno="145" group-title="Cable TV",Surya TV
 https://galaxyott.live/hls/suryatv.m3u8
+#EXTINF:-1 tvg-id="TDNHD" tvg-name="TDN HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS161LApA9ludazwEnknn6ssA9iUrmGNUq8pZGYetXAjCVG5Aku" group-title="Cable TV", TDN HD
+https://live.maxtn.in/tdn/tdn/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RLVmFCKC4EM22zjHW1FUNUaAfTAlEQB6jvcFjd9rGLsmkqYsIo7T734IK4QYR9X_PDg=w240-h480-rw" group-title="Cable TV", D TV
+https://stream.d6-pro.com/Dtv/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gLTG0rLah2XPnxx0zKEdUfB-WSJbDC5IVBlMtiF3j66CK78KUWr3XExvqKYkVNCW9mU=w240-h480-rw" group-title="Cable TV", S Media
+http://stv.stream.onecloudlive.in/stv/stvhd/index.m3u8
+#EXTINF:-1  tvg-name="Aarthi TV" group-title="Cable TV" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_0832155366153724501071724.png",Aarthi Tv
+http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
 #EXTINF:-1  tvg-id="147" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Rainbow_TV_Logo.png/revision/latest?cb=20211014060555" tvg-chno="147" group-title="Cable TV",Rainbow TV
 https://live.skystream.in/live/rainbowtv/index.m3u8
 #https://live.skystream.in/live/rainbowtv/index.m3u8?hls_ctx=a7618r13

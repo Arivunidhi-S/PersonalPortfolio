@@ -33,21 +33,21 @@ https://cdn-2.pishow.tv/live/1241/master.m3u8
 
 
 #EXTINF:-1 tvg-id="9184" tvg-logo="http://234981.cc/stalker_portal/misc/logos/320/9100.jpg" group-title="Tamizh",Hollywood Tamil
-https://public.kliv.fun/TPTV12J/play.php?id=9184
+https://public.kliv.fun/TPTV19J/play.php?id=9184
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://i.ibb.co/rRYL568F/Vijay-Super-2019-copy.webp" group-title="1Tamizh",Star Vijay Super HD
-https://public.kliv.fun/TPTV12J/play.php?id=831
+https://public.kliv.fun/TPTV19J/play.php?id=831
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="1Tamizh",Star Vijay Takkar SD
-https://public.kliv.fun/TPTV12J/play.php?id=1016
+https://public.kliv.fun/TPTV19J/play.php?id=1016
 
 #EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="1Tamizh", Zee Thirai HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://public.kliv.fun/TPTV12J/play.php?id=796
+https://public.kliv.fun/TPTV19J/play.php?id=796
 #EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="1Tamizh", Zee Thirai HD
 #EXTVLCOPT:http-user-agent=null
 #https://public.kliv.fun/Sharetest/play.php?id=181966
-#https://public.kliv.fun/TPTV12J/play.php?id=796
+#https://public.kliv.fun/TPTV19J/play.php?id=796
 
 #EXTINF:-1 tvg-id="0-9-224" group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -62,19 +62,19 @@ http://4kgood.org:80/live/4o48up5evz/r4fiast66u/598757.ts
 
 #EXTINF:-1 tvg-id="61517" tvg-logo="https://i.ibb.co/zJ0ZzxC/Mega-24.webp" group-title="Tamizh",Mega 24 Tamil
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26163.ts
-#https://public.kliv.fun/TPTV12J/play.php?id=61517
+#https://public.kliv.fun/TPTV19J/play.php?id=61517
 #http://livebox.pro:80/live/565trail724/6655447788/26163.ts
 
 #EXTINF:-1 tvg-id="61518" tvg-logo="https://i.ibb.co/HjndNGN/Mega-Musiq.png" group-title="Tamizh",Mega MusiQ
 #http://iptvmedia.live:8080/F18115/068f009e/308442
-#https://public.kliv.fun/TPTV12J/play.php?id=61518
+#https://public.kliv.fun/TPTV19J/play.php?id=61518
 https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/26164.ts
 
 #EXTINF:-1 tvg-id="ts37" tvg-logo="https://i.ibb.co/Mxg9Kkfr/Mega.png" group-title="Regional Tamil",Mega TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://dhoomtv.xyz:443//live/8zpo3GsVY7/beneficial2concern/28141.ts
 #http://iptvmedia.live:8080/F18115/068f009e/193209
-#https://public.kliv.fun/TPTV12J/play.php?id=58180
+#https://public.kliv.fun/TPTV19J/play.php?id=58180
 #http://livebox.pro:80/live/565trail724/6655447788/28141.ts
 
 #EXTINF:-1 tvg-id="vikatan-tv" tvg-logo="https://i.ibb.co/dsSxZwCB/vikatan-Custom-1.png" group-title="Tamizh",Vikatan TV
