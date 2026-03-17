@@ -67,8 +67,6 @@ http://applelive.in/haitv/haitv.m3u8
 #EXTINF:-1  tvg-id="154" tvg-logo="https://i.ibb.co/rmYQGGZ/SURIYA.png" tvg-chno="154" group-title="Cable TV",Suriya TV
 #http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8
 https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
-#EXTINF:-1  tvg-id="157" tvg-logo="https://play-lh.googleusercontent.com/N2uvwr1bDqJb601kmjCqO_XovmcFAFBflQ3z7KbJQ3MBmbUXMXJVkp6EvM7_2pf3tns=w240-h480-rw" tvg-chno="157" group-title="Cable TV",U TV
-https://stream.galaxyott.live/live/utv/index.m3u8
 #EXTINF:-1  tvg-id="158" tvg-logo="https://play-lh.googleusercontent.com/dQ9d57qXuaxTEVwMnS6J4qxVsZLSJYSm-X6zKzV-_w7ClLYh8jSe0J83MhSUgy2kuA=w240-h480-rw" tvg-chno="158" group-title="Cable TV",KCTN TV
 http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
 #EXTINF:-1  tvg-id="159" tvg-logo="https://play-lh.googleusercontent.com/6CQFAp7zXcyvqrjJ6KFjW_bRkS9xLtSYJcn2PetyuAmBwwytGJ5CB-lYOyXOWE2l_zQ1=w240-h480-rw" tvg-chno="159" group-title="Cable TV",MN TV
@@ -97,18 +95,10 @@ http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 https://ipcloud.live/mullaitv/mullaitv/index.m3u8
 #EXTINF:-1  tvg-id="171" tvg-logo="https://play-lh.googleusercontent.com/_ClV7muVuzExhOFae7joy6ZI8tejKIs4Cfgnr_cyJqH0Z_DUnac2xm46uWKYBhZtiQ=w240-h480-rw" tvg-chno="171" group-title="Cable TV",Taital TV
 https://stream.onecloudlive.in/taitaltv/live/index.m3u8
-#EXTINF:-1  tvg-id="172" tvg-logo="https://play-lh.googleusercontent.com/M2XU-TOclyM5QobWBA-zgwnAmCXh-hcqoTQb1Op9akdh1LyaxTspqphplKWWJrynHIQ=w240-h480-rw" tvg-chno="172" group-title="Cable TV",Sri Krishna TV
-http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-#EXTINF:-1  tvg-id="176" tvg-logo="https://play-lh.googleusercontent.com/Ja_a7W1ZKZdZG8T4jxP2TxUsW9nD1g2-bVPbfSgeWL3xlyyhixj5DdIZovjHCViXO2sM=w240-h480-rw" tvg-chno="176" group-title="Cable TV",Tirupur Voice TV
-http://notvstream.in/tirupurvoicetv/tirupurvoicetv.m3u8
 #EXTINF:-1  tvg-id="177" tvg-logo="https://play-lh.googleusercontent.com/GPwEalUw7RIHmutwfZpIS1RtFSIXYk6nzvht_bnRj8nT2PW-WqcDX4LjZeqTSLDwwT0=w240-h480-rw" tvg-chno="177" group-title="Cable TV",Dark TV
 http://applelive.in/darktv/darktv.m3u8
 #EXTINF:-1  tvg-id="181" tvg-logo="https://play-lh.googleusercontent.com/HLKCYvIvjS0Fl7eUKDZwm_AIz3-4lV-w9QcTAYc7HAPV-yqADn3khKJ4z6GfzjPC1ig=w240-h480-rw" tvg-chno="181" group-title="Cable TV",King TV
 http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8
-#EXTINF:-1  tvg-id="182" tvg-logo="https://play-lh.googleusercontent.com/EdFj4R6OppJ5GuBSXyLWigMaj0nyleQCcwMiBLG6mRWL4sPy1ODUTigqHecr1UWrGw=w240-h480-rw" tvg-chno="182" group-title="Cable TV",ATN TV
-http://atntv.stream.onecloudlive.in:8080/atntv/atnhd/index.m3u8
-#EXTINF:-1  tvg-id="188" tvg-logo="https://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" tvg-chno="188" group-title="Cable TV",Tharani TV
-http://singamcloud.in/tharanitvtvl/tharanitvtvl/index.m3u8
 #EXTINF:-1  tvg-id="196" tvg-logo="https://play-lh.googleusercontent.com/-QtsT3ZaeDr94jZ0u3mbhw3f59-ikBD7opyYra6w6q-OCYSz0qJwElF9AjPIQW5dxJIo=w240-h480-rw" tvg-chno="196" group-title="Cable TV",Raga TV
 https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
 #EXTINF:-1  tvg-id="198" tvg-logo="https://i.ibb.co/8D6V7wqm/surya-hd.png" tvg-chno="198" group-title="Cable TV",Surya TV
@@ -121,8 +111,6 @@ https://rtmp.bmlive.net/bms/pcn/stream.m3u8
 https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
 #EXTINF:-1  tvg-id="220" tvg-logo="https://play-lh.googleusercontent.com/1lTZUe4WeT_1GcTAFvdAUihFkR3BFgANpA9-eGueZaAfyq8ecyiJo5mh2lkLAa-b84A=w240-h480-rw" tvg-chno="220" group-title="Cable TV",Eagle 2  TV
 https://ipcloud.live/eaglemedia/eagletv/index.m3u8
-#EXTINF:-1  tvg-id="226" tvg-logo="https://i.ibb.co/xtsStFv6/images-2.jpg" tvg-chno="226" group-title="Cable TV",Minnal TV
-https://ipcloud.live/minnaltv/minnalhd/index.m3u8
 #EXTINF:-1  tvg-id="232" tvg-logo="https://play-lh.googleusercontent.com/1wj3APfzc_46EACzz2u9KkfOIoF9ybJHHu32YtEUtBh23UBdae2W7cAnO9-ffVxe-3by=w240-h480-rw" tvg-chno="232" group-title="Cable TV",Hitech TV
 https://server.notvstream.in/hitechtv/hitechtv.m3u8
 #EXTINF:-1  tvg-id="236" tvg-logo="https://i.ibb.co/F44YVgF6/download.png" tvg-chno="236" group-title="Cable TV",Smiley TV
@@ -133,8 +121,6 @@ https://server.sscloud7.in/live/bharathitv/index.m3u8
 http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8
 #EXTINF:-1  tvg-id="242" tvg-logo="https://play-lh.googleusercontent.com/3QhCPFmEaaCogxrmC35DPWZ9E11cs6jqsjN5Vf3FB9e4zlRnhNPkqikwvOUUU7eOBOk=w240-h480-rw" tvg-chno="242" group-title="Cable TV",A2A TV
 https://live.sscloud7.in/live/a2atv/index.m3u8
-#EXTINF:-1  tvg-id="244" tvg-logo="https://play-lh.googleusercontent.com/xcG5fdJJaLOK7joPQDZJ0mvBO4cDZWkZtVf56LKMexlpgE4X0oH6VTRVoLcSPdxLWA=w240-h480-rw" tvg-chno="244" group-title="Cable TV",Raja TV
-http://brightmeltech.in/rajatv/rajatv.m3u8
 #EXTINF:-1  tvg-id="246" tvg-logo="https://play-lh.googleusercontent.com/E682c31psRuCXEARLqC54HLbgQyyiSFGiA-nJdTiCFWW9g3EWLoS955tdy_9VhdQFw=w240-h480-rw" tvg-chno="246" group-title="Cable TV",Pr TV
 http://applelive.in/prtv/prtv.m3u88
 #EXTINF:-1  tvg-id="252" tvg-logo="https://play-lh.googleusercontent.com/xfqbIDE5DBqAdLQmGZJ9bxK5bQJjQkUibgEtQzUgZ5AVqO7Bx-YoO5VeJ4RcxqjWL2k=w240-h480-rw" tvg-chno="252" group-title="Cable TV",Vanavil TV
@@ -145,16 +131,11 @@ http://applelive.in/appletv/appletv.m3u8
 http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 #EXTINF:-1  tvg-id="266" tvg-logo="https://play-lh.googleusercontent.com/e4oZs-UZojWGRhgNF5YI-2gQYWiT1YjNG1Iviv0G0oEs3fQAUQnhZ9zBQUFB4l23i3nS=w240-h480-rw" tvg-chno="266" group-title="Cable TV",Akash TV
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
-#EXTINF:-1  tvg-id="270" tvg-logo="https://play-lh.googleusercontent.com/O6ApjX3vM6G-UUzPzTnu82GBpzTlHIrsjpp70P6Hqg9IEmCtNVuIvhWZGF1HgX0EuRY=w240-h480-rw" tvg-chno="270" group-title="Cable TV",Shakthi TV
-https://edge3-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="274" tvg-logo="https://play-lh.googleusercontent.com/sjfe5MtQPIEFRUSlXsWsVAW8qZtNLMFMs9sf7Ou9v0OSr_8OS7RXCGh1r2xgkRrfBK0=w240-h480-rw" tvg-chno="274" group-title="Cable TV",STS TV
 http://stream.vstartv.org/p/3031/hybrid/play.m3u8
 #EXTINF:-1  tvg-id="276" tvg-logo="https://play-lh.googleusercontent.com/r8o_7nnHnNBGqWHnTSl98uPoTwsxVGCfFArM5OTIcGQUoaNuxORznc11pQjyTF8GMA0=w240-h480-rw" tvg-chno="276" group-title="Cable TV",Rio TV
 https://ipcloud.live/riotv/riotvhd/index.m3u8
 #EXTINF:-1  tvg-id="278" tvg-logo="https://play-lh.googleusercontent.com/Jv0WXUzSEcd0z3-ntyVOKrhPJf4WrjpXrapPeH2Luql8iQOnMkTcaRz7kS4Ovw3XGGID=w240-h480-rw" tvg-chno="278" group-title="Cable TV",JHP TV
 http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
-#EXTINF:-1  tvg-id="280" tvg-logo="https://i.ibb.co/x83xD1tm/download-2.jpg" tvg-chno="280" group-title="Cable TV",Kanchi TV
-http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 #EXTINF:-1  tvg-id="284" tvg-logo="https://play-lh.googleusercontent.com/Olc5gspdFsxZRl8MmOlg2FPh8TXapqTIY2o7EnmFymRhpn0Ueg1qekqiYpYbsiz20A=s64-rw" tvg-chno="284" group-title="Cable TV",Vidiyal TV
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8
 #EXTINF:-1  tvg-id="288" tvg-logo="https://play-lh.googleusercontent.com/W92ekNMxuUVvj_ZyKPN8Q7flJPqWdInZZvg_sqMXty7OmscURTYTN8Zg-qzNkNcvY6E=w240-h480-rw" tvg-chno="288" group-title="Cable TV",Malligai TV
@@ -188,8 +169,6 @@ http://ipcloud.live:8080/shalinitv/shalinitv/tracks-v1a1/mono.m3u8
 https://ipcloud.live/sachintv/musichd/index.m3u8
 #EXTINF:-1  tvg-id="338" tvg-logo="https://play-lh.googleusercontent.com/weF5tBb_3j2KlQ5r8vW2VYEeyDVbfjdzHpaH-XoGKS663UW0ILNGcLkShtjV0uSSp8tt=s64-rw" tvg-chno="338" group-title="Cable TV",Dhoni TV
 https://ipcloud.live/sachintv/dhonitv/index.m3u8
-#EXTINF:-1 tvg-id="205" tvg-chno="526" tvg-name="athavan-tv-hd" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png" group-title="Cable TV", Athavan TV HD
-https://public.kliv.fun/Macair300/play.php?id=11784
 #EXTINF:-1 tvg-id="AnjaiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AnjaiTV.png" tvg-region="Unknown" group-title="Cable TV",Anjai TV
 https://web.applelive.in/stream/anjaitv/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Cable TV", Thalaa TV
@@ -213,16 +192,8 @@ https://stream.rojatv.cloud/nammagobi/tv/index.m3u8
 https://stream.rojatv.cloud/kumarantv/gobi/index.m3u8
 #EXTINF:-1 tvg-id="OLITV" tvg-name="OLI TV" tvg-logo="https://i.ibb.co/tPsBQWky/logo-png.png" group-title="Cable TV", OLI TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
-#EXTINF:-1 tvg-id="SSMusic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/SS_Music_logo.jpeg/revision/latest?cb=20191225181156" group-title="Cable TV",SS Music
-https://stream.advikadigital.in/advika/ssmusic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/i6ayGB9xkokVYhImjd57dY34siZdEy9Eyfsz5gbWASEVVwM1IZ5JFzE8DrKwOz5avw=w240-h480-rw" group-title="Cable TV",izzathtv
-https://live.olidigital.in/izzathtv/izzathtv/index.m3u8
-#EXTINF:-1 tvg-id="SreeSaravanaaTV" tvg-logo="https://play-lh.googleusercontent.com/YSGvoujiehYGSwN4CB9jtlITpiUTE4fOCRUdMTAP0i1xVhhPCrp510tA-gcDaYc2uPqU=w240-h480-rw" group-title="Cable TV",Sree Saravanaa TV
-https://stream.advikadigital.in/advika/saravana/index.m3u8
 #EXTINF:-1 tvg-id="CuddaloreVoiceTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1754494620_Ver%25202.0_04.png&w=1080&q=75" group-title="Cable TV",Cuddalore Voice TV
 http://voicetv.stream.ashokadigital.net:8080/voicetv/voicetvhd/index.m3u8
-#EXTINF:-1 tvg-name="Maruthi HD" group-title="Cable TV" tvg-logo="https://i.ibb.co/R4DVKDh1/1000122165.jpg",Maruthi HD
-https://stream.onecloudlive.in/maruthitv/maruthitvhd/index.m3u8
 #EXTINF:-1 tvg-id="BSCOld" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1761725256_WhatsApp%2520Image%25202025-10-28%2520at%25206.09.48%2520PM.jpeg&w=1920&q=75" group-title="Cable TV",BSC Old
 https://stream.onecloudlive.in/bschd/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-AJSA_oGQROLDwiwj6J1GAzUee1WIh3zwUSj8wGZYNwaRn0JUSDYTYkCdKLvoiJr8j33=w240-h480-rw" group-title="Cable TV", Nila TV Pannur
@@ -233,10 +204,6 @@ https://live.olidigital.in/ctnchannel/ctnchannel/index.m3u8
 https://stream.onecloudlive.in/forttv/fortchannel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/xqHA5Zht8na9NI8kgetpAPpt_AhueCQ3_afdjUhPsZP_RkgVgzpKFwCpIjDLrOA0zXcq=w240-h480-rw" group-title="Cable TV",Jeyan Tv
 https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
-#EXTINF:-1 tvg-id="StrawberryTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1756798791_Logo_00341.png&w=1920&q=75" group-title="Cable TV",Strawberry TV
-https://stream.onecloudlive.in/sachintv/strawberrytv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="Cable TV", NRS Channel
-http://notvstream.in/nrstv/nrstv.m3u8
 #EXTINF:-1tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/kudwyY8cBVNIcRsERMRzWAjw90iM6u5MgVsI9fbaKZQgNzkWAu4wbylDzkbBt8tGHPA=w240-h480-rw" group-title="Cable TV",Max Tv
 https://stream.onecloudlive.in/maxtv/maxtvtenkasi/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cable TV", National TV
@@ -259,17 +226,6 @@ https://live.applelive.in/penguinhd/penguinhd/index.m3u8
 http://rtmp.applelive.in/boystv/boystv/index.m3u8
 #EXTINF:-1  tvg-name="" group-title="Local Channels" tvg-logo="https://play-lh.googleusercontent.com/TD_XAFnpLJk1A9pT-vMW1dImZDTRpN7UZ8F8KGWy8u0z7LnG19MWeiTtnRJenT4-YlA=w240-h480-rw",Devathai tv
 https://hdbox.singamcloud.in/Deavathaitv/Deavathaitv/index.m3u8
-#EXTINF:-1 tvg-name="SNR Tv" group-title="Cable TV" tvg-logo="https://i.ibb.co/xt6mtWj5/1000136482.png",SNR Tv
-http://198.144.149.206:8080/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
-#EXTINF:-1 tvg-name="Queens Tv" group-title="Cable TV" tvg-logo="https://i.ibb.co/vC299ZpH/1000146965.png",Queens Tv
-https://notvstream.in/queens/queens.m3u8
-
-#EXTINF:-1 tvg-name="Queens Tv" group-title="Cable TV" tvg-logo="https://i.ibb.co/Jj3CkDq5/gta.jpg",GTA Tamil Tv
-http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/5738.ts
-#EXTINF:-1 tvg-name="Queens Tv" group-title="Cable TV" tvg-logo="https://play-lh.googleusercontent.com/SgKEHhaOjL-oqtS7vyD_aZk03rp-76G7XKDJkkPgsNQvJnHVvHOgKown410H7BKpqeQ=w240-h480-rw",TVI Tv
-http://dcfyhwms.megaser.xyz:80/live/L176T6LA/HNU7Y5R2/5857.ts
-
-
 #EXTINF:-1 tvg-id="AuroTV" tvg-logo="https://i.ibb.co/KcnNrGFN/29943.png" tvg-region="Unknown" group-title="Cable TV",Auro TV
 http://ptu.ridsys.in/riptv/live/AURO_HD/index.m3u8
 #EXTINF:-1 tvg-id="RidsysTV" tvg-logo="https://i.ibb.co/zTDC85jp/30052.png" tvg-region="Unknown" group-title="Cable TV",Ridsys TV
@@ -282,8 +238,6 @@ http://ptu.ridsys.in/riptv/live/AJK_MOVIE_HD/index.m3u8
 http://ptu.ridsys.in/riptv/live/S_MEDIA/index.m3u8
 #EXTINF:-1 tvg-id="LathaSmileTV" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Cable TV",Latha Smile TV
 http://ptu.ridsys.in/riptv/live/LATHA_SMILE_HD/index.m3u8
-#EXTINF:-1 tvg-id="JVRMediaLiveNews" tvg-logo="https://i.ibb.co/N6fQyQd4/30008.png" tvg-region="Unknown" group-title="Cable TV",JVR Media Live News
-http://ptu.ridsys.in/riptv/live/index.m3u8
 #EXTINF:-1 tvg-id="SriBhagavanTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SriBhagavanTV.png" tvg-region="Unknown" group-title="Cable TV",Sri Bhagavan TV
 https://ipcloud.live/sriarjuntv/sribhagavan/index.m3u8
 #EXTINF:-1 tvg-id="RTV2" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RTV2.png" tvg-region="Unknown" group-title="Cable TV",R TV
@@ -316,7 +270,7 @@ http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u
 https://stream.onecloudlive.in/sachintv/jpmusichd/index.m3u8
 #EXTINF:-1 tvg-id="ArulTV" tvg-logo="https://i.ibb.co/JRx3Ppdm/1000136493.jpg" tvg-region="Unknown" group-title="Cable TV",Arul TV
 http://arulstream.in:1935/ArulTv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KanchiMedia" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0013388576810840645126860.png" tvg-region="Kanchipuram" group-title="Cable TV",Kanchi Media
+#EXTINF:-1 tvg-id="KanchiMedia" tvg-logo="https://i.ibb.co/x83xD1tm/download-2.jpg" tvg-region="Kanchipuram" group-title="Cable TV",Kanchi Media
 http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="AnnaiTVThoothukudi" tvg-logo="https://play-lh.googleusercontent.com/lVRWVDehSsWowxds1f3ZGAurZLUVImbooOd0eyme0M9NTAdPsDIWb8Sy3nJC4f0m1JdJbrYsf2vMdOfd3H3QSA=w512-h960-rw" tvg-region="Thoothukudi" group-title="Cable TV",Annai TV Thoothukudi
 http://annaitv.phoenixcreations.online/annai/annaitv/index.m3u8
@@ -346,8 +300,8 @@ https://stream.onecloudlive.in/duraitv/classic/index.m3u8
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="News80Tamil" tvg-logo="https://play-lh.googleusercontent.com/vUleh6XgoF2Ouabo6ImWZFg1wZY0xiFZDgp8d2fl2wvx2gejgt7eavWhn9DxTVEtw4I=w512-h960-rw" tvg-region="Unknown" group-title="News",News 80 Tamil
 http://198.144.149.206:8080/NOTV/NEWS80/index.m3u8?token=GTR
-#EXTINF:-1 tvg-id="CTV" tvg-logo="https://play-lh.googleusercontent.com/X_vIkiQs3knoHDyeyTFs35jyICkM8c_s4jqW3pcC49PsnOapF2gtoMGzez4XkQtmU7k=w512-h960-rw" tvg-region="Unknown" group-title="Cable TV",C TV
-http://ctv.phoenixcreations.online:1935/ctv/ctv/playlist.m3u8
+#EXTINF:-1 tvg-name="SNR Tv" group-title="Cable TV" tvg-logo="https://i.ibb.co/xt6mtWj5/1000136482.png",SNR Tv
+http://198.144.149.206:8080/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="KingTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1731847465_WhatsApp_Image_2024-11-17_at_6.04.44_PM-removebg-preview.png" tvg-region="Coimbatore" group-title="Cable TV",King TV
 https://rtmp.bmlive.net/kingtv/kingtv/stream.m3u8
 #EXTINF:-1 tvg-id="SubinTV@Phoenix" tvg-logo="https://subintv.in/SUBINLOGO.png" tvg-region="Alangulam;Tenkasi" group-title="Cable TV",Subin TV (Phoenix)
