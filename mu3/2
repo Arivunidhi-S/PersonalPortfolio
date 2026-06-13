@@ -1,0 +1,186 @@
+﻿#=================================
+# 🖥 Created by: Arivunidhi
+# 🕒 Last Updated: 2026-05-22 12:10 PM 
+#==================================
+
+#EXTM3U
+
+#================================== Tamil Entertainment Section ==================================
+
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTINF:-1  tvg-id="111" tvg-logo="https://i.ibb.co/qn5fHnp/Kalaignar-TV.png" tvg-chno="111" group-title="1Tamizh",Kalaingar TV
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="15" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram
+https://cdn-6.pishow.tv/live/1243/master.m3u8
+
+#EXTINF:-1  tvg-id="20" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+
+#================================== Tamil Movie Section ==================================
+
+#EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="BackupTamizh",Star Vijay Super SD
+http://202.70.146.135:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/b6WmkFg/Vijay-Takkar.png" group-title="BackupTamizh",Star Vijay Takkar SD
+http://premimum.online:80/live/76631957/10205687/23869.ts
+
+#EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="BackupTamizh", Zee Thirai FHD
+http://premimum.online:80/live/76631957/10205687/152387.ts
+
+
+
+#================================== Tamil Entertainment Section Extra ==================================
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/195491/200x200_SunTVHDDolbyVision_195491_4ce296b0-c6fb-424e-8711-e53b152e71ee.png" group-title="BackupTamizh",Sun TV HDR10
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_P_IN_index.mpd
+
+#EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.ibb.co/VYNc5YsJ/7s.png" group-title="Tamizh",7S Music
+https://mumt03.tangotv.in/7SMUSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="MadhimugamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="BackupTamizh",Madhimugam TV SD
+https://cdn-3.pishow.tv/live/1476/master.m3u8
+
+#EXTINF:-1 tvg-id="MakkalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png" group-title="BackupTamizh",Makkal TV SD
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="BackupTamizh",MK Six SD
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+
+#EXTINF:-1 tvg-id="19" tvg-name="Polimer TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="BackupTamizh",Polimer TV
+https://cdn-2.pishow.tv/live/1241/master.m3u8
+
+#EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://i.imgur.com/3l25EZI.png" group-title="TAMIL",Moon TV SD
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="BackupTamizh",Tunes 6 SD
+
+#EXTINF:-1 tvg-id="VendharTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="BackupTamizh",Vendhar TV SD
+https://cdn-3.pishow.tv/live/1271/master.m3u8
+
+#EXTINF:-1 tvg-id="VendharTV.in@SD" tvg-logo="https://i.pinimg.com/736x/db/72/f0/db72f06bd09898d9682ebd2b4275a65b.jpg" group-title="BackupTamizh",Vaanavil TV SD
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VelichamTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png" group-title="BackupTamizh",Velicham TV SD
+https://cdn-3.pishow.tv/live/461/master.m3u8
+
+#EXTINF:-1 tvg-id="VelichamTV.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/DD_Tamil.jpg" group-title="BackupTamizh",DD Tamil SD
+https://cdn-2.pishow.tv/live/26/master.m3u8
+
+
+#================================== Tamil News Section ==================================
+
+
+#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="1Tamizh",Kalaignar Seithigal
+https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
+
+#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="1Tamizh",Polimer News
+https://live-cf-polimernews.dailyhunt.in/master.m3u8
+#https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3u8
+
+#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS7_TAMIL/images/LOGO_HD/image.png" group-title="BackupTamizh",News 7 Tamil SD
+https://segment.yuppcdn.net/240122/news7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="BackupTamizh",Thanthi TV SD
+https://cdn-3.pishow.tv/live/1612/master.m3u8 
+
+#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="BackupTamizh",News 18 Tamilnadu SD
+https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUTHIYA_THALAIMURAI/images/LOGO_HD/image.png" group-title="BackupTamizh",Puthiya Thalaimurai SD
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/87dafeef112e15e50fedf83c09a4ad5b.png" group-title="BackupTamizh",News Tamil 24x7 SD
+https://cdn-3.pishow.tv/live/1433/master.m3u8
+
+#EXTINF:-1 tvg-id="299"tvg-logo="https://www.lyngsat.com/logo/tv/mm/malai_murasu_tv_in.png" tvg-chno="299" group-title="BackupTamizh",Malai Murasu SD
+https://cdn-3.pishow.tv/live/1606/master.m3u8
+
+#EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_J/images/LOGO_HD/image.png" group-title="BackupTamizh",News J SD
+https://cdn-3.pishow.tv/live/1279/master.m3u8
+
+#EXTINF:-1 tvg-id="WinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png" group-title="BackupTamizh",Win TV SD
+https://cdn-4.pishow.tv/live/1531/master.m3u8
+
+#EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Jaya_Plus.jpeg" group-title="BackupTamizh",Jaya Plus SD
+https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+
+
+#================================== 5.1 ==================================
+
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-tv-in.png" group-title="5.1",Sun TV HD 5.1
+http://premimum.online:80/live/76631957/10205687/98911.ts
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="5.1",Sun Music HD 5.1
+http://premimum.online:80/live/76631957/10205687/98899.ts
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="5.1",Sun Music HD 2 5.1
+http://202.70.146.135:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-vijay-in.png" group-title="5.1",Star Vijay HD 5.1
+http://premimum.online:80/live/76631957/10205687/98898.ts
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" group-title="5.1",Vijay Super HD 5.1
+http://premimum.online:80/live/76631957/10205687/1614.ts
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_surya_tv.png" group-title="5.1",Surya TV HD 5.1
+http://premimum.online:80/live/76631957/10205687/98900.ts
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" group-title="5.1",Asianet HD 5.1
+http://premimum.online:80/live/76631957/10205687/98888.ts
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 5.1
+http://premimum.online:80/live/76631957/10205687/166.ts
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 5.1
+http://premimum.online:80/live/76631957/10205687/191.ts
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="5.1",MNX HD 5.1
+http://premimum.online:80/live/76631957/10205687/98847.ts
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1",MN+ HD 5.1
+http://premimum.online:80/live/76631957/10205687/98843.ts
+
+
+#================================== English Movies Section ==================================
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="3 Movies",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="3 Movies",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="3 Movies",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+
+#================================== Infotainment Section ==================================
+
+#EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/master.m3u8?hdnts=st%3D1761899316~exp%3D1761920916~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-ESCAPE_TV_YUPPTV%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F4da91549-1762-4d60-b8b7-db07ef7ee64b%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_267_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_267_-1~hmac%3Dafa5f8df8ccfc986bfcc08d7ef5c7a427c4472147b2d8ee7b4d26eeb56bd34ad
+
+
+
