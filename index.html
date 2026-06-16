@@ -480,9 +480,28 @@ Author email: nidhiarivu@gmail.com
    <div class="container py-3">
      <h6 class="title-small">Get in touch</h6>
      <h3 class="title-big mb-md-5 mb-4">Let's start a Project! Hire Me.</h3>
-     <a href="contact.html" class="btn btn-style btn-primary mr-2">Hire Me </a>
+     <a href="#" class="btn btn-style btn-primary mr-2" onclick="showContactAdminModal(); return false;">Hire Me </a>
      <a href="contact.html" class="btn btn-style btn-outline-primary">Get in touch</a>
    </div>
+                 <div id="contactAdminModal"
+                style="display:none;position:fixed;z-index:9999;left:0;top:0;width:100vw;height:100vh;background:rgba(0,0,0,0.5);">
+                <div
+                  style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:#fff;padding:32px 24px 24px 24px;border-radius:8px;box-shadow:0 2px 16px rgba(0,0,0,0.2);min-width:300px;text-align:center;">
+                  <span style="font-size:1.2em;font-weight:bold;display:block;margin-bottom:12px;">Contact admin</span>
+                  <span style="font-size:1.1em;color:#333;">+91 77085 61033</span>
+                  <br><br>
+                  <button onclick="closeContactAdminModal()"
+                    style="margin-top:10px;padding:6px 18px;font-size:1em;border:none;background:#007bff;color:#fff;border-radius:4px;cursor:pointer;">OK</button>
+                </div>
+              </div>
+              <script>
+                function showContactAdminModal() {
+                  document.getElementById('contactAdminModal').style.display = 'block';
+                }
+                function closeContactAdminModal() {
+                  document.getElementById('contactAdminModal').style.display = 'none';
+                }
+              </script>
  </section>
  <!-- //freelance hire me -->
  
