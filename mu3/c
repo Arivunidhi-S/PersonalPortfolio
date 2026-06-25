@@ -131,14 +131,14 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 http://ottsolutions.club:80/live/4321/1234/58546.ts
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="5.1",Sun Music HD 2 5.1
-http://202.70.146.135:8000/play/a06k/index.m3u8
+#http://202.70.146.135:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-vijay-in.png" group-title="5.1",Star Vijay HD 5.1
-http://ottsolutions.club:80/live/4321/1234/58530.ts
+#http://ottsolutions.club:80/live/4321/1234/58530.ts
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" group-title="5.1",Vijay Super HD 5.1
 #http://premimum.online:80/live/76631957/10205687/1614.ts
-http://ottsolutions.club:80/live/4321/1234/58536.ts
+#http://ottsolutions.club:80/live/4321/1234/58536.ts
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_surya_tv.png" group-title="5.1",Surya TV HD 5.1
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_surya_tv.png" group-title="5.1",Surya TV HD 5.1 
@@ -167,16 +167,16 @@ http://103.253.18.58:8000/play/a03n
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1",MN+ HD 5.1 
 #http://premimum.online:80/live/76631957/10205687/98843.ts
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.svg" group-title="5.1", Discovery HD 5.1 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_world_in.png" group-title="5.1", Discovery HD 5.1 
 http://103.253.18.58:8000/play/a01r
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1", National Geographic HD 5.1 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png" group-title="5.1", National Geographic HD 5.1 
 http://103.253.18.58:8000/play/a011
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1",Nat Geo Wild HD 5.1 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" group-title="5.1",Nat Geo Wild HD 5.1 
 http://103.253.18.58:8000/play/a04d
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1",Sony BBC Earth HD 5.1 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-uk-in.png" group-title="5.1",Sony BBC Earth HD 5.1 
 http://103.253.18.58:8000/play/a01g
 
 
