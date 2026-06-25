@@ -128,10 +128,10 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="5.1",Sun Music HD 5.1
 #http://premimum.online:80/live/76631957/10205687/98899.ts
-http://ottsolutions.club:80/live/4321/1234/58546.ts
+#http://ottsolutions.club:80/live/4321/1234/58546.ts
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="5.1",Sun Music HD 2 5.1
-#http://202.70.146.135:8000/play/a06k/index.m3u8
+http://202.70.146.135:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-vijay-in.png" group-title="5.1",Star Vijay HD 5.1
 #http://ottsolutions.club:80/live/4321/1234/58530.ts
