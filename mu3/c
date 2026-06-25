@@ -152,7 +152,7 @@ http://ottsolutions.club:80/live/4321/1234/58536.ts
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 5.1 
 http://103.253.18.58:8000/play/a01x
 
-EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies Select HD 5.1
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies Select HD 5.1
 http://103.253.18.58:8000/play/a01w
   
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 5.1
@@ -167,7 +167,7 @@ http://103.253.18.58:8000/play/a03n
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1",MN+ HD 5.1 
 #http://premimum.online:80/live/76631957/10205687/98843.ts
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1", Discovery HD 5.1 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.svg" group-title="5.1", Discovery HD 5.1 
 http://103.253.18.58:8000/play/a01r
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1", National Geographic HD 5.1 
