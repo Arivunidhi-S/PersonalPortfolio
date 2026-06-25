@@ -150,11 +150,14 @@ http://ottsolutions.club:80/live/4321/1234/58536.ts
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 5.1
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 5.1 
-#http://premimum.online:80/live/76631957/10205687/166.ts
+#http://103.253.18.58:8000/play/a01x
 
+EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies Select HD 5.1
+#http://103.253.18.58:8000/play/a01w
+  
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 5.1
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 5.1 
-#http://premimum.online:80/live/76631957/10205687/191.ts
+http://103.253.18.58:8000/play/a03n
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="5.1",MNX HD 5.1
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="5.1",MNX HD 5.1 
