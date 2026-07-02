@@ -84,7 +84,7 @@ https://cdn-2.pishow.tv/live/26/master.m3u8
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="1Tamizh",Kalaignar Seithigal SD
 https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 
-#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="1Tamizh",Polimer News
+#EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="1Tamizh",Polimer News SD
 https://live-cf-polimernews.dailyhunt.in/master.m3u8
 #https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3u8
 
