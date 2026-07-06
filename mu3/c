@@ -130,7 +130,7 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="5.1",Sun Music HD 5.1
 #http://premimum.online:80/live/76631957/10205687/98899.ts
 #http://ottsolutions.club:80/live/4321/1234/58546.ts
-http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/161943.ts
+http://103.155.18.186:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="5.1",Sun Music HD 2 5.1
 http://202.70.146.135:8000/play/a06k/index.m3u8
@@ -151,14 +151,20 @@ http://202.70.146.135:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vijay-super-hk-in.png" group-title="5.1",Asianet HD 5.1
 #http://premimum.online:80/live/76631957/10205687/98888.ts
 
-#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 5.1
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 2 5.1
+http://119.156.228.231:9983/stream/channelid/2092964041?ticket=7FD1278E7D2742F1FF83BF84E97BB17FC2C74353&profile=pass
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 5.1 
 http://103.253.18.58:8000/play/a01x
+
+
+#EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" group-title="5.1",Star Movies Select HD 2 5.1
+http://119.156.228.231:9983/stream/channelid/929044861?ticket=5CCDC7C1&profile=pass
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" group-title="5.1",Star Movies Select HD 5.1
 http://103.253.18.58:8000/play/a01w
   
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 5.1
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 2 5.1
+http://119.156.228.231:9983/stream/channelid/1296222276?ticket=DC2B8BB9068584DB656968DFF939EB19310F6ED7&profile=pass
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 5.1 
 http://103.253.18.58:8000/play/a03n
 
@@ -186,6 +192,10 @@ http://103.253.18.58:8000/play/a01g
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-tv-18-us-in.png" group-title="5.1", History18 HD 5.1 
 http://119.156.228.231:9983/stream/channelid/973182615?ticket=25575BCAABF97C16C56863B8D4C6A207ACBEB1E8&profile=pass
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-tv-18-us-in.png" group-title="5.1", TLC HD 5.1 
+http://103.253.18.58:8000/play/a022
+
 
 
 #================================== English Movies Section ==================================
