@@ -471,9 +471,11 @@ https://ibc.massstream.net/IBC/index.m3u8
 #EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="International Cable TV",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Cable TV",Sooriyan TV
-https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+https://uneeq2.deadpooll.workers.dev/playlist?id=74331
 #EXTINF:-1 tvg-id="Default" tvg-name="SOORIYAN CINEMA" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3509.jpg" group-title="Cable TV | TV",SOORIYAN CINEMA
 #https://polished-forest-c4cf.aayushmansinghrajpurohit95.workers.dev/3509.m3u8
+https://uneeq2.deadpooll.workers.dev/playlist?id=3509
 #EXTINF:-1 tvg-name="Mallai Tv" group-title="Cable TV" tvg-logo="https://i.ibb.co/QvTHJWhy/1000136573.jpg",Mallai Tv
 https://rojatv.cloud/mallaitv/mallaitv/index.m3u8
 #EXTINF:-1 tvg-name="Namma Gobi Tv" group-title="Cable TV" tvg-logo="https://i.ibb.co/gb4Rg2TG/1000147011.jpg",Namma Gobi Tv
