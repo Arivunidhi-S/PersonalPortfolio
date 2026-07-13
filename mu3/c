@@ -440,7 +440,8 @@ http://rplustv.stream.onecloudlive.in:8080/rplustv/rplustvhd/index.m3u8
 #EXTINF:-1  tvg-id="302" tvg-logo="https://play-lh.googleusercontent.com/dqXfJhXmJRvQNU-6ExVKC1QchVfscm1VpmZO16IAjAF0eN6YwWIUjdOSPSdBgK1gRQ=s64-rw" tvg-chno="302" group-title="Cable TV",Om tv
 http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
 #EXTINF:-1  tvg-id="304" tvg-logo="https://play-lh.googleusercontent.com/rXgRs8Q1_vQ6O_cxEZYlfZYNGgY9Q03ZK_iNtALU2BgMmfQ7U4yR4NmLl_uFffU-eGvh=w240-h480-rw" tvg-chno="304" group-title="Cable TV",Aadhavan TV
-https://ipcloud.live/aadhavantv/aadhavan/index.m3u8
+#https://ipcloud.live/aadhavantv/aadhavan/index.m3u8
+https://uneeq2.deadpooll.workers.dev/playlist?id=71605jd
 #EXTINF:-1  tvg-id="310" tvg-logo="https://play-lh.googleusercontent.com/ho2S9batSPI3imMdFYy-dzeSPYeLvY4GZyboobZOZMT8Wd2pxgI1tP_D6PJhcNRX4g=w240-h480-rw" tvg-chno="310" group-title="Cable TV",Vip(whistle max)
 https://stream.sscloud7.in/live/vishiltv2/index.m3u8
 #EXTINF:-1  tvg-id="314" tvg-logo="https://play-lh.googleusercontent.com/hGBw1RvCLyCGUxYwPny_X_VcpaD-A9pCnth5VdzTuvz2hm7RGQMo8zf7O72YEcV9__bs=w240-h480-rw" tvg-chno="314" group-title="Cable TV",Vishil HD
@@ -467,7 +468,7 @@ https://web.applelive.in/stream/anjaitv/index.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8?hdnts=st%3D1761899291~exp%3D1761920891~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-THALAA-TV-TAM_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2069c593-3c07-4d62-9d44-746be5c3a5d6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_70_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.109.95.100_yuppfast_2_channel_70_-1~hmac%3D3786ade9f243a29c653b7c694ca23ed5be663316e5afbdd715146777aacb0557
 #EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="https://i.postimg.cc/K8kgN7bt/ibctamil.png" group-title="International Cable TV",IBC Tamil
-https://ibc.massstream.net/IBC/index.m3u8
+https://ibc.massstream.net/IBC/index.m3u86
 #EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="International Cable TV",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Cable TV",Sooriyan TV
