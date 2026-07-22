@@ -89,8 +89,6 @@ https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-logo="https://i.imgur.com/CR7DGBv.png" group-title="SDTamizh",Sana TV (1080p)
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="SuriyaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/suryatvtamil.png" group-title="SDTamizh",Suriya TV (1080p)
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 
@@ -273,25 +271,25 @@ https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b1
 
 #================================== Astro Section ==================================
 
-#EXTINF:-1 tvg-id="156" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vinmeen-my.png" group-title="Cable TV",Astro Vinmeen
+#EXTINF:-1 tvg-id="97" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vinmeen-my.png" group-title="Cable TV",Astro Vinmeen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
 
-#EXTINF:-1 tvg-id="156" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vaanavil-my.png" group-title="Cable TV",Astro Vaanavil
+#EXTINF:-1 tvg-id="98" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vaanavil-my.png" group-title="Cable TV",Astro Vaanavil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
-#EXTINF:-1 tvg-id="156" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vellithirai-my.png" group-title="Cable TV",Astro Vellithirai
+#EXTINF:-1 tvg-id="99" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vellithirai-my.png" group-title="Cable TV",Astro Vellithirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 
-#EXTINF:-1 tvg-id="156" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-thangathirai-my.png" group-title="Cable TV",Astro Thangathirai
+#EXTINF:-1 tvg-id="100" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-thangathirai-my.png" group-title="Cable TV",Astro Thangathirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
@@ -344,7 +342,6 @@ http://7starcloud.com:1935/live/7star/playlist.m3u8
 https://app.ashokadigital.net/app/9346e98d/index.m3u8
 #EXTINF:-1  tvg-id="162" tvg-logo="https://play-lh.googleusercontent.com/y0ySYgFL-uFjHn5NOcOXD1yyFPhmuJbTLktgiKp--h1hQLW3CEZAz29OpmZ1_64iqc9g=w240-h480-rw" tvg-chno="162" group-title="Cable TV",MDN TV
 https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
-
 #EXTINF:-1  tvg-id="165" tvg-logo="https://play-lh.googleusercontent.com/V4GL0XO3McjRFJeANzwgRZDjI3UPIEjhMtfq4L9oVthSJo1loNfvkBuoSYE8BdDLvfY=w240-h480-rw" tvg-chno="165" group-title="Cable TV",NTN TV
 https://live.skystream.in/live/ntntv/index.m3u8
 #EXTINF:-1  tvg-id="166" tvg-logo="https://play-lh.googleusercontent.com/F3TU8RYLcFvQ6V-3okXaome7n0PmClEmkVIcEGHw6YPO1ArCpp30XV_fNjuIdozkCZtq=w240-h480-rw" tvg-chno="166" group-title="Cable TV",MSN TV
@@ -367,8 +364,6 @@ https://rtmp.bmlive.net/bms/pcn/stream.m3u8
 https://stream.onecloudlive.in/successtv/successtvhd/index.m3u8
 #EXTINF:-1  tvg-id="220" tvg-logo="https://play-lh.googleusercontent.com/1lTZUe4WeT_1GcTAFvdAUihFkR3BFgANpA9-eGueZaAfyq8ecyiJo5mh2lkLAa-b84A=w240-h480-rw" tvg-chno="220" group-title="Cable TV",Eagle 2  TV
 https://ipcloud.live/eaglemedia/eagletv/index.m3u8
-#EXTINF:-1  tvg-id="252" tvg-logo="https://play-lh.googleusercontent.com/xfqbIDE5DBqAdLQmGZJ9bxK5bQJjQkUibgEtQzUgZ5AVqO7Bx-YoO5VeJ4RcxqjWL2k=w240-h480-rw" tvg-chno="252" group-title="Cable TV",Vanavil TV
-http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8
 #EXTINF:-1  tvg-id="256" tvg-logo="https://play-lh.googleusercontent.com/qwwpNibuwIwq2rLoCDX4fPy6B6Mwa-oc_OJZRMCpJVGkDpN1T5DQw6CsXcYQbGHIZrw=w240-h480-rw" tvg-chno="256" group-title="Cable TV",Jayaam TV
 http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 #EXTINF:-1  tvg-id="266" tvg-logo="https://play-lh.googleusercontent.com/e4oZs-UZojWGRhgNF5YI-2gQYWiT1YjNG1Iviv0G0oEs3fQAUQnhZ9zBQUFB4l23i3nS=w240-h480-rw" tvg-chno="266" group-title="Cable TV",Akash TV
@@ -380,16 +375,12 @@ https://ipcloud.live/riotv/riotvhd/index.m3u8
 http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8
 #EXTINF:-1  tvg-id="284" tvg-logo="https://play-lh.googleusercontent.com/Olc5gspdFsxZRl8MmOlg2FPh8TXapqTIY2o7EnmFymRhpn0Ueg1qekqiYpYbsiz20A=s64-rw" tvg-chno="284" group-title="Cable TV",Vidiyal TV
 https://account11.livebox.co.in/vidyaltvhls/live.m3u8
-#EXTINF:-1  tvg-id="288" tvg-logo="https://play-lh.googleusercontent.com/W92ekNMxuUVvj_ZyKPN8Q7flJPqWdInZZvg_sqMXty7OmscURTYTN8Zg-qzNkNcvY6E=w240-h480-rw" tvg-chno="288" group-title="Cable TV",Malligai TV
-https://server.sscloud7.in/live/malligai/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVTheni" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1735633652_IMG-20241231-WA0071.jpg" tvg-region="Theni" group-title="Cable TV",Thendral TV Theni
 https://sscloud7.com/live/thendraltv/index.m3u8
 #EXTINF:-1  tvg-id="296" tvg-logo="https://play-lh.googleusercontent.com/7n1oYUc9Eld9CmfdRXQoZBnDkayjdnByzc-Y7uk3QpFABXBAeL9seGQY-vD3NTyz40i_=w526-h296-rw" tvg-chno="296" group-title="Cable TV",Smart Sri
 http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
 #EXTINF:-1  tvg-id="302" tvg-logo="https://play-lh.googleusercontent.com/dqXfJhXmJRvQNU-6ExVKC1QchVfscm1VpmZO16IAjAF0eN6YwWIUjdOSPSdBgK1gRQ=s64-rw" tvg-chno="302" group-title="Cable TV",Om tv
 http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
-#EXTINF:-1  tvg-id="322" tvg-logo="https://i.ibb.co/Kjm5By0c/download-1.jpg" tvg-chno="322" group-title="Cable TV",Maran TV
-http://server.sscloud7.in/marantv/marantv/index.m3u8
 #EXTINF:-1  tvg-id="328" tvg-logo="https://i.ibb.co/X0tyjh9/download.jpg" tvg-chno="328" group-title="Cable TV",Veerali TV
 https://ipcloud.live/veerali/veeralitv/index.m3u8
 #EXTINF:-1  tvg-id="330" tvg-logo="https://play-lh.googleusercontent.com/JIDLyaNUGSSKfeACT3tH5u6zusXveTpGeRrff0bW-zn8A25nCvptdvLdPu_R9PpYpg=w240-h480-rw" tvg-chno="330" group-title="Cable TV",Isai TV
@@ -431,8 +422,6 @@ https://rtmp.applelive.in/gvkumaritv/gvkumaritv/index.m3u8
 http://rtmp.applelive.in/boystv/boystv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cable TV", KRN TV
 https://stream.onecloudlive.in/krntv/krntvhd/index.m3u8
-#EXTINF:-1 tvg-id="SMedia2" tvg-logo="https://i.ibb.co/5Xv68ypB/29996.png" tvg-region="Cable TV" group-title="Cable TV",S Media
-https://stream.onecloudlive.in/stv/stvhd/index.m3u8
 #EXTINF:-1 tvg-id="ACPTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746108596_ACP%20TV%20LOGO%2026-Mar-2025%2014-57-40%20(2)-1.png" tvg-region="Madurai" group-title="Cable TV",ACP TV
 http://103.87.105.51:8080/acphd/acphd.m3u8?psk=123456
 #EXTINF:-1 tvg-id="ACPClassic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746108655_ACP%20TV%20LOGO%2026-Mar-2025%2014-57-40%20(2)-2.png" tvg-region="Madurai" group-title="Cable TV",ACP Classic
