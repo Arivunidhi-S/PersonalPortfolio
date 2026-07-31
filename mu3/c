@@ -1,6 +1,6 @@
 #=================================
 # 🖥 Created by: Arivunidhi
-# 🕒 Last Updated: 2026-07-22 12:59 PM 
+# 🕒 Last Updated: 2026-07-31 12:25 PM 
 #==================================
 
 #EXTM3U
@@ -32,7 +32,7 @@ http://202.70.146.135:8000/play/a008/index.m3u8
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 
 #EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="BackupTamizh", Zee Thirai FHD
-https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vYXBwLnl1cHB0di5pbyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAwOjIwIiwic24iOiIyQkI2OUUzMjZGNDRBIiwiZGV2aWNlIjoiNDI5RjIBMjE1QzAxOTRCNzZGMOYXRTU50DY1OEIXRTRBNkRFNTc0OUJGNOJEOUQWRUQ2MDJEREFFOTM1MzFFNSJ9/6769.m3u
+#https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vYXBwLnl1cHB0di5pbyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAwOjIwIiwic24iOiIyQkI2OUUzMjZGNDRBIiwiZGV2aWNlIjoiNDI5RjIBMjE1QzAxOTRCNzZGMOYXRTU50DY1OEIXRTRBNkRFNTc0OUJGNOJEOUQWRUQ2MDJEREFFOTM1MzFFNSJ9/6769.m3u
 
 #================================== Tamil Entertainment Section Extra ==================================
 
@@ -118,7 +118,7 @@ http://119.156.228.231:9983/stream/channelid/612942355?ticket=C065390B700B3D721A
 #================================== Tamil News Section ==================================
 
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="1Tamizh",Kalaignar Seithigal SD
-https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
+#https://live-cf-kalaignarnews.dailyhunt.in/master.m3u8
 
 #EXTINF:-1 tvg-id="PolimerNews.in@SD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="1Tamizh",Polimer News SD
 #https://live-cf-polimernews.dailyhunt.in/master.m3u8
@@ -130,7 +130,7 @@ https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 #EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="BackupTamizh",Thanthi TV
 https://cdn-3.pishow.tv/live/1612/master.m3u8 
 
-#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="BackupTamizh",News 18 Tamilnadu SD
+#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="BackupTamizh",News 18 Tamilnadu
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="BackupTamizh",Puthiya Thalaimurai SD
@@ -143,7 +143,7 @@ https://cdn-3.pishow.tv/live/1433/master.m3u8
 https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
-https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
+#https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="BackupTamizh",News J SD
 https://cdn-3.pishow.tv/live/1279/master.m3u8
@@ -178,7 +178,7 @@ http://202.70.146.135:8000/play/a06k/index.m3u8
 #http://ottsolutions.club:80/live/4321/1234/58536.ts
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" group-title="5.1", Colours Tamil HD 5.1
-http://103.155.18.186:8000/play/a060/index.m3u8
+#http://103.155.18.186:8000/play/a060/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_surya_tv.png" group-title="5.1",Surya TV HD 5.1
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun_surya_tv.png" group-title="5.1",Surya TV HD 5.1 
