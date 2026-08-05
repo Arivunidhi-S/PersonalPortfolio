@@ -3,6 +3,8 @@
 # Authentication query strings, pipe headers, userinfo, and credential-like path segments were removed.
 # Records: 843
 
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable TV", ISAIARUVI | Music https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable TV", 7S Music | Music  https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable TV", MK Six | Music  
