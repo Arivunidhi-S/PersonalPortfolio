@@ -271,25 +271,25 @@ https://streams2.sofast.tv/ptnr-yupptv/title-ESCAPE_TV_YUPPTV/v1/master/611d79b1
 
 #================================== Astro Section ==================================
 
-#EXTINF:-1 tvg-id="97" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vinmeen-my.png" group-title="Cable TV",Astro Vinmeen
+#EXTINF:-1 tvg-id="97" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVinmeen_2024.png" group-title="Cable TV",Astro Vinmeen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
 
-#EXTINF:-1 tvg-id="98" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vaanavil-my.png" group-title="Cable TV",Astro Vaanavil
+#EXTINF:-1 tvg-id="98" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVaanavil_2024.png" group-title="Cable TV",Astro Vaanavil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
-#EXTINF:-1 tvg-id="99" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-vellithirai-my.png" group-title="Cable TV",Astro Vellithirai
+#EXTINF:-1 tvg-id="99" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVellithirai_2024.png" group-title="Cable TV",Astro Vellithirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 
-#EXTINF:-1 tvg-id="100" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-thangathirai-my.png" group-title="Cable TV",Astro Thangathirai
+#EXTINF:-1 tvg-id="100" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroThangathirai_2024.png" group-title="Cable TV",Astro Thangathirai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
@@ -299,7 +299,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
-
+#EXTINF:-1 tvg-id="89" tvg-chno="89" tvg-name="M TV" tvg-logo="https://i.ibb.co/GfRY4XgL/agamtv.jpg" group-title"Cable TV",Agam TV
+https://lanka.vaanam24.com:3682/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="61" tvg-chno="61" tvg-name="Jeeva Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782563544_WhatsApp%20Image%202026-06-27%20at%205.52.02%20PM.jpeg" group-title"Tamil Nadu Channels",61 Jeeva Tv
+https://cdn1.rojatv.cloud/kumaran/tv/index.m3u8
 #EXTINF:-1 tvg-id="89" tvg-chno="89" tvg-name="M TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777712105_MTV%201.png" group-title"Cable TV",M TV
 https://stream.ashokadigital.net/mtvlive/mtvlive/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-chno="83" tvg-name="chola rv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1779616206_chala%20tv.png" group-title"Cable TV",Chola TV
@@ -530,7 +533,7 @@ http://live.brightmeltech.in/ramyatv/ramyatv.m3u8
 #EXTINF:-1 tvg-id="HansithaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1767717103_H1.png" tvg-region="Cable TV" group-title="Cable TV",Hansitha TV
 #https://hd.rojatv.cloud/hansitha/tv/index.m3u8
 https://air.rojatv.cloud/hanshitha/tv/index.m3u8
-#EXTINF:-1 tvg-id="TSNHollywoodTamil" tvg-logo="https://play-lh.googleusercontent.com/6fkldBo5YuN7ONnDaA_nswuZmRYenocO6aMK-iXBkn9-ATnbZ8kmI5XcT72Krs0nDAakLY3XHlECmwtqiP-R=w240-h480-rw" tvg-region="Cable TV" group-title="Cable TV",Sitthar Isai
+#EXTINF:-1 tvg-id="TSNHollywoodTamil" tvg-logo="https://i.ibb.co/8DTxD9NF/Sitthar-Isai.jpg" tvg-region="Cable TV" group-title="Cable TV",Sitthar Isai
 http://198.144.149.206:8080/DINESH/PT/index.m3u8?token=YAAL
 #EXTINF:-1 tvg-id="GMax" tvg-logo="https://i.ibb.co/3YTpGjWs/GMax.jpg" tvg-region="Nagercoil;Kanyakumari" group-title="Cable TV",G Max
 https://play.applelive.in/gcv/gcv.m3u8
