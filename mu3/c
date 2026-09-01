@@ -101,20 +101,28 @@ https://stream.ottlive.co.in/utvtamil/index.m3u8
 #================================== Tamil Kids Section ==================================
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-asia-us.png" group-title="SDTamizh", Discovery Kids Tamil SD
-http://103.155.18.186:8000/play/a0a6/index.m3u8
+http://66.102.126.10:8000/play/a0a6/index.m3u8
 
-#EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" group-title="SDTamizh", Disney Channel SD
-http://119.156.228.231:9983/stream/channelid/1324398660?ticket=5F4B2A200502AF5020FFF6C6F5E662DF75CF22B3&profile=pass
+#EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" group-title="SDTamizh", Disney Channel FHD
+http://66.102.126.10:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pogo-in.png" group-title="SDTamizh", Pogo SD
-http://119.156.228.231:9983/stream/channelid/1362195527?ticket=F9089082932240E8C4224E385F5B0EA0954A3607&profile=pass
+#http://119.156.228.231:9983/stream/channelid/1362195527?ticket=F9089082932240E8C4224E385F5B0EA0954A3607&profile=pass
+http://66.102.126.10:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_in_hd_plus.png" group-title="SDTamizh", Nick HD+ Tamil
-http://119.156.228.231:9983/stream/channelid/990520415?ticket=58C9689E9E6BB5C9524241A1355FDF08A1A4FAF2&profile=pass
+#http://119.156.228.231:9983/stream/channelid/990520415?ticket=58C9689E9E6BB5C9524241A1355FDF08A1A4FAF2&profile=pass
+http://66.102.126.10:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="SDTamizh", Nick SD
-http://119.156.228.231:9983/stream/channelid/612942355?ticket=C065390B700B3D721AF5E5C50F06192A7C67561B&profile=pass
+#http://119.156.228.231:9983/stream/channelid/612942355?ticket=C065390B700B3D721AF5E5C50F06192A7C67561B&profile=pass
+http://66.102.126.10:8000/play/a01w/index.m3u8
 
+#EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama-tv-in.svg" group-title="SDTamizh", Hungama SD
+http://66.102.126.10:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama-tv-in.svg" group-title="SDTamizh", Cartoon Network SD
+http://66.102.126.10:8000/play/a02n/index.m3u8
 #================================== Tamil News Section ==================================
 
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="1Tamizh",Kalaignar Seithigal SD
@@ -188,19 +196,20 @@ http://202.70.146.135:8000/play/a06k/index.m3u8
 #http://premimum.online:80/live/76631957/10205687/98888.ts
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="5.1",Sony Pix HD 5.1
-  http://119.156.228.231:9983/stream/channelid/954608593?ticket=9AAB784262D7C541314D9C28507BF46F8AA578A7&profile=pass
+  #http://119.156.228.231:9983/stream/channelid/954608593?ticket=9AAB784262D7C541314D9C28507BF46F8AA578A7&profile=pass
+ http://66.102.126.10:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 2 5.1
 http://119.156.228.231:9983/stream/channelid/2092964041?ticket=7FD1278E7D2742F1FF83BF84E97BB17FC2C74353&profile=pass
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 5.1 
-http://103.253.18.58:8000/play/a01x
+ http://66.102.126.10:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" group-title="5.1",Star Movies Select HD 2 5.1
 http://119.156.228.231:9983/stream/channelid/929044861?ticket=5CCDC7C1&profile=pass
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" group-title="5.1",Star Movies Select HD 5.1
-http://103.253.18.58:8000/play/a01w
+http://103.253.18.58:8000/play/a01w/index.m3u8
   
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 2 5.1
 http://119.156.228.231:9983/stream/channelid/1296222276?ticket=DC2B8BB9068584DB656968DFF939EB19310F6ED7&profile=pass
@@ -219,7 +228,8 @@ http://119.156.228.231:9983/stream/channelid/54241014?ticket=6108AC3F88F61B2A80A
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1",MN+ HD 5.1 
 #http://premimum.online:80/live/76631957/10205687/98843.ts
-
+ http://66.102.126.10:8000/play/a02f/index.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_world_in.png" group-title="5.1", Discovery HD 5.1 
  http://66.102.126.10:8000/play/a01r/index.m3u8
 
