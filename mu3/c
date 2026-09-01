@@ -41,6 +41,9 @@ https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 https://livestream2.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_P_IN_index.mpd
 
+#EXTINF:-1 tvg-id="Colors Tamil" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" group-title="Tamizh",Colors Tamil FHD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.ibb.co/VYNc5YsJ/7s.png" group-title="Tamizh",7S Music
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 
@@ -312,6 +315,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
+
+#EXTINF:-1 tvg-id="88" tvg-chno="88" tvg-name="M TV" tvg-logo="https://i.ibb.co/5WG7pcxT/eye.jpg" group-title"Cable TV",Loop TV
+#EXTINF:-1 tvg-id="88" tvg-chno="88" tvg-name="M TV" tvg-logo="https://i.ibb.co/5WG7pcxT/eye.jpg" group-title"Cable TV",Movie TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable TV", Prime Music HD | Music
+https://live.primestream.in/prime/music/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable TV", RUN TV
+https://supflm.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cable TV", KC Tv
+https://rtmp.bmlive.net/bms/kctv/index.m3u8
+#EXTINF:-1 tvg-id="88" tvg-chno="88" tvg-name="M TV" tvg-logo="https://i.ibb.co/5WG7pcxT/eye.jpg" group-title"Cable TV",Eye Madurai TV
+https://srv-i.maduraiiptv.in/eyetv/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="89" tvg-chno="89" tvg-name="M TV" tvg-logo="https://i.ibb.co/GfRY4XgL/agamtv.jpg" group-title"Cable TV",Agam TV
 https://lanka.vaanam24.com:3682/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="61" tvg-chno="61" tvg-name="Jeeva Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1782563544_WhatsApp%20Image%202026-06-27%20at%205.52.02%20PM.jpeg" group-title"Tamil Nadu Channels",Jeeva Tv
