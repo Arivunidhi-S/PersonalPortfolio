@@ -221,22 +221,25 @@ http://119.156.228.231:9983/stream/channelid/54241014?ticket=6108AC3F88F61B2A80A
 #http://premimum.online:80/live/76631957/10205687/98843.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_world_in.png" group-title="5.1", Discovery HD 5.1 
- http://66.102.126.10:8000/play/a01r
+ http://66.102.126.10:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png" group-title="5.1", National Geographic HD 5.1 
- http://66.102.126.10:8000/play/a011
+ http://66.102.126.10:8000/play/a011/index.m3u8
+
+ #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg" group-title="5.1", Animal Planet HD 5.1 
+ http://66.102.126.10:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" group-title="5.1",Nat Geo Wild HD 5.1 
- http://66.102.126.10:8000/play/a04d
+ http://66.102.126.10:8000/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-uk-in.png" group-title="5.1",Sony BBC Earth HD 5.1 
- http://66.102.126.10:8000/play/a01g
+ http://66.102.126.10:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-tv-18-us-in.png" group-title="5.1", History18 HD 5.1 
 http://119.156.228.231:9983/stream/channelid/973182615?ticket=25575BCAABF97C16C56863B8D4C6A207ACBEB1E8&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" group-title="5.1", TLC HD 5.1 
- http://66.102.126.10:8000/a022
+ http://66.102.126.10:8000/a022/index.m3u8
 
 #================================== English Movies Section ==================================
 
