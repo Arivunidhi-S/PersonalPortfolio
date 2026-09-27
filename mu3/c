@@ -17,12 +17,18 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
+
 #EXTINF:-1 tvg-chno="15" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram
-https://cdn-6.pishow.tv/live/1243/master.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=928e0f5213fc5a7ebeb0bd8cbd4d1442:22b778641744694ad3de2822ee018d38
+https://login.bheem.tv/bpk-tv/22378/output/index.mpd
 
 #EXTINF:-1  tvg-id="20" tvg-logo="https://i.ibb.co/kB4FwK0/Murasu.webp" tvg-chno="38" group-title="1Tamizh",Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ts1166" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="Tamil", Chithiram
+#https://cdn-6.pishow.tv/live/1243/master.m3u8
 #================================== Tamil Movie Section ==================================
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="BackupTamizh",Star Vijay Super SD
