@@ -141,13 +141,13 @@ http://66.102.126.10:8000/play/a02n/index.m3u8
 #https://live-cf-polimernews.dailyhunt.in/master.m3u8
 https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3u8
 
-#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="BackupTamizh",News 7 Tamil
+#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="BackupTamizh",News 7 Tamil SD
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="BackupTamizh",Thanthi TV
+#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="BackupTamizh",Thanthi TV SD
 https://cdn-3.pishow.tv/live/1612/master.m3u8 
 
-#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="BackupTamizh",News 18 Tamilnadu
+#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="BackupTamizh",News 18 Tamilnadu SD
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="BackupTamizh",Puthiya Thalaimurai SD
