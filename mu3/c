@@ -37,9 +37,17 @@ http://202.70.146.135:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="VijayTakkar.in@APAC" tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540" group-title="BackupTamizh",Vijay Takkar APAC HD
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
 
-#EXTINF:-1 tvg-id="181966" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png" group-title="BackupTamizh", Zee Thirai FHD
-#https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vYXBwLnl1cHB0di5pbyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAwOjIwIiwic24iOiIyQkI2OUUzMjZGNDRBIiwiZGV2aWNlIjoiNDI5RjIBMjE1QzAxOTRCNzZGMOYXRTU50DY1OEIXRTRBNkRFNTc0OUJGNOJEOUQWRUQ2MDJEREFFOTM1MzFFNSJ9/6769.m3u
-
+#EXTINF:-1 tvg-name="Zee Thirai HD" tvg-logo="https://img.media.jio.com/tvpimages/59/93/304103_1768465079003_l_medium.jpg" group-title="Movies", Zee Thirai HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0716748ee52f4a55cf7baa6e072bb:8fc185a1015f026fec82236bb0e096f4,88aaf3c74a8258ce8c75c74d259e9d95:12c0cc0b355a86ff3e942123284b94fa,7ddfa2e971cd5ebf8d5337f404ed2878:49d966969a62e77d4ff1004772988b61,c87a82b43b1e5902829e408335628cd4:7b858623533c561989358530c6ad7af7,c2d762acbea256c0bd67b92d59f69757:46c59697457af3a687426a4691393774
+#EXTVLCOPT:http-user-agent=@shoebbro
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.jiotv.com
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791989432~exp=1792011032~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=34678402da26cb0e979e823f324298b57780d3a83fc5f6c613405c92e25a7263
+#EXTHTTP:{"Origin":"https://www.jiotv.com","Referer":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791989432~exp=1792011032~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=34678402da26cb0e979e823f324298b57780d3a83fc5f6c613405c92e25a7263"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeThiraiHD_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1791989432~exp=1792011032~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=34678402da26cb0e979e823f324298b57780d3a83fc5f6c613405c92e25a7263&referer=https://www.jiotv.com/&origin=https://www.jiotv.com&user-agent=@shoebbro
 #================================== Tamil Entertainment Section Extra ==================================
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/195491/200x200_SunTVHDDolbyVision_195491_4ce296b0-c6fb-424e-8711-e53b152e71ee.png" group-title="BackupTamizh",Sun TV HDR10
