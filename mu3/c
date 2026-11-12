@@ -121,28 +121,28 @@ https://stream.ottlive.co.in/utvtamil/index.m3u8
 #================================== Tamil Kids Section ==================================
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-asia-us.png" group-title="SDTamizh", Discovery Kids Tamil SD
-http://66.102.126.10:8000/play/a0a6/index.m3u8
+#http://66.102.126.10:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" group-title="SDTamizh", Disney Channel FHD
-http://66.102.126.10:8000/play/a013/index.m3u8
+#http://66.102.126.10:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pogo-in.png" group-title="SDTamizh", Pogo SD
 #http://119.156.228.231:9983/stream/channelid/1362195527?ticket=F9089082932240E8C4224E385F5B0EA0954A3607&profile=pass
-http://66.102.126.10:8000/play/a00d/index.m3u8
+#http://66.102.126.10:8000/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_in_hd_plus.png" group-title="SDTamizh", Nick HD+ Tamil
 #http://119.156.228.231:9983/stream/channelid/990520415?ticket=58C9689E9E6BB5C9524241A1355FDF08A1A4FAF2&profile=pass
-http://66.102.126.10:8000/play/a027/index.m3u8
+#http://66.102.126.10:8000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="SDTamizh", Nick SD
 #http://119.156.228.231:9983/stream/channelid/612942355?ticket=C065390B700B3D721AF5E5C50F06192A7C67561B&profile=pass
-http://66.102.126.10:8000/play/a01w/index.m3u8
+#http://66.102.126.10:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama-tv-in.svg" group-title="SDTamizh", Hungama SD
-http://66.102.126.10:8000/play/a023/index.m3u8
+#http://66.102.126.10:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama-tv-in.svg" group-title="SDTamizh", Cartoon Network SD
-http://66.102.126.10:8000/play/a02n/index.m3u8
+#http://66.102.126.10:8000/play/a02n/index.m3u8
 #================================== Tamil News Section ==================================
 
 #EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="1Tamizh",Kalaignar Seithigal SD
@@ -156,7 +156,7 @@ https://segment.yuppcdn.net/110322/polimernews/110322/polimernews_1800/chunks.m3
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="BackupTamizh",Thanthi TV SD
-https://cdn-3.pishow.tv/live/1612/master.m3u8 
+#https://cdn-3.pishow.tv/live/1612/master.m3u8 
 
 #EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="BackupTamizh",News 18 Tamilnadu SD
 https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
@@ -165,22 +165,22 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/87dafeef112e15e50fedf83c09a4ad5b.png" group-title="BackupTamizh",News Tamil 24x7 SD
-https://cdn-3.pishow.tv/live/1433/master.m3u8
+#https://cdn-3.pishow.tv/live/1433/master.m3u8
 
 #EXTINF:-1 tvg-id="299" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" tvg-chno="299" group-title="BackupTamizh",Malai Murasu SD
-https://cdn-3.pishow.tv/live/1606/master.m3u8
+#https://cdn-3.pishow.tv/live/1606/master.m3u8
 
 #EXTINF:-1  tvg-id="28" tvg-logo="https://i.ibb.co/jJxPv69/Zee-Tamil-News.webp" tvg-chno="28" group-title="1Tamizh",Zee Tamil News
 #https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="BackupTamizh",News J SD
-https://cdn-3.pishow.tv/live/1279/master.m3u8
+#https://cdn-3.pishow.tv/live/1279/master.m3u8
 
 #EXTINF:-1 tvg-id="WinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Win_TV.png" group-title="BackupTamizh",Win TV SD
-https://cdn-4.pishow.tv/live/1531/master.m3u8
+#https://cdn-4.pishow.tv/live/1531/master.m3u8
 
 #EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="BackupTamizh",Jaya Plus SD
-https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
+#https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 
 #================================== 5.1 ==================================
 
@@ -364,7 +364,7 @@ https://ipcloud.live/ctn/arasu/index.m3u8
 #EXTINF:-1 tvg-id="SuriyanTV" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png" group-title="Cable TV",Suriyan TV
 https://stream.sscloud7.com/live/suriyantv/index.m3u8
 #EXTINF:-1 tvg-id="SakthiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SakthiTV.png" tvg-region="Cuddalore" group-title="Cable TV",Sakthi TV
-https://live.sscloud7.in/live/sakthitv/index.m3u8
+#https://live.sscloud7.in/live/sakthitv/index.m3u8
 #EXTINF:-1  tvg-id="164" tvg-logo="https://play-lh.googleusercontent.com/wEw8yHZ0BTEe2kXdBokJ06EBWX489gqT54X2yeKAy2MHxLlAybYrbIiSpYRnq3VoPvI=w240-h480-rw" tvg-chno="164" group-title="Cable TV",SS TV
 https://server.sscloud7.in/live/sshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="113" tvg-logo="https://play-lh.googleusercontent.com/YImtNmRtt854TWLJWGvUWn27oYeH_7DcI6VnAUsztof3xQ9v43bxft9rQFESuwMnY1sy=w240-h480-rw" tvg-chno="113" group-title="Cable TV",MN Music TV
@@ -376,13 +376,13 @@ https://rtmp.bmlive.net/bms/emperortv/index.m3u8
 #EXTINF:-1  tvg-id="130" tvg-logo="https://play-lh.googleusercontent.com/3LXtsPjlWuk-DTc7red1tprsHV6x9jE52ebMRV-61dtKDQo6lpcb22ZiXFJq_hBLZF7C=w240-h480-rw" tvg-chno="130" group-title="Cable TV",Irattaipaathai TV
 http://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
 #EXTINF:-1 tvg-id="TDNHD" tvg-name="TDN HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS161LApA9ludazwEnknn6ssA9iUrmGNUq8pZGYetXAjCVG5Aku" group-title="Cable TV",TDN HD
-https://live.maxtn.in/tdn/tdn/index.m3u8
+#https://live.maxtn.in/tdn/tdn/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RLVmFCKC4EM22zjHW1FUNUaAfTAlEQB6jvcFjd9rGLsmkqYsIo7T734IK4QYR9X_PDg=w240-h480-rw" group-title="Cable TV", D TV
 https://stream.d6-pro.com/Dtv/live/index.m3u8
 #EXTINF:-1  tvg-id="150" tvg-logo="https://play-lh.googleusercontent.com/RxHuH9lLS2V6QmxUdnZ0oTahq9myUQHn7nNSVwExxQLKadT5QMRPRiIFl3H-nmiylmmY=w240-h480-rw" tvg-chno="150" group-title="Cable TV",Udayam TV
 https://view.rcserver.in/tmp_hls8/udhayamtv/index.m3u8
 #EXTINF:-1 tvg-id="UdhayamTVKarur" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/UdhayamTVKarur.png" tvg-region="Karur" group-title="Cable TV",Udhayam TV Karur
-https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
+#https://view.rcserver.in/tmp_hls13/udhayamhd/index.m3u8
 #EXTINF:-1  tvg-id="151" tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg=w240-h480-rw" tvg-chno="151" group-title="Cable TV",Jeyam Plus
 https://ipcloud.live/mmtv/jeyamplus/index.m3u8
 #EXTINF:-1  tvg-id="152" tvg-logo="https://play-lh.googleusercontent.com/csIn__9Eo1w9yyxHztTkzL6inSdTSMl8g3deaqsgODVxs5aOBugag_Th9P1F2qKyYQ=w240-h480-rw" tvg-chno="152" group-title="Cable TV",Hai TV
@@ -509,7 +509,7 @@ http://srnet.bmlive.net:1935/srmusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaiSaaral" tvg-logo="https://i.ibb.co/4RCVPdb5/1000136628.jpg" tvg-region="Cable TV" group-title="Music",Isai Saaral
 http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u
 #EXTINF:-1 tvg-id="ArulTV" tvg-logo="https://i.ibb.co/JRx3Ppdm/1000136493.jpg" tvg-region="Cable TV" group-title="Cable TV",Arul TV
-http://arulstream.in:1935/ArulTv/live/playlist.m3u8
+#http://arulstream.in:1935/ArulTv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KanchiMedia" tvg-logo="https://i.ibb.co/x83xD1tm/download-2.jpg" tvg-region="Kanchipuram" group-title="Cable TV",Kanchi Media
 http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="KarthickTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739547181_WhatsApp_Image_2025-02-14_at_8.50.29_PM__2_-removebg-preview.png" tvg-region="Tirunelveli" group-title="Cable TV",Karthick TV
@@ -521,7 +521,7 @@ https://rtmp.bmlive.net/bms/bms/index.m3u8
 #EXTINF:-1 tvg-id="RuhashaTV" tvg-logo="https://play-lh.googleusercontent.com/NfEESHZTMfXp45bOwl7PF1DkuV8L9-tucksbtHRxUv0b5opK1yUWCpJO-CqLSq4ujE1SFNoEhZtpvxl5554LUA=w512-h960-rw" tvg-region="Cable TV" group-title="Cable TV",Ruhasha TV
 https://live.applelive.in/ruhashatv/ruhashatv/index.m3u8
 #EXTINF:-1 tvg-id="ShaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1745500074_WhatsApp%20Image%202025-04-24%20at%206.20.29%20PM.jpeg" tvg-region="Thuckalay;Kanyakumari" group-title="Cable TV",Sha TV
-https://play.applelive.in/shatv/shatv.m3u8
+#https://play.applelive.in/shatv/shatv.m3u8
 #EXTINF:-1 tvg-id="KCMusic" tvg-logo="https://bmcloud.in/apptest/uploads/6936d2ffdb5e8.png" tvg-region="Coimbatore" group-title="Cable TV",KC Music
 https://rtmp.bmlive.net/bms/kcmusic/index.m3u8
 #EXTINF:-1 tvg-id="AppleTVKLM" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AppleTVKLM.png" tvg-region="Cable TV" group-title="Cable TV",Apple TV KLM
