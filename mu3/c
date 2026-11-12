@@ -274,7 +274,7 @@ https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #================================== English Movies Section ==================================
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/rr/romedy_now_in.png" group-title="5.1",Romedy Now SD
-http://119.156.228.231:9983/stream/channelid/1613931066?ticket=A1CEA16667CA499660545D5F401CEBE8F6955EC4&profile=pass
+#http://119.156.228.231:9983/stream/channelid/1613931066?ticket=A1CEA16667CA499660545D5F401CEBE8F6955EC4&profile=pass
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="3 Movies",Movies Now FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -294,7 +294,7 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #================================== Infotainment Section ==================================
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dtamil-us-in.png" group-title="SDTamizh",D Tamil SD
-http://103.155.18.186:8000/play/a054/index.m3u8
+#http://103.155.18.186:8000/play/a054/index.m3u8
 
 #EXTINF:-1 tvg-id="267" tvg-chno="315" tvg-name="escape-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png" group-title="Lifestyle", ESCAPE TV
 #KODIPROP:inputstream=inputstream.adaptive
