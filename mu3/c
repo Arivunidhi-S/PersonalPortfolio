@@ -11,14 +11,17 @@
 #EXTINF:-1  tvg-id="111" tvg-logo="https://i.ibb.co/qn5fHnp/Kalaignar-TV.png" tvg-chno="111" group-title="1Tamizh",Kalaingar SD
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-#EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
+#EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi SD
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-
-#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
+#EXTINF:-1  tvg-id="8" tvg-logo="https://i.ibb.co/ThfQ5y7/Isaiaruvi.png" tvg-chno="8" group-title="1Tamizh",Isaiaruvi
+https://rkdy-linkgen.wasmer.app/play.php?s=1&id=d892bb44e5c5215cefae
+#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli SD
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1  tvg-id="9" tvg-logo="https://i.ibb.co/cYkdmmy/Sripoli.png" tvg-chno="9" group-title="1Tamizh",Sirippoli
+https://rkdy-linkgen.wasmer.app/play.php?s=1&id=4a7f539473104aff576e
 
 
-#EXTINF:-1 tvg-chno="15" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram
+#EXTINF:-1 tvg-chno="15" tvg-chno="17" tvg-logo="https://i.ibb.co/qMd25pKj/chithiram-tv-in.png" group-title="Tamizh", Chithiram SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928e0f5213fc5a7ebeb0bd8cbd4d1442:22b778641744694ad3de2822ee018d38
@@ -28,7 +31,7 @@ https://login.bheem.tv/bpk-tv/22378/output/index.mpd
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts1166" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CHIT_Thumbnail-v1/CHIT_Thumbnail.png" group-title="Tamil", Chithiram
-#https://cdn-6.pishow.tv/live/1243/master.m3u8
+https://rkdy-linkgen.wasmer.app/play.php?s=1&id=44875307c44f45a21c1c
 #================================== Tamil Movie Section ==================================
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="BackupTamizh",Star Vijay Super SD
@@ -182,7 +185,7 @@ https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8
 #================================== 5.1 ==================================
 
 #EXTINF:-1 tvg-id="SubinTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png" group-title="5.1",Subin TV (1080p)
-https://stream.galaxyott.live/live/subintv/index.m3u8
+#https://stream.galaxyott.live/live/subintv/index.m3u8
   
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-tv-in.png" group-title="5.1",Sun TV HD 5.1
 #http://wbc27.us:80/live/Hu23hsgsgh/exXDdA2Fa/8494.ts
@@ -190,10 +193,10 @@ https://stream.galaxyott.live/live/subintv/index.m3u8
 #http://premimum.online:80/live/76631957/10205687/98911.ts 
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="5.1",Sun Music HD 5.1
-http://103.155.18.186:8000/play/a06k/index.m3u8
+#http://103.155.18.186:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-in.png" group-title="5.1",Sun Music HD 2 5.1
-http://202.70.146.135:8000/play/a06k/index.m3u8
+#http://202.70.146.135:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-vijay-in.png" group-title="5.1",Star Vijay HD 5.1
 #http://ottsolutions.club:80/live/4321/1234/58530.ts
@@ -214,59 +217,59 @@ http://202.70.146.135:8000/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="5.1",Sony Pix HD 5.1
   #http://119.156.228.231:9983/stream/channelid/954608593?ticket=9AAB784262D7C541314D9C28507BF46F8AA578A7&profile=pass
- http://66.102.126.10:8000/play/a01z/index.m3u8
+ #http://66.102.126.10:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 2 5.1
-http://119.156.228.231:9983/stream/channelid/2092964041?ticket=7FD1278E7D2742F1FF83BF84E97BB17FC2C74353&profile=pass
+#http://119.156.228.231:9983/stream/channelid/2092964041?ticket=7FD1278E7D2742F1FF83BF84E97BB17FC2C74353&profile=pass
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-hd-india-hk-in.png" group-title="5.1",Star Movies HD 5.1 
- http://66.102.126.10:8000/play/a01x/index.m3u8
+ #http://66.102.126.10:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" group-title="5.1",Star Movies Select HD 2 5.1
-http://119.156.228.231:9983/stream/channelid/929044861?ticket=5CCDC7C1&profile=pass
+#http://119.156.228.231:9983/stream/channelid/929044861?ticket=5CCDC7C1&profile=pass
 
 #EXTINF:-1 tvg-id="831" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-movies-select-hk.png" group-title="5.1",Star Movies Select HD 5.1
-http://103.253.18.58:8000/play/a01w/index.m3u8
+#http://103.253.18.58:8000/play/a01w/index.m3u8
   
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 2 5.1
-http://119.156.228.231:9983/stream/channelid/1296222276?ticket=DC2B8BB9068584DB656968DFF939EB19310F6ED7&profile=pass
+#http://119.156.228.231:9983/stream/channelid/1296222276?ticket=DC2B8BB9068584DB656968DFF939EB19310F6ED7&profile=pass
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="5.1",Movies Now HD 5.1 
-http://103.253.18.58:8000/play/a03n
+#http://103.253.18.58:8000/play/a03n
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="5.1",MNX HD 5.1
-http://119.156.228.231:9983/stream/channelid/567691107?ticket=A938C3685383F9B59D77AD3653B35C2F301922FF&profile=pass
+#http://119.156.228.231:9983/stream/channelid/567691107?ticket=A938C3685383F9B59D77AD3653B35C2F301922FF&profile=pass
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="5.1",MNX HD 5.1 
 #http://premimum.online:80/live/76631957/10205687/98847.ts
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1",MN+ HD 5.1
-http://119.156.228.231:9983/stream/channelid/54241014?ticket=6108AC3F88F61B2A80ACE33497D1639583B20922&profile=pass
+#http://119.156.228.231:9983/stream/channelid/54241014?ticket=6108AC3F88F61B2A80ACE33497D1639583B20922&profile=pass
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="5.1",MN+ HD 5.1 
 #http://premimum.online:80/live/76631957/10205687/98843.ts
- http://66.102.126.10:8000/play/a02f/index.m3u8
+ #http://66.102.126.10:8000/play/a02f/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_world_in.png" group-title="5.1", Discovery HD 5.1 
- http://66.102.126.10:8000/play/a01r/index.m3u8
+ #http://66.102.126.10:8000/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us_hd.png" group-title="5.1", National Geographic HD 5.1 
- http://66.102.126.10:8000/play/a011/index.m3u8
+ #http://66.102.126.10:8000/play/a011/index.m3u8
 
  #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg" group-title="5.1", Animal Planet HD 5.1 
- http://66.102.126.10:8000/play/a001/index.m3u8
+ #http://66.102.126.10:8000/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" group-title="5.1",Nat Geo Wild HD 5.1 
- http://66.102.126.10:8000/play/a04d/index.m3u8
+ #http://66.102.126.10:8000/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-bbc-earth-uk-in.png" group-title="5.1",Sony BBC Earth HD 5.1 
- http://66.102.126.10:8000/play/a01g/index.m3u8
+ #http://66.102.126.10:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-tv-18-us-in.png" group-title="5.1", History18 HD 5.1 
-http://119.156.228.231:9983/stream/channelid/973182615?ticket=25575BCAABF97C16C56863B8D4C6A207ACBEB1E8&profile=pass
+#http://119.156.228.231:9983/stream/channelid/973182615?ticket=25575BCAABF97C16C56863B8D4C6A207ACBEB1E8&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" group-title="5.1", TLC HD 5.1 
- http://66.102.126.10:8000/a022/index.m3u8
+ #http://66.102.126.10:8000/a022/index.m3u8
 
 #================================== English Movies Section ==================================
 
