@@ -1,6 +1,6 @@
 #=================================
 # 🖥 Created by: Arivunidhi
-# 🕒 Last Updated: 2026-07-31 12:25 PM 
+# 🕒 Last Updated: 2026-11-12 2:45 PM 
 #==================================
 
 #EXTM3U
@@ -35,7 +35,7 @@ https://rkdy-linkgen.wasmer.app/play.php?s=1&id=44875307c44f45a21c1c
 #================================== Tamil Movie Section ==================================
 
 #EXTINF:-1 tvg-id="1016" tvg-logo="https://i.ibb.co/t42sxtN/Vijay-Super.png" group-title="BackupTamizh",Star Vijay Super SD
-http://202.70.146.135:8000/play/a008/index.m3u8
+#http://202.70.146.135:8000/play/a008/index.m3u8
 
 #EXTINF:-1 tvg-id="VijayTakkar.in@APAC" tvg-logo="https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540" group-title="BackupTamizh",Vijay Takkar APAC HD
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
@@ -50,7 +50,7 @@ https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.m
 #EXTVLCOPT:http-extra-headers=Origin: https://www.jiotv.com
 #EXTVLCOPT:http-cookie=__hdnea__=st=1791989432~exp=1792011032~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=34678402da26cb0e979e823f324298b57780d3a83fc5f6c613405c92e25a7263
 #EXTHTTP:{"Origin":"https://www.jiotv.com","Referer":"https://www.jiotv.com/","Cookie":"__hdnea__=st=1791989432~exp=1792011032~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=34678402da26cb0e979e823f324298b57780d3a83fc5f6c613405c92e25a7263"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeThiraiHD_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1791989432~exp=1792011032~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=34678402da26cb0e979e823f324298b57780d3a83fc5f6c613405c92e25a7263&referer=https://www.jiotv.com/&origin=https://www.jiotv.com&user-agent=@shoebbro
+#https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeThiraiHD_BTS/WDVLive/index.mpd?|cookie=__hdnea__=st=1791989432~exp=1792011032~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=34678402da26cb0e979e823f324298b57780d3a83fc5f6c613405c92e25a7263&referer=https://www.jiotv.com/&origin=https://www.jiotv.com&user-agent=@shoebbro
 #================================== Tamil Entertainment Section Extra ==================================
 
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/195491/200x200_SunTVHDDolbyVision_195491_4ce296b0-c6fb-424e-8711-e53b152e71ee.png" group-title="BackupTamizh",Sun TV HDR10
@@ -65,19 +65,19 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="MadhimugamTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="SDTamizh",Madhimugam TV SD
-https://cdn-3.pishow.tv/live/1476/master.m3u8
+#https://cdn-3.pishow.tv/live/1476/master.m3u8
 
 #EXTINF:-1 tvg-id="MakkalTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MAKKAL_TV/images/LOGO_HD/image.png" group-title="SDTamizh",Makkal TV SD
-https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MKSix.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MK_Six.png" group-title="SDTamizh",MK Six SD
-https://cdn-3.pishow.tv/live/1253/master.m3u8
+#https://cdn-3.pishow.tv/live/1253/master.m3u8
 
 #EXTINF:-1 tvg-id="19" tvg-name="Polimer TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="SDTamizh",Polimer TV SD
-https://cdn-2.pishow.tv/live/1241/master.m3u8
+#https://cdn-2.pishow.tv/live/1241/master.m3u8
 
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png" group-title="SDTamizh",Moon TV SD
-https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+#https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="SDTamizh",Tunes 6 SD
 https://stream.d6-pro.com/tunes6music/live/video.m3u8
@@ -86,16 +86,16 @@ https://stream.d6-pro.com/tunes6music/live/video.m3u8
 https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 
 #EXTINF:-1 tvg-id="VendharTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="SDTamizh",Vendhar TV SD
-https://cdn-3.pishow.tv/live/1271/master.m3u8
+#https://cdn-3.pishow.tv/live/1271/master.m3u8
 
 #EXTINF:-1 tvg-id="Vaanavil.in@SD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="SDTamizh",Vaanavil TV SD
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VelichamTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png" group-title="SDTamizh",Velicham TV SD
-https://cdn-3.pishow.tv/live/461/master.m3u8
+#https://cdn-3.pishow.tv/live/461/master.m3u8
 
 #EXTINF:-1 tvg-id="ddtamil.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/DD_Tamil.jpg" group-title="SDTamizh",DD Tamil SD
-https://cdn-2.pishow.tv/live/26/master.m3u8
+#https://cdn-2.pishow.tv/live/26/master.m3u8
 
 #EXTINF:-1 tvg-id="RojaMovies.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" group-title="SDTamizh",Roja Movies (1080p)
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
